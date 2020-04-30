@@ -1,0 +1,12 @@
+C:\source\HSE\HyperRecog2\SQLLib\bin\Debug\SQLLib.dll
+C:\source\HSE\HyperRecog2\SQLLib\bin\Debug\SQLLib.pdb
+C:\source\HSE\HyperRecog2\SQLLib\bin\Debug\SQLite-net.dll
+C:\source\HSE\HyperRecog2\SQLLib\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\source\HSE\HyperRecog2\SQLLib\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\source\HSE\HyperRecog2\SQLLib\bin\Debug\SQLitePCLRaw.core.dll
+C:\source\HSE\HyperRecog2\SQLLib\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\source\HSE\HyperRecog2\SQLLib\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\source\HSE\HyperRecog2\SQLLib\obj\Debug\SQLLib.csprojAssemblyReference.cache
+C:\source\HSE\HyperRecog2\SQLLib\obj\Debug\SQLLib.csproj.CopyComplete
+C:\source\HSE\HyperRecog2\SQLLib\obj\Debug\SQLLib.dll
+C:\source\HSE\HyperRecog2\SQLLib\obj\Debug\SQLLib.pdb
