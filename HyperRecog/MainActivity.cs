@@ -18,7 +18,7 @@ using System.Text;
 
 namespace HyperRecog
 {
-    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
+    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme")]
     public class MainActivity : Activity
     {
         Button cameraButton;

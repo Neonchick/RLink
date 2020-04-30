@@ -10,18 +10,18 @@
   <uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
   <application android:allowBackup="true" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:roundIcon="@mipmap/ic_launcher_round" android:supportsRtl="true" android:theme="@style/AppTheme" android:name="android.app.Application" android:debuggable="true">
     <provider android:name="android.support.v4.content.FileProvider" android:authorities="com.companyname.hyperrecog.fileprovider" android:exported="false" android:grantUriPermissions="true">
-      <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/provider_paths" />
+      <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths"></meta-data>
       <meta-data android:name="com.google.android.gms.vision.DEPENDENCIES" android:value="ocr" />
     </provider>
     <activity android:label="ChooseActivity" android:name="md5cd434b9a33ac0d89819b8df45eb193b7.ChooseActivity" />
     <activity android:label="@string/app_name" android:theme="@style/AppTheme" android:name="md5cd434b9a33ac0d89819b8df45eb193b7.ResultActivity" />
-    <activity android:label="@string/app_name" android:theme="@style/AppTheme" android:name="md5cd434b9a33ac0d89819b8df45eb193b7.MainActivity">
+    <activity android:label="@string/app_name" android:theme="@style/AppTheme" android:name="md5cd434b9a33ac0d89819b8df45eb193b7.MainActivity" />
+    <activity android:label="@string/app_name" android:theme="@style/AppTheme" android:name="md5cd434b9a33ac0d89819b8df45eb193b7.SavedActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <activity android:label="@string/app_name" android:theme="@style/AppTheme" android:name="md5cd434b9a33ac0d89819b8df45eb193b7.SavedActivity" />
     <receiver android:enabled="true" android:exported="false" android:label="Connectivity Plugin Broadcast Receiver" android:name="md59628c2715c1bb8febcc7ae8402df0582.ConnectivityChangeBroadcastReceiver" />
     <activity android:configChanges="orientation|screenSize|uiMode" android:name="md54cd65ac53ae710bff80022afc423e0f3.MediaPickerActivity" />
     <service android:name="md5dcb6eccdc824e0677ffae8ccdde42930.KeepAliveService" />

@@ -15,7 +15,7 @@ using SQLLib;
 
 namespace HyperRecog
 {
-    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme")]
+    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
     public class SavedActivity : Activity
     {
         Button newLinkButton;

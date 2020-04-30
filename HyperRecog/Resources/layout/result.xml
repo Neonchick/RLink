@@ -41,15 +41,4 @@
         android:layout_width="200dp"
         android:layout_gravity ="center"
         android:id="@+id/saveButton" />
-    <Button
-        android:text="Сохранить"
-        android:layout_height="50dp"
-        android:layout_width="200dp"
-        android:layout_gravity ="center"
-        android:id="@+id/saveButton2" />
-    <EditText
-        android:inputType="textUri"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/test" />
 </LinearLayout>
