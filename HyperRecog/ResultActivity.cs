@@ -21,7 +21,6 @@ namespace HyperRecog
     public class ResultActivity : Activity
     {
         EditText link;
-        EditText test;
 
         Button copyButton;
         Button goToLinkButton;
@@ -53,11 +52,9 @@ namespace HyperRecog
 
         private void SaveButton_Click(object sender, EventArgs e)
         {
-            string dbPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "links.db3");
-            var db = new SQLiteConnection(dbPath);
-            db.CreateTable<DBElem>();
-            DBElem linkDB = new DBElem("test", link.Text);
-            db.Insert(linkDB);   
+            Intent intent = new Intent(this, typeof(SaveNewLinkActivity));
+            intent.PutExtra("saveNewLink", link.Text);
+            StartActivity(intent);
         }
 
         private async void ShareButton_Click(object sender, EventArgs e)

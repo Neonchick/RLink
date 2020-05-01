@@ -24,8 +24,6 @@ namespace HyperRecog
 
         List<DBElem> savedList;
 
-        static byte[] imageArray;
-
         readonly string[] permissionGroup =
         {
             Manifest.Permission.ReadExternalStorage,

@@ -409,3 +409,5 @@ C:\source\HSE\HyperRecog2\HyperRecog\obj\Debug\90\res\layout\activity_main.xml
 C:\source\HSE\HyperRecog2\HyperRecog\obj\Debug\90\res\layout\saved.xml
 C:\source\HSE\HyperRecog2\HyperRecog\obj\Debug\90\android\src\md5cd434b9a33ac0d89819b8df45eb193b7\MyAdapter.java
 C:\source\HSE\HyperRecog2\HyperRecog\obj\Debug\90\android\src\md5cd434b9a33ac0d89819b8df45eb193b7\SavedActivity.java
+C:\source\HSE\HyperRecog2\HyperRecog\obj\Debug\90\res\layout\save_new_link.xml
+C:\source\HSE\HyperRecog2\HyperRecog\obj\Debug\90\android\src\md5cd434b9a33ac0d89819b8df45eb193b7\SaveNewLinkActivity.java

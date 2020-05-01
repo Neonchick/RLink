@@ -3,7 +3,8 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:padding = "20dp">
     <TextView
         android:text="Сохраненные ссылки:"
         android:textSize = "24dp"
@@ -19,7 +20,6 @@
             android:layout_weight="1"
             android:id="@+id/savedListView" />
     <Button
-        android:layout_margin ="10dp"
         android:text="Распознать новую ссылку"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

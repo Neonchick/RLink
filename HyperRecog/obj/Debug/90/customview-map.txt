@@ -7,12 +7,14 @@ Button;obj\Debug\90\res\layout\activity\result.xml
 Button;obj\Debug\90\res\layout\activity_main.xml
 Button;obj\Debug\90\res\layout\activity_main2.xml
 Button;obj\Debug\90\res\layout\result.xml
+Button;obj\Debug\90\res\layout\save_new_link.xml
 Button;obj\Debug\90\res\layout\saved.xml
 cache-path;C:\source\HSE\HyperRecog2\HyperRecog\obj\Debug\90\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;obj\Debug\90\res\values\colors.xml
 color;obj\Debug\90\res\values\ic_launcher_background.xml
 EditText;obj\Debug\90\res\layout\activity\result.xml
 EditText;obj\Debug\90\res\layout\result.xml
+EditText;obj\Debug\90\res\layout\save_new_link.xml
 external-cache-path;C:\source\HSE\HyperRecog2\HyperRecog\obj\Debug\90\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 external-files-path;obj\Debug\90\res\xml\file_paths.xml
 external-path;C:\source\HSE\HyperRecog2\HyperRecog\obj\Debug\90\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
@@ -33,6 +35,7 @@ LinearLayout;obj\Debug\90\res\layout\list_view.xml
 LinearLayout;obj\Debug\90\res\layout\list_view\layout1.xml
 LinearLayout;obj\Debug\90\res\layout\list_view\list_view.xml
 LinearLayout;obj\Debug\90\res\layout\result.xml
+LinearLayout;obj\Debug\90\res\layout\save_new_link.xml
 LinearLayout;obj\Debug\90\res\layout\saved.xml
 ListView;obj\Debug\90\res\layout\activity\choose.xml
 ListView;obj\Debug\90\res\layout\choose.xml
@@ -47,6 +50,8 @@ ScrollView;obj\Debug\90\res\layout\saved.xml
 string;obj\Debug\90\res\values\strings.xml
 style;obj\Debug\90\res\values\styles.xml
 TextView;obj\Debug\90\res\layout\activity\result.xml
+TextView;obj\Debug\90\res\layout\choose.xml
 TextView;obj\Debug\90\res\layout\list_view.xml
 TextView;obj\Debug\90\res\layout\result.xml
+TextView;obj\Debug\90\res\layout\save_new_link.xml
 TextView;obj\Debug\90\res\layout\saved.xml
