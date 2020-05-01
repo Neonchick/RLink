@@ -27,7 +27,6 @@ namespace HyperRecog
         Button goToLinkButton;
         Button shareButton;
         Button saveButton;
-        Button saveButton2;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -50,16 +49,6 @@ namespace HyperRecog
 
             saveButton = FindViewById<Button>(Resource.Id.saveButton);
             saveButton.Click += SaveButton_Click;
-
-            saveButton2 = FindViewById<Button>(Resource.Id.saveButton2);
-            saveButton2.Click += SaveButton2_Click;
-
-            test = FindViewById<EditText>(Resource.Id.test);
-        }
-
-        private void SaveButton2_Click(object sender, EventArgs e)
-        {
-            
         }
 
         private void SaveButton_Click(object sender, EventArgs e)

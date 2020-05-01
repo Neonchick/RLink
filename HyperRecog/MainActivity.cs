@@ -15,6 +15,7 @@ using Newtonsoft.Json;
 using ResponseLIb;
 using System.Threading.Tasks;
 using System.Text;
+using Xamarin.Essentials;
 
 namespace HyperRecog
 {
@@ -32,7 +33,8 @@ namespace HyperRecog
         {
             Manifest.Permission.ReadExternalStorage,
             Manifest.Permission.WriteExternalStorage,
-            Manifest.Permission.Camera
+            Manifest.Permission.Camera,
+            Manifest.Permission.AccessNetworkState
         };
 
         protected override void OnCreate(Bundle savedInstanceState)
@@ -85,6 +87,14 @@ namespace HyperRecog
             if (imageArray == null)
             {
                 Toast.MakeText(this, "Фото не выбрано", ToastLength.Short).Show();
+                return;
+            }
+
+            var current = Connectivity.NetworkAccess;
+
+            if (current != NetworkAccess.Internet)
+            {
+                Toast.MakeText(this, "Необходимо подключение к интернету", ToastLength.Short).Show();
                 return;
             }
 

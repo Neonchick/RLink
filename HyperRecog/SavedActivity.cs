@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
-
+using Android;
 using Android.App;
 using Android.Content;
 using Android.OS;
@@ -22,6 +22,18 @@ namespace HyperRecog
 
         ListView savedListView;
 
+        List<DBElem> savedList;
+
+        static byte[] imageArray;
+
+        readonly string[] permissionGroup =
+        {
+            Manifest.Permission.ReadExternalStorage,
+            Manifest.Permission.WriteExternalStorage,
+            Manifest.Permission.Camera,
+            Manifest.Permission.AccessNetworkState
+        };
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -32,14 +44,20 @@ namespace HyperRecog
             newLinkButton.Click += NewLinkButton_Click;
 
             savedListView = FindViewById<ListView>(Resource.Id.savedListView);
+            savedListView.ItemClick += SavedListView_ItemClick;
+
+            RequestPermissions(permissionGroup, 0);
+        }
+
+        protected override void OnResume()
+        {
+            base.OnResume();
             string dbPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "links.db3");
             var db = new SQLiteConnection(dbPath);
             db.CreateTable<DBElem>();
-            List<DBElem> savedList = db.Table<DBElem>().ToList();
+            savedList = db.Table<DBElem>().ToList();
             MyAdapter adapter = new MyAdapter(this, savedList);
             savedListView.Adapter = adapter;
-            savedListView.ItemClick += SavedListView_ItemClick;
-
             if (savedList.Count == 0)
             {
                 Intent intent = new Intent(this, typeof(MainActivity));
