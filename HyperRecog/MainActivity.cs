@@ -60,11 +60,14 @@ namespace HyperRecog
 
         private async void UploadButton_Click(object sender, System.EventArgs e)
         {
+            uploadButton.Clickable = false;
+
             await CrossMedia.Current.Initialize();
 
             if (!CrossMedia.Current.IsPickPhotoSupported)
             {
                 Toast.MakeText(this, "Невозможно загрузить фотографию", ToastLength.Short).Show();
+                uploadButton.Clickable = true;
                 return;
             }
 
@@ -75,18 +78,26 @@ namespace HyperRecog
             });
 
             if (file == null)
+            {
+                uploadButton.Clickable = true;
                 return;
+            }
 
             imageArray = System.IO.File.ReadAllBytes(file.Path);
             Bitmap bitmap = BitmapFactory.DecodeByteArray(imageArray, 0, imageArray.Length);
             imageView.SetImageBitmap(bitmap);
+
+            uploadButton.Clickable = true;
         }
 
         private async void RecogniseButton_ClickAsync(object sender, System.EventArgs e)
         {
+            recogniseButton.Clickable = false;
+
             if (imageArray == null)
             {
                 Toast.MakeText(this, "Фото не выбрано", ToastLength.Short).Show();
+                recogniseButton.Clickable = true;
                 return;
             }
 
@@ -95,6 +106,7 @@ namespace HyperRecog
             if (current != NetworkAccess.Internet)
             {
                 Toast.MakeText(this, "Необходимо подключение к интернету", ToastLength.Short).Show();
+                recogniseButton.Clickable = true;
                 return;
             }
 
@@ -103,19 +115,15 @@ namespace HyperRecog
             await MakeRequest(recognizedLinks);
 
             if (recognizedLinks.Count == 0)
-            {
-                Intent intent = new Intent(this, typeof(ResultActivity));
-                intent.PutExtra("recognizedLink", "Ничего не распознаннно");
-                StartActivity(intent);
-            }
-            else
+                Toast.MakeText(this, "Ничего не распознаннно", ToastLength.Short).Show();
+            else 
             {
                 Intent intent = new Intent(this, typeof(ChooseActivity));
                 intent.PutExtra("linkList", recognizedLinks.ToArray());
                 StartActivity(intent);
             }
 
-
+            recogniseButton.Clickable = true;
         }
 
         async Task MakeRequest(List<string> recognizedLinks)
@@ -157,7 +165,14 @@ namespace HyperRecog
                             stringLine.Append(word.Text);
                         }
                         if (Regex.IsMatch(stringLine.ToString(), @".*(https?|ftp|www){1,}.*", RegexOptions.IgnoreCase))
-                            recognizedLinks.Add(stringLine.ToString());
+                        {
+                            bool f = true;
+                            foreach (var elem in recognizedLinks)
+                                if (stringLine.ToString() == elem)
+                                    f = false;
+                            if (f)
+                                recognizedLinks.Add(stringLine.ToString());
+                        }
                     }
             }
             else Toast.MakeText(this, "Неудачный запрос", ToastLength.Short).Show();
@@ -165,6 +180,7 @@ namespace HyperRecog
 
         private async void CameraButton_Click(object sender, System.EventArgs e)
         {
+            cameraButton.Clickable = false;
             await CrossMedia.Current.Initialize();
 
             var file = await CrossMedia.Current.TakePhotoAsync(new Plugin.Media.Abstractions.StoreCameraMediaOptions
@@ -176,11 +192,15 @@ namespace HyperRecog
             });
 
             if (file == null)
+            {
+                cameraButton.Clickable = true;
                 return;
+            }
 
             imageArray = System.IO.File.ReadAllBytes(file.Path);
             Bitmap bitmap = BitmapFactory.DecodeByteArray(imageArray, 0, imageArray.Length);
             imageView.SetImageBitmap(bitmap);
+            cameraButton.Clickable = true;
         }
 
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)

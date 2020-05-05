@@ -54,6 +54,7 @@ namespace HyperRecog
             var db = new SQLiteConnection(dbPath);
             db.CreateTable<DBElem>();
             savedList = db.Table<DBElem>().ToList();
+            savedList.Reverse();
             MyAdapter adapter = new MyAdapter(this, savedList);
             savedListView.Adapter = adapter;
             if (savedList.Count == 0)
@@ -65,13 +66,23 @@ namespace HyperRecog
 
         private void SavedListView_ItemClick(object sender, AdapterView.ItemClickEventArgs e)
         {
-            
+            Intent intent = new Intent(this, typeof(LoadActivity));
+            var item = savedList[e.Position];
+            intent.PutExtra("loadId", item.Id);
+            intent.PutExtra("loadName", item.Name);
+            intent.PutExtra("loadLink", item.Link);
+            intent.PutExtra("loadDescription", item.Description);
+            StartActivity(intent);
         }
 
         private void NewLinkButton_Click(object sender, EventArgs e)
         {
+            newLinkButton.Clickable = false;
+
             Intent intent = new Intent(this, typeof(MainActivity));
             StartActivity(intent);
+
+            newLinkButton.Clickable = true;
         }
 
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)

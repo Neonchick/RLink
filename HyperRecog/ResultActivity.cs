@@ -52,30 +52,46 @@ namespace HyperRecog
 
         private void SaveButton_Click(object sender, EventArgs e)
         {
+            saveButton.Clickable = false;
+
             Intent intent = new Intent(this, typeof(SaveNewLinkActivity));
             intent.PutExtra("saveNewLink", link.Text);
             StartActivity(intent);
+
+            saveButton.Clickable = true;
         }
 
         private async void ShareButton_Click(object sender, EventArgs e)
         {
+            shareButton.Clickable = false;
+
             await Share.RequestAsync(new ShareTextRequest
             {
                 Uri = link.Text,
                 Title = "Поделиться ссылкой"
             });
+
+            shareButton.Clickable = true;
         }
 
         private void GoToLinkButton_Click(object sender, EventArgs e)
         {
+            goToLinkButton.Clickable = false;
+
             var intent = new Intent(Intent.ActionView, Android.Net.Uri.Parse(link.Text));
             StartActivity(intent);
+
+            goToLinkButton.Clickable = true;
         }
 
         private async void CopyButton_Click(object sender, EventArgs e)
         {
+            copyButton.Clickable = false;
+
             await Clipboard.SetTextAsync(link.Text);
             Toast.MakeText(this, "Ссылка скопирована", ToastLength.Short).Show();
+
+            copyButton.Clickable = true;
         }
 
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)

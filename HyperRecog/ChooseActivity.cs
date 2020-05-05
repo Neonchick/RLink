@@ -12,7 +12,7 @@ using Android.Widget;
 
 namespace HyperRecog
 {
-    [Activity(Label = "ChooseActivity")]
+    [Activity(Label = "ChooseActivity", Theme = "@style/AppTheme")]
     public class ChooseActivity : Activity
     {
         ListView linkListView;
@@ -27,7 +27,7 @@ namespace HyperRecog
 
             linkList = Intent.GetStringArrayExtra("linkList").ToList<string>();
             linkListView = (ListView)FindViewById(Resource.Id.linkListView);
-            ArrayAdapter<string> adapter = new ArrayAdapter<string>(this, Android.Resource.Layout.SimpleListItem1, linkList);
+            MyAdapterLittle adapter = new MyAdapterLittle(this, linkList);
             linkListView.Adapter = adapter;
             linkListView.ItemClick += LinkListView_ItemClick;
         }

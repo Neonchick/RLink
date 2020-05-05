@@ -15,7 +15,7 @@ using SQLLib;
 
 namespace HyperRecog
 {
-    [Activity(Label = "SaveNewLinkActivity")]
+    [Activity(Label = "SaveNewLinkActivity", Theme = "@style/AppTheme")]
     public class SaveNewLinkActivity : Activity
     {
         Button saveButton;
@@ -42,12 +42,16 @@ namespace HyperRecog
 
         private void SaveButton_Click(object sender, EventArgs e)
         {
+            saveButton.Clickable = false;
+            if (name.Text == "")
+                name.Text = "Без названия";
             string dbPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "links.db3");
             var db = new SQLiteConnection(dbPath);
             db.CreateTable<DBElem>();
             DBElem linkDB = new DBElem(name.Text, link.Text, description.Text);
             db.Insert(linkDB);
             this.Finish();
+            saveButton.Clickable = true;
         }
     }
 }
