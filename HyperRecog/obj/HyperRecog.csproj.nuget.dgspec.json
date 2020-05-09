@@ -45,10 +45,6 @@
       "frameworks": {
         "monoandroid90": {
           "dependencies": {
-            "MagicGradients": {
-              "target": "Package",
-              "version": "[1.0.0, )"
-            },
             "Microsoft.Azure.CognitiveServices.Vision.ComputerVision": {
               "target": "Package",
               "version": "[5.0.0, )"

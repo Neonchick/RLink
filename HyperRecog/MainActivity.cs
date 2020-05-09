@@ -151,6 +151,8 @@ namespace HyperRecog
             }
             var responseString = await httpResponseMessage.Content.ReadAsStringAsync();
 
+            Toast.MakeText(this, "Тута", ToastLength.Short).Show();
+
             if (httpResponseMessage.IsSuccessStatusCode)
             {
                 Response response = JsonConvert.DeserializeObject<Response>(responseString);

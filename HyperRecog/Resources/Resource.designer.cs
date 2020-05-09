@@ -390,2568 +390,6 @@ namespace HyperRecog
 			global::Xamarin.Essentials.Resource.Styleable.GradientColor_android_tileMode = global::HyperRecog.Resource.Styleable.GradientColor_android_tileMode;
 			global::Xamarin.Essentials.Resource.Styleable.GradientColor_android_type = global::HyperRecog.Resource.Styleable.GradientColor_android_type;
 			global::Xamarin.Essentials.Resource.Xml.xamarin_essentials_fileprovider_file_paths = global::HyperRecog.Resource.Xml.xamarin_essentials_fileprovider_file_paths;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_in = global::HyperRecog.Resource.Animation.abc_fade_in;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_out = global::HyperRecog.Resource.Animation.abc_fade_out;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::HyperRecog.Resource.Animation.abc_grow_fade_in_from_bottom;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_popup_enter = global::HyperRecog.Resource.Animation.abc_popup_enter;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_popup_exit = global::HyperRecog.Resource.Animation.abc_popup_exit;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::HyperRecog.Resource.Animation.abc_shrink_fade_out_from_bottom;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_in_bottom = global::HyperRecog.Resource.Animation.abc_slide_in_bottom;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_in_top = global::HyperRecog.Resource.Animation.abc_slide_in_top;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_out_bottom = global::HyperRecog.Resource.Animation.abc_slide_out_bottom;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_out_top = global::HyperRecog.Resource.Animation.abc_slide_out_top;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_tooltip_enter = global::HyperRecog.Resource.Animation.abc_tooltip_enter;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_tooltip_exit = global::HyperRecog.Resource.Animation.abc_tooltip_exit;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_bottom_sheet_slide_in = global::HyperRecog.Resource.Animation.design_bottom_sheet_slide_in;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_bottom_sheet_slide_out = global::HyperRecog.Resource.Animation.design_bottom_sheet_slide_out;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_snackbar_in = global::HyperRecog.Resource.Animation.design_snackbar_in;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_snackbar_out = global::HyperRecog.Resource.Animation.design_snackbar_out;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.EnterFromLeft = global::HyperRecog.Resource.Animation.EnterFromLeft;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.EnterFromRight = global::HyperRecog.Resource.Animation.EnterFromRight;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.ExitToLeft = global::HyperRecog.Resource.Animation.ExitToLeft;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.ExitToRight = global::HyperRecog.Resource.Animation.ExitToRight;
-			global::Xamarin.Forms.Platform.Android.Resource.Animator.design_appbar_state_list_animator = global::HyperRecog.Resource.Animator.design_appbar_state_list_animator;
-			global::Xamarin.Forms.Platform.Android.Resource.Animator.design_fab_hide_motion_spec = global::HyperRecog.Resource.Animator.design_fab_hide_motion_spec;
-			global::Xamarin.Forms.Platform.Android.Resource.Animator.design_fab_show_motion_spec = global::HyperRecog.Resource.Animator.design_fab_show_motion_spec;
-			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_btn_state_list_anim = global::HyperRecog.Resource.Animator.mtrl_btn_state_list_anim;
-			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::HyperRecog.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
-			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_chip_state_list_anim = global::HyperRecog.Resource.Animator.mtrl_chip_state_list_anim;
-			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_fab_hide_motion_spec = global::HyperRecog.Resource.Animator.mtrl_fab_hide_motion_spec;
-			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_fab_show_motion_spec = global::HyperRecog.Resource.Animator.mtrl_fab_show_motion_spec;
-			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::HyperRecog.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
-			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::HyperRecog.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarDivider = global::HyperRecog.Resource.Attribute.actionBarDivider;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarItemBackground = global::HyperRecog.Resource.Attribute.actionBarItemBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarPopupTheme = global::HyperRecog.Resource.Attribute.actionBarPopupTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::HyperRecog.Resource.Attribute.actionBarSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSplitStyle = global::HyperRecog.Resource.Attribute.actionBarSplitStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarStyle = global::HyperRecog.Resource.Attribute.actionBarStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTabBarStyle = global::HyperRecog.Resource.Attribute.actionBarTabBarStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTabStyle = global::HyperRecog.Resource.Attribute.actionBarTabStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTabTextStyle = global::HyperRecog.Resource.Attribute.actionBarTabTextStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTheme = global::HyperRecog.Resource.Attribute.actionBarTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarWidgetTheme = global::HyperRecog.Resource.Attribute.actionBarWidgetTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionButtonStyle = global::HyperRecog.Resource.Attribute.actionButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionDropDownStyle = global::HyperRecog.Resource.Attribute.actionDropDownStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionLayout = global::HyperRecog.Resource.Attribute.actionLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionMenuTextAppearance = global::HyperRecog.Resource.Attribute.actionMenuTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionMenuTextColor = global::HyperRecog.Resource.Attribute.actionMenuTextColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeBackground = global::HyperRecog.Resource.Attribute.actionModeBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCloseButtonStyle = global::HyperRecog.Resource.Attribute.actionModeCloseButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCloseDrawable = global::HyperRecog.Resource.Attribute.actionModeCloseDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCopyDrawable = global::HyperRecog.Resource.Attribute.actionModeCopyDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCutDrawable = global::HyperRecog.Resource.Attribute.actionModeCutDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeFindDrawable = global::HyperRecog.Resource.Attribute.actionModeFindDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModePasteDrawable = global::HyperRecog.Resource.Attribute.actionModePasteDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModePopupWindowStyle = global::HyperRecog.Resource.Attribute.actionModePopupWindowStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeSelectAllDrawable = global::HyperRecog.Resource.Attribute.actionModeSelectAllDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeShareDrawable = global::HyperRecog.Resource.Attribute.actionModeShareDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeSplitBackground = global::HyperRecog.Resource.Attribute.actionModeSplitBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeStyle = global::HyperRecog.Resource.Attribute.actionModeStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeWebSearchDrawable = global::HyperRecog.Resource.Attribute.actionModeWebSearchDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionOverflowButtonStyle = global::HyperRecog.Resource.Attribute.actionOverflowButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionOverflowMenuStyle = global::HyperRecog.Resource.Attribute.actionOverflowMenuStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionProviderClass = global::HyperRecog.Resource.Attribute.actionProviderClass;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionViewClass = global::HyperRecog.Resource.Attribute.actionViewClass;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.activityChooserViewStyle = global::HyperRecog.Resource.Attribute.activityChooserViewStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::HyperRecog.Resource.Attribute.alertDialogButtonGroupStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogCenterButtons = global::HyperRecog.Resource.Attribute.alertDialogCenterButtons;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogStyle = global::HyperRecog.Resource.Attribute.alertDialogStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogTheme = global::HyperRecog.Resource.Attribute.alertDialogTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.allowStacking = global::HyperRecog.Resource.Attribute.allowStacking;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alpha = global::HyperRecog.Resource.Attribute.alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alphabeticModifiers = global::HyperRecog.Resource.Attribute.alphabeticModifiers;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.arrowHeadLength = global::HyperRecog.Resource.Attribute.arrowHeadLength;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.arrowShaftLength = global::HyperRecog.Resource.Attribute.arrowShaftLength;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoCompleteTextViewStyle = global::HyperRecog.Resource.Attribute.autoCompleteTextViewStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeMaxTextSize = global::HyperRecog.Resource.Attribute.autoSizeMaxTextSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeMinTextSize = global::HyperRecog.Resource.Attribute.autoSizeMinTextSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizePresetSizes = global::HyperRecog.Resource.Attribute.autoSizePresetSizes;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeStepGranularity = global::HyperRecog.Resource.Attribute.autoSizeStepGranularity;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeTextType = global::HyperRecog.Resource.Attribute.autoSizeTextType;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.background = global::HyperRecog.Resource.Attribute.background;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundSplit = global::HyperRecog.Resource.Attribute.backgroundSplit;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundStacked = global::HyperRecog.Resource.Attribute.backgroundStacked;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundTint = global::HyperRecog.Resource.Attribute.backgroundTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundTintMode = global::HyperRecog.Resource.Attribute.backgroundTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.barLength = global::HyperRecog.Resource.Attribute.barLength;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_autoHide = global::HyperRecog.Resource.Attribute.behavior_autoHide;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_fitToContents = global::HyperRecog.Resource.Attribute.behavior_fitToContents;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_hideable = global::HyperRecog.Resource.Attribute.behavior_hideable;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_overlapTop = global::HyperRecog.Resource.Attribute.behavior_overlapTop;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_peekHeight = global::HyperRecog.Resource.Attribute.behavior_peekHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_skipCollapsed = global::HyperRecog.Resource.Attribute.behavior_skipCollapsed;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.borderWidth = global::HyperRecog.Resource.Attribute.borderWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.borderlessButtonStyle = global::HyperRecog.Resource.Attribute.borderlessButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomAppBarStyle = global::HyperRecog.Resource.Attribute.bottomAppBarStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomNavigationStyle = global::HyperRecog.Resource.Attribute.bottomNavigationStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomSheetDialogTheme = global::HyperRecog.Resource.Attribute.bottomSheetDialogTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomSheetStyle = global::HyperRecog.Resource.Attribute.bottomSheetStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxBackgroundColor = global::HyperRecog.Resource.Attribute.boxBackgroundColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxBackgroundMode = global::HyperRecog.Resource.Attribute.boxBackgroundMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCollapsedPaddingTop = global::HyperRecog.Resource.Attribute.boxCollapsedPaddingTop;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCornerRadiusBottomEnd = global::HyperRecog.Resource.Attribute.boxCornerRadiusBottomEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCornerRadiusBottomStart = global::HyperRecog.Resource.Attribute.boxCornerRadiusBottomStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCornerRadiusTopEnd = global::HyperRecog.Resource.Attribute.boxCornerRadiusTopEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCornerRadiusTopStart = global::HyperRecog.Resource.Attribute.boxCornerRadiusTopStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxStrokeColor = global::HyperRecog.Resource.Attribute.boxStrokeColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxStrokeWidth = global::HyperRecog.Resource.Attribute.boxStrokeWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarButtonStyle = global::HyperRecog.Resource.Attribute.buttonBarButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::HyperRecog.Resource.Attribute.buttonBarNegativeButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::HyperRecog.Resource.Attribute.buttonBarNeutralButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::HyperRecog.Resource.Attribute.buttonBarPositiveButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarStyle = global::HyperRecog.Resource.Attribute.buttonBarStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonGravity = global::HyperRecog.Resource.Attribute.buttonGravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonIconDimen = global::HyperRecog.Resource.Attribute.buttonIconDimen;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonPanelSideLayout = global::HyperRecog.Resource.Attribute.buttonPanelSideLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonStyle = global::HyperRecog.Resource.Attribute.buttonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonStyleSmall = global::HyperRecog.Resource.Attribute.buttonStyleSmall;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonTint = global::HyperRecog.Resource.Attribute.buttonTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonTintMode = global::HyperRecog.Resource.Attribute.buttonTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardBackgroundColor = global::HyperRecog.Resource.Attribute.cardBackgroundColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardCornerRadius = global::HyperRecog.Resource.Attribute.cardCornerRadius;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardElevation = global::HyperRecog.Resource.Attribute.cardElevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardMaxElevation = global::HyperRecog.Resource.Attribute.cardMaxElevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardPreventCornerOverlap = global::HyperRecog.Resource.Attribute.cardPreventCornerOverlap;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardUseCompatPadding = global::HyperRecog.Resource.Attribute.cardUseCompatPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardViewStyle = global::HyperRecog.Resource.Attribute.cardViewStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkboxStyle = global::HyperRecog.Resource.Attribute.checkboxStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedChip = global::HyperRecog.Resource.Attribute.checkedChip;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedIcon = global::HyperRecog.Resource.Attribute.checkedIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedIconEnabled = global::HyperRecog.Resource.Attribute.checkedIconEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedIconVisible = global::HyperRecog.Resource.Attribute.checkedIconVisible;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedTextViewStyle = global::HyperRecog.Resource.Attribute.checkedTextViewStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipBackgroundColor = global::HyperRecog.Resource.Attribute.chipBackgroundColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipCornerRadius = global::HyperRecog.Resource.Attribute.chipCornerRadius;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipEndPadding = global::HyperRecog.Resource.Attribute.chipEndPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipGroupStyle = global::HyperRecog.Resource.Attribute.chipGroupStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIcon = global::HyperRecog.Resource.Attribute.chipIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIconEnabled = global::HyperRecog.Resource.Attribute.chipIconEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIconSize = global::HyperRecog.Resource.Attribute.chipIconSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIconTint = global::HyperRecog.Resource.Attribute.chipIconTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIconVisible = global::HyperRecog.Resource.Attribute.chipIconVisible;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipMinHeight = global::HyperRecog.Resource.Attribute.chipMinHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipSpacing = global::HyperRecog.Resource.Attribute.chipSpacing;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipSpacingHorizontal = global::HyperRecog.Resource.Attribute.chipSpacingHorizontal;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipSpacingVertical = global::HyperRecog.Resource.Attribute.chipSpacingVertical;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStandaloneStyle = global::HyperRecog.Resource.Attribute.chipStandaloneStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStartPadding = global::HyperRecog.Resource.Attribute.chipStartPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStrokeColor = global::HyperRecog.Resource.Attribute.chipStrokeColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStrokeWidth = global::HyperRecog.Resource.Attribute.chipStrokeWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStyle = global::HyperRecog.Resource.Attribute.chipStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIcon = global::HyperRecog.Resource.Attribute.closeIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconEnabled = global::HyperRecog.Resource.Attribute.closeIconEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconEndPadding = global::HyperRecog.Resource.Attribute.closeIconEndPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconSize = global::HyperRecog.Resource.Attribute.closeIconSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconStartPadding = global::HyperRecog.Resource.Attribute.closeIconStartPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconTint = global::HyperRecog.Resource.Attribute.closeIconTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconVisible = global::HyperRecog.Resource.Attribute.closeIconVisible;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeItemLayout = global::HyperRecog.Resource.Attribute.closeItemLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapseContentDescription = global::HyperRecog.Resource.Attribute.collapseContentDescription;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapseIcon = global::HyperRecog.Resource.Attribute.collapseIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapsedTitleGravity = global::HyperRecog.Resource.Attribute.collapsedTitleGravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapsedTitleTextAppearance = global::HyperRecog.Resource.Attribute.collapsedTitleTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.color = global::HyperRecog.Resource.Attribute.color;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorAccent = global::HyperRecog.Resource.Attribute.colorAccent;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorBackgroundFloating = global::HyperRecog.Resource.Attribute.colorBackgroundFloating;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorButtonNormal = global::HyperRecog.Resource.Attribute.colorButtonNormal;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorControlActivated = global::HyperRecog.Resource.Attribute.colorControlActivated;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorControlHighlight = global::HyperRecog.Resource.Attribute.colorControlHighlight;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorControlNormal = global::HyperRecog.Resource.Attribute.colorControlNormal;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorError = global::HyperRecog.Resource.Attribute.colorError;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorPrimary = global::HyperRecog.Resource.Attribute.colorPrimary;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorPrimaryDark = global::HyperRecog.Resource.Attribute.colorPrimaryDark;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorSecondary = global::HyperRecog.Resource.Attribute.colorSecondary;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorSwitchThumbNormal = global::HyperRecog.Resource.Attribute.colorSwitchThumbNormal;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.commitIcon = global::HyperRecog.Resource.Attribute.commitIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentDescription = global::HyperRecog.Resource.Attribute.contentDescription;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetEnd = global::HyperRecog.Resource.Attribute.contentInsetEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetEndWithActions = global::HyperRecog.Resource.Attribute.contentInsetEndWithActions;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetLeft = global::HyperRecog.Resource.Attribute.contentInsetLeft;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetRight = global::HyperRecog.Resource.Attribute.contentInsetRight;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetStart = global::HyperRecog.Resource.Attribute.contentInsetStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetStartWithNavigation = global::HyperRecog.Resource.Attribute.contentInsetStartWithNavigation;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPadding = global::HyperRecog.Resource.Attribute.contentPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingBottom = global::HyperRecog.Resource.Attribute.contentPaddingBottom;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingLeft = global::HyperRecog.Resource.Attribute.contentPaddingLeft;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingRight = global::HyperRecog.Resource.Attribute.contentPaddingRight;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingTop = global::HyperRecog.Resource.Attribute.contentPaddingTop;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentScrim = global::HyperRecog.Resource.Attribute.contentScrim;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.controlBackground = global::HyperRecog.Resource.Attribute.controlBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.coordinatorLayoutStyle = global::HyperRecog.Resource.Attribute.coordinatorLayoutStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cornerRadius = global::HyperRecog.Resource.Attribute.cornerRadius;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterEnabled = global::HyperRecog.Resource.Attribute.counterEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterMaxLength = global::HyperRecog.Resource.Attribute.counterMaxLength;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterOverflowTextAppearance = global::HyperRecog.Resource.Attribute.counterOverflowTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterTextAppearance = global::HyperRecog.Resource.Attribute.counterTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.customNavigationLayout = global::HyperRecog.Resource.Attribute.customNavigationLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.defaultQueryHint = global::HyperRecog.Resource.Attribute.defaultQueryHint;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dialogCornerRadius = global::HyperRecog.Resource.Attribute.dialogCornerRadius;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dialogPreferredPadding = global::HyperRecog.Resource.Attribute.dialogPreferredPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dialogTheme = global::HyperRecog.Resource.Attribute.dialogTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.displayOptions = global::HyperRecog.Resource.Attribute.displayOptions;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.divider = global::HyperRecog.Resource.Attribute.divider;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dividerHorizontal = global::HyperRecog.Resource.Attribute.dividerHorizontal;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dividerPadding = global::HyperRecog.Resource.Attribute.dividerPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dividerVertical = global::HyperRecog.Resource.Attribute.dividerVertical;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.drawableSize = global::HyperRecog.Resource.Attribute.drawableSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.drawerArrowStyle = global::HyperRecog.Resource.Attribute.drawerArrowStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dropDownListViewStyle = global::HyperRecog.Resource.Attribute.dropDownListViewStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::HyperRecog.Resource.Attribute.dropdownListPreferredItemHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextBackground = global::HyperRecog.Resource.Attribute.editTextBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextColor = global::HyperRecog.Resource.Attribute.editTextColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextStyle = global::HyperRecog.Resource.Attribute.editTextStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.elevation = global::HyperRecog.Resource.Attribute.elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.enforceMaterialTheme = global::HyperRecog.Resource.Attribute.enforceMaterialTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.enforceTextAppearance = global::HyperRecog.Resource.Attribute.enforceTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.errorEnabled = global::HyperRecog.Resource.Attribute.errorEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.errorTextAppearance = global::HyperRecog.Resource.Attribute.errorTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::HyperRecog.Resource.Attribute.expandActivityOverflowButtonDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expanded = global::HyperRecog.Resource.Attribute.expanded;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleGravity = global::HyperRecog.Resource.Attribute.expandedTitleGravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMargin = global::HyperRecog.Resource.Attribute.expandedTitleMargin;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginBottom = global::HyperRecog.Resource.Attribute.expandedTitleMarginBottom;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginEnd = global::HyperRecog.Resource.Attribute.expandedTitleMarginEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginStart = global::HyperRecog.Resource.Attribute.expandedTitleMarginStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginTop = global::HyperRecog.Resource.Attribute.expandedTitleMarginTop;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleTextAppearance = global::HyperRecog.Resource.Attribute.expandedTitleTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabAlignmentMode = global::HyperRecog.Resource.Attribute.fabAlignmentMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCradleMargin = global::HyperRecog.Resource.Attribute.fabCradleMargin;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCradleRoundedCornerRadius = global::HyperRecog.Resource.Attribute.fabCradleRoundedCornerRadius;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCradleVerticalOffset = global::HyperRecog.Resource.Attribute.fabCradleVerticalOffset;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCustomSize = global::HyperRecog.Resource.Attribute.fabCustomSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabSize = global::HyperRecog.Resource.Attribute.fabSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollEnabled = global::HyperRecog.Resource.Attribute.fastScrollEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::HyperRecog.Resource.Attribute.fastScrollHorizontalThumbDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::HyperRecog.Resource.Attribute.fastScrollHorizontalTrackDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollVerticalThumbDrawable = global::HyperRecog.Resource.Attribute.fastScrollVerticalThumbDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollVerticalTrackDrawable = global::HyperRecog.Resource.Attribute.fastScrollVerticalTrackDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.firstBaselineToTopHeight = global::HyperRecog.Resource.Attribute.firstBaselineToTopHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.floatingActionButtonStyle = global::HyperRecog.Resource.Attribute.floatingActionButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.font = global::HyperRecog.Resource.Attribute.font;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontFamily = global::HyperRecog.Resource.Attribute.fontFamily;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderAuthority = global::HyperRecog.Resource.Attribute.fontProviderAuthority;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderCerts = global::HyperRecog.Resource.Attribute.fontProviderCerts;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderFetchStrategy = global::HyperRecog.Resource.Attribute.fontProviderFetchStrategy;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderFetchTimeout = global::HyperRecog.Resource.Attribute.fontProviderFetchTimeout;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderPackage = global::HyperRecog.Resource.Attribute.fontProviderPackage;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderQuery = global::HyperRecog.Resource.Attribute.fontProviderQuery;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontStyle = global::HyperRecog.Resource.Attribute.fontStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontVariationSettings = global::HyperRecog.Resource.Attribute.fontVariationSettings;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontWeight = global::HyperRecog.Resource.Attribute.fontWeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.foregroundInsidePadding = global::HyperRecog.Resource.Attribute.foregroundInsidePadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.gapBetweenBars = global::HyperRecog.Resource.Attribute.gapBetweenBars;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.goIcon = global::HyperRecog.Resource.Attribute.goIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.headerLayout = global::HyperRecog.Resource.Attribute.headerLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.height = global::HyperRecog.Resource.Attribute.height;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.helperText = global::HyperRecog.Resource.Attribute.helperText;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.helperTextEnabled = global::HyperRecog.Resource.Attribute.helperTextEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.helperTextTextAppearance = global::HyperRecog.Resource.Attribute.helperTextTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hideMotionSpec = global::HyperRecog.Resource.Attribute.hideMotionSpec;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hideOnContentScroll = global::HyperRecog.Resource.Attribute.hideOnContentScroll;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hideOnScroll = global::HyperRecog.Resource.Attribute.hideOnScroll;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hintAnimationEnabled = global::HyperRecog.Resource.Attribute.hintAnimationEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hintEnabled = global::HyperRecog.Resource.Attribute.hintEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hintTextAppearance = global::HyperRecog.Resource.Attribute.hintTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.homeAsUpIndicator = global::HyperRecog.Resource.Attribute.homeAsUpIndicator;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.homeLayout = global::HyperRecog.Resource.Attribute.homeLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hoveredFocusedTranslationZ = global::HyperRecog.Resource.Attribute.hoveredFocusedTranslationZ;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.icon = global::HyperRecog.Resource.Attribute.icon;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconEndPadding = global::HyperRecog.Resource.Attribute.iconEndPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconGravity = global::HyperRecog.Resource.Attribute.iconGravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconPadding = global::HyperRecog.Resource.Attribute.iconPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconSize = global::HyperRecog.Resource.Attribute.iconSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconStartPadding = global::HyperRecog.Resource.Attribute.iconStartPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconTint = global::HyperRecog.Resource.Attribute.iconTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconTintMode = global::HyperRecog.Resource.Attribute.iconTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconifiedByDefault = global::HyperRecog.Resource.Attribute.iconifiedByDefault;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.imageButtonStyle = global::HyperRecog.Resource.Attribute.imageButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.indeterminateProgressStyle = global::HyperRecog.Resource.Attribute.indeterminateProgressStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.initialActivityCount = global::HyperRecog.Resource.Attribute.initialActivityCount;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.insetForeground = global::HyperRecog.Resource.Attribute.insetForeground;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.isLightTheme = global::HyperRecog.Resource.Attribute.isLightTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemBackground = global::HyperRecog.Resource.Attribute.itemBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemHorizontalPadding = global::HyperRecog.Resource.Attribute.itemHorizontalPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemHorizontalTranslationEnabled = global::HyperRecog.Resource.Attribute.itemHorizontalTranslationEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemIconPadding = global::HyperRecog.Resource.Attribute.itemIconPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemIconSize = global::HyperRecog.Resource.Attribute.itemIconSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemIconTint = global::HyperRecog.Resource.Attribute.itemIconTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemPadding = global::HyperRecog.Resource.Attribute.itemPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemSpacing = global::HyperRecog.Resource.Attribute.itemSpacing;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextAppearance = global::HyperRecog.Resource.Attribute.itemTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextAppearanceActive = global::HyperRecog.Resource.Attribute.itemTextAppearanceActive;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextAppearanceInactive = global::HyperRecog.Resource.Attribute.itemTextAppearanceInactive;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextColor = global::HyperRecog.Resource.Attribute.itemTextColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.keylines = global::HyperRecog.Resource.Attribute.keylines;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.labelVisibilityMode = global::HyperRecog.Resource.Attribute.labelVisibilityMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.lastBaselineToBottomHeight = global::HyperRecog.Resource.Attribute.lastBaselineToBottomHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout = global::HyperRecog.Resource.Attribute.layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layoutManager = global::HyperRecog.Resource.Attribute.layoutManager;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_anchor = global::HyperRecog.Resource.Attribute.layout_anchor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_anchorGravity = global::HyperRecog.Resource.Attribute.layout_anchorGravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_behavior = global::HyperRecog.Resource.Attribute.layout_behavior;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_collapseMode = global::HyperRecog.Resource.Attribute.layout_collapseMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_collapseParallaxMultiplier = global::HyperRecog.Resource.Attribute.layout_collapseParallaxMultiplier;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_dodgeInsetEdges = global::HyperRecog.Resource.Attribute.layout_dodgeInsetEdges;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_insetEdge = global::HyperRecog.Resource.Attribute.layout_insetEdge;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_keyline = global::HyperRecog.Resource.Attribute.layout_keyline;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_scrollFlags = global::HyperRecog.Resource.Attribute.layout_scrollFlags;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_scrollInterpolator = global::HyperRecog.Resource.Attribute.layout_scrollInterpolator;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.liftOnScroll = global::HyperRecog.Resource.Attribute.liftOnScroll;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.lineHeight = global::HyperRecog.Resource.Attribute.lineHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.lineSpacing = global::HyperRecog.Resource.Attribute.lineSpacing;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::HyperRecog.Resource.Attribute.listChoiceBackgroundIndicator;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listDividerAlertDialog = global::HyperRecog.Resource.Attribute.listDividerAlertDialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listItemLayout = global::HyperRecog.Resource.Attribute.listItemLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listLayout = global::HyperRecog.Resource.Attribute.listLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listMenuViewStyle = global::HyperRecog.Resource.Attribute.listMenuViewStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPopupWindowStyle = global::HyperRecog.Resource.Attribute.listPopupWindowStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemHeight = global::HyperRecog.Resource.Attribute.listPreferredItemHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemHeightLarge = global::HyperRecog.Resource.Attribute.listPreferredItemHeightLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemHeightSmall = global::HyperRecog.Resource.Attribute.listPreferredItemHeightSmall;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::HyperRecog.Resource.Attribute.listPreferredItemPaddingLeft;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemPaddingRight = global::HyperRecog.Resource.Attribute.listPreferredItemPaddingRight;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.logo = global::HyperRecog.Resource.Attribute.logo;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.logoDescription = global::HyperRecog.Resource.Attribute.logoDescription;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.materialButtonStyle = global::HyperRecog.Resource.Attribute.materialButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.materialCardViewStyle = global::HyperRecog.Resource.Attribute.materialCardViewStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.maxActionInlineWidth = global::HyperRecog.Resource.Attribute.maxActionInlineWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.maxButtonHeight = global::HyperRecog.Resource.Attribute.maxButtonHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.maxImageSize = global::HyperRecog.Resource.Attribute.maxImageSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.measureWithLargestChild = global::HyperRecog.Resource.Attribute.measureWithLargestChild;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.menu = global::HyperRecog.Resource.Attribute.menu;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.multiChoiceItemLayout = global::HyperRecog.Resource.Attribute.multiChoiceItemLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationContentDescription = global::HyperRecog.Resource.Attribute.navigationContentDescription;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationIcon = global::HyperRecog.Resource.Attribute.navigationIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationMode = global::HyperRecog.Resource.Attribute.navigationMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationViewStyle = global::HyperRecog.Resource.Attribute.navigationViewStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.numericModifiers = global::HyperRecog.Resource.Attribute.numericModifiers;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.overlapAnchor = global::HyperRecog.Resource.Attribute.overlapAnchor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingBottomNoButtons = global::HyperRecog.Resource.Attribute.paddingBottomNoButtons;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingEnd = global::HyperRecog.Resource.Attribute.paddingEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingStart = global::HyperRecog.Resource.Attribute.paddingStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingTopNoTitle = global::HyperRecog.Resource.Attribute.paddingTopNoTitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.panelBackground = global::HyperRecog.Resource.Attribute.panelBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.panelMenuListTheme = global::HyperRecog.Resource.Attribute.panelMenuListTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.panelMenuListWidth = global::HyperRecog.Resource.Attribute.panelMenuListWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleContentDescription = global::HyperRecog.Resource.Attribute.passwordToggleContentDescription;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleDrawable = global::HyperRecog.Resource.Attribute.passwordToggleDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleEnabled = global::HyperRecog.Resource.Attribute.passwordToggleEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleTint = global::HyperRecog.Resource.Attribute.passwordToggleTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleTintMode = global::HyperRecog.Resource.Attribute.passwordToggleTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.popupMenuStyle = global::HyperRecog.Resource.Attribute.popupMenuStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.popupTheme = global::HyperRecog.Resource.Attribute.popupTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.popupWindowStyle = global::HyperRecog.Resource.Attribute.popupWindowStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.preserveIconSpacing = global::HyperRecog.Resource.Attribute.preserveIconSpacing;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.pressedTranslationZ = global::HyperRecog.Resource.Attribute.pressedTranslationZ;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.progressBarPadding = global::HyperRecog.Resource.Attribute.progressBarPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.progressBarStyle = global::HyperRecog.Resource.Attribute.progressBarStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.queryBackground = global::HyperRecog.Resource.Attribute.queryBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.queryHint = global::HyperRecog.Resource.Attribute.queryHint;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.radioButtonStyle = global::HyperRecog.Resource.Attribute.radioButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ratingBarStyle = global::HyperRecog.Resource.Attribute.ratingBarStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ratingBarStyleIndicator = global::HyperRecog.Resource.Attribute.ratingBarStyleIndicator;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ratingBarStyleSmall = global::HyperRecog.Resource.Attribute.ratingBarStyleSmall;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.reverseLayout = global::HyperRecog.Resource.Attribute.reverseLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.rippleColor = global::HyperRecog.Resource.Attribute.rippleColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.scrimAnimationDuration = global::HyperRecog.Resource.Attribute.scrimAnimationDuration;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.scrimBackground = global::HyperRecog.Resource.Attribute.scrimBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.scrimVisibleHeightTrigger = global::HyperRecog.Resource.Attribute.scrimVisibleHeightTrigger;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.searchHintIcon = global::HyperRecog.Resource.Attribute.searchHintIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.searchIcon = global::HyperRecog.Resource.Attribute.searchIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.searchViewStyle = global::HyperRecog.Resource.Attribute.searchViewStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.seekBarStyle = global::HyperRecog.Resource.Attribute.seekBarStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.selectableItemBackground = global::HyperRecog.Resource.Attribute.selectableItemBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::HyperRecog.Resource.Attribute.selectableItemBackgroundBorderless;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showAsAction = global::HyperRecog.Resource.Attribute.showAsAction;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showDividers = global::HyperRecog.Resource.Attribute.showDividers;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showMotionSpec = global::HyperRecog.Resource.Attribute.showMotionSpec;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showText = global::HyperRecog.Resource.Attribute.showText;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showTitle = global::HyperRecog.Resource.Attribute.showTitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.singleChoiceItemLayout = global::HyperRecog.Resource.Attribute.singleChoiceItemLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.singleLine = global::HyperRecog.Resource.Attribute.singleLine;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.singleSelection = global::HyperRecog.Resource.Attribute.singleSelection;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.snackbarButtonStyle = global::HyperRecog.Resource.Attribute.snackbarButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.snackbarStyle = global::HyperRecog.Resource.Attribute.snackbarStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spanCount = global::HyperRecog.Resource.Attribute.spanCount;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spinBars = global::HyperRecog.Resource.Attribute.spinBars;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spinnerDropDownItemStyle = global::HyperRecog.Resource.Attribute.spinnerDropDownItemStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spinnerStyle = global::HyperRecog.Resource.Attribute.spinnerStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.splitTrack = global::HyperRecog.Resource.Attribute.splitTrack;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.srcCompat = global::HyperRecog.Resource.Attribute.srcCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.stackFromEnd = global::HyperRecog.Resource.Attribute.stackFromEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_above_anchor = global::HyperRecog.Resource.Attribute.state_above_anchor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_collapsed = global::HyperRecog.Resource.Attribute.state_collapsed;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_collapsible = global::HyperRecog.Resource.Attribute.state_collapsible;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_liftable = global::HyperRecog.Resource.Attribute.state_liftable;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_lifted = global::HyperRecog.Resource.Attribute.state_lifted;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.statusBarBackground = global::HyperRecog.Resource.Attribute.statusBarBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.statusBarScrim = global::HyperRecog.Resource.Attribute.statusBarScrim;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.strokeColor = global::HyperRecog.Resource.Attribute.strokeColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.strokeWidth = global::HyperRecog.Resource.Attribute.strokeWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subMenuArrow = global::HyperRecog.Resource.Attribute.subMenuArrow;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.submitBackground = global::HyperRecog.Resource.Attribute.submitBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitle = global::HyperRecog.Resource.Attribute.subtitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitleTextAppearance = global::HyperRecog.Resource.Attribute.subtitleTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitleTextColor = global::HyperRecog.Resource.Attribute.subtitleTextColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitleTextStyle = global::HyperRecog.Resource.Attribute.subtitleTextStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.suggestionRowLayout = global::HyperRecog.Resource.Attribute.suggestionRowLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchMinWidth = global::HyperRecog.Resource.Attribute.switchMinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchPadding = global::HyperRecog.Resource.Attribute.switchPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchStyle = global::HyperRecog.Resource.Attribute.switchStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchTextAppearance = global::HyperRecog.Resource.Attribute.switchTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabBackground = global::HyperRecog.Resource.Attribute.tabBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabContentStart = global::HyperRecog.Resource.Attribute.tabContentStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabGravity = global::HyperRecog.Resource.Attribute.tabGravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIconTint = global::HyperRecog.Resource.Attribute.tabIconTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIconTintMode = global::HyperRecog.Resource.Attribute.tabIconTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicator = global::HyperRecog.Resource.Attribute.tabIndicator;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorAnimationDuration = global::HyperRecog.Resource.Attribute.tabIndicatorAnimationDuration;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorColor = global::HyperRecog.Resource.Attribute.tabIndicatorColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorFullWidth = global::HyperRecog.Resource.Attribute.tabIndicatorFullWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorGravity = global::HyperRecog.Resource.Attribute.tabIndicatorGravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorHeight = global::HyperRecog.Resource.Attribute.tabIndicatorHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabInlineLabel = global::HyperRecog.Resource.Attribute.tabInlineLabel;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabMaxWidth = global::HyperRecog.Resource.Attribute.tabMaxWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabMinWidth = global::HyperRecog.Resource.Attribute.tabMinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabMode = global::HyperRecog.Resource.Attribute.tabMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPadding = global::HyperRecog.Resource.Attribute.tabPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingBottom = global::HyperRecog.Resource.Attribute.tabPaddingBottom;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingEnd = global::HyperRecog.Resource.Attribute.tabPaddingEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingStart = global::HyperRecog.Resource.Attribute.tabPaddingStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingTop = global::HyperRecog.Resource.Attribute.tabPaddingTop;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabRippleColor = global::HyperRecog.Resource.Attribute.tabRippleColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabSelectedTextColor = global::HyperRecog.Resource.Attribute.tabSelectedTextColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabStyle = global::HyperRecog.Resource.Attribute.tabStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabTextAppearance = global::HyperRecog.Resource.Attribute.tabTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabTextColor = global::HyperRecog.Resource.Attribute.tabTextColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabUnboundedRipple = global::HyperRecog.Resource.Attribute.tabUnboundedRipple;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAllCaps = global::HyperRecog.Resource.Attribute.textAllCaps;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceBody1 = global::HyperRecog.Resource.Attribute.textAppearanceBody1;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceBody2 = global::HyperRecog.Resource.Attribute.textAppearanceBody2;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceButton = global::HyperRecog.Resource.Attribute.textAppearanceButton;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceCaption = global::HyperRecog.Resource.Attribute.textAppearanceCaption;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline1 = global::HyperRecog.Resource.Attribute.textAppearanceHeadline1;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline2 = global::HyperRecog.Resource.Attribute.textAppearanceHeadline2;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline3 = global::HyperRecog.Resource.Attribute.textAppearanceHeadline3;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline4 = global::HyperRecog.Resource.Attribute.textAppearanceHeadline4;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline5 = global::HyperRecog.Resource.Attribute.textAppearanceHeadline5;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline6 = global::HyperRecog.Resource.Attribute.textAppearanceHeadline6;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::HyperRecog.Resource.Attribute.textAppearanceLargePopupMenu;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItem = global::HyperRecog.Resource.Attribute.textAppearanceListItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItemSecondary = global::HyperRecog.Resource.Attribute.textAppearanceListItemSecondary;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItemSmall = global::HyperRecog.Resource.Attribute.textAppearanceListItemSmall;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceOverline = global::HyperRecog.Resource.Attribute.textAppearanceOverline;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearancePopupMenuHeader = global::HyperRecog.Resource.Attribute.textAppearancePopupMenuHeader;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::HyperRecog.Resource.Attribute.textAppearanceSearchResultSubtitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::HyperRecog.Resource.Attribute.textAppearanceSearchResultTitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::HyperRecog.Resource.Attribute.textAppearanceSmallPopupMenu;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSubtitle1 = global::HyperRecog.Resource.Attribute.textAppearanceSubtitle1;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSubtitle2 = global::HyperRecog.Resource.Attribute.textAppearanceSubtitle2;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textColorAlertDialogListItem = global::HyperRecog.Resource.Attribute.textColorAlertDialogListItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textColorSearchUrl = global::HyperRecog.Resource.Attribute.textColorSearchUrl;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textEndPadding = global::HyperRecog.Resource.Attribute.textEndPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textInputStyle = global::HyperRecog.Resource.Attribute.textInputStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textStartPadding = global::HyperRecog.Resource.Attribute.textStartPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.theme = global::HyperRecog.Resource.Attribute.theme;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thickness = global::HyperRecog.Resource.Attribute.thickness;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thumbTextPadding = global::HyperRecog.Resource.Attribute.thumbTextPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thumbTint = global::HyperRecog.Resource.Attribute.thumbTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thumbTintMode = global::HyperRecog.Resource.Attribute.thumbTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tickMark = global::HyperRecog.Resource.Attribute.tickMark;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tickMarkTint = global::HyperRecog.Resource.Attribute.tickMarkTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tickMarkTintMode = global::HyperRecog.Resource.Attribute.tickMarkTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tint = global::HyperRecog.Resource.Attribute.tint;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tintMode = global::HyperRecog.Resource.Attribute.tintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.title = global::HyperRecog.Resource.Attribute.title;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleEnabled = global::HyperRecog.Resource.Attribute.titleEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMargin = global::HyperRecog.Resource.Attribute.titleMargin;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginBottom = global::HyperRecog.Resource.Attribute.titleMarginBottom;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginEnd = global::HyperRecog.Resource.Attribute.titleMarginEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginStart = global::HyperRecog.Resource.Attribute.titleMarginStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginTop = global::HyperRecog.Resource.Attribute.titleMarginTop;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMargins = global::HyperRecog.Resource.Attribute.titleMargins;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextAppearance = global::HyperRecog.Resource.Attribute.titleTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextColor = global::HyperRecog.Resource.Attribute.titleTextColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextStyle = global::HyperRecog.Resource.Attribute.titleTextStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.toolbarId = global::HyperRecog.Resource.Attribute.toolbarId;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::HyperRecog.Resource.Attribute.toolbarNavigationButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.toolbarStyle = global::HyperRecog.Resource.Attribute.toolbarStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tooltipForegroundColor = global::HyperRecog.Resource.Attribute.tooltipForegroundColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tooltipFrameBackground = global::HyperRecog.Resource.Attribute.tooltipFrameBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tooltipText = global::HyperRecog.Resource.Attribute.tooltipText;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.track = global::HyperRecog.Resource.Attribute.track;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.trackTint = global::HyperRecog.Resource.Attribute.trackTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.trackTintMode = global::HyperRecog.Resource.Attribute.trackTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ttcIndex = global::HyperRecog.Resource.Attribute.ttcIndex;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.useCompatPadding = global::HyperRecog.Resource.Attribute.useCompatPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.viewInflaterClass = global::HyperRecog.Resource.Attribute.viewInflaterClass;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.voiceIcon = global::HyperRecog.Resource.Attribute.voiceIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionBar = global::HyperRecog.Resource.Attribute.windowActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionBarOverlay = global::HyperRecog.Resource.Attribute.windowActionBarOverlay;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionModeOverlay = global::HyperRecog.Resource.Attribute.windowActionModeOverlay;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedHeightMajor = global::HyperRecog.Resource.Attribute.windowFixedHeightMajor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedHeightMinor = global::HyperRecog.Resource.Attribute.windowFixedHeightMinor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedWidthMajor = global::HyperRecog.Resource.Attribute.windowFixedWidthMajor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedWidthMinor = global::HyperRecog.Resource.Attribute.windowFixedWidthMinor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowMinWidthMajor = global::HyperRecog.Resource.Attribute.windowMinWidthMajor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowMinWidthMinor = global::HyperRecog.Resource.Attribute.windowMinWidthMinor;
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowNoTitle = global::HyperRecog.Resource.Attribute.windowNoTitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::HyperRecog.Resource.Boolean.abc_action_bar_embed_tabs;
-			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_allow_stacked_button_bar = global::HyperRecog.Resource.Boolean.abc_allow_stacked_button_bar;
-			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::HyperRecog.Resource.Boolean.abc_config_actionMenuItemAllCaps;
-			global::Xamarin.Forms.Platform.Android.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::HyperRecog.Resource.Boolean.mtrl_btn_textappearance_all_caps;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::HyperRecog.Resource.Color.abc_background_cache_hint_selector_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::HyperRecog.Resource.Color.abc_background_cache_hint_selector_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_btn_colored_borderless_text_material = global::HyperRecog.Resource.Color.abc_btn_colored_borderless_text_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_btn_colored_text_material = global::HyperRecog.Resource.Color.abc_btn_colored_text_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_color_highlight_material = global::HyperRecog.Resource.Color.abc_color_highlight_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_hint_foreground_material_dark = global::HyperRecog.Resource.Color.abc_hint_foreground_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_hint_foreground_material_light = global::HyperRecog.Resource.Color.abc_hint_foreground_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_input_method_navigation_guard = global::HyperRecog.Resource.Color.abc_input_method_navigation_guard;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::HyperRecog.Resource.Color.abc_primary_text_disable_only_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::HyperRecog.Resource.Color.abc_primary_text_disable_only_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_material_dark = global::HyperRecog.Resource.Color.abc_primary_text_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_material_light = global::HyperRecog.Resource.Color.abc_primary_text_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text = global::HyperRecog.Resource.Color.abc_search_url_text;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text_normal = global::HyperRecog.Resource.Color.abc_search_url_text_normal;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text_pressed = global::HyperRecog.Resource.Color.abc_search_url_text_pressed;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text_selected = global::HyperRecog.Resource.Color.abc_search_url_text_selected;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_secondary_text_material_dark = global::HyperRecog.Resource.Color.abc_secondary_text_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_secondary_text_material_light = global::HyperRecog.Resource.Color.abc_secondary_text_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_btn_checkable = global::HyperRecog.Resource.Color.abc_tint_btn_checkable;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_default = global::HyperRecog.Resource.Color.abc_tint_default;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_edittext = global::HyperRecog.Resource.Color.abc_tint_edittext;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_seek_thumb = global::HyperRecog.Resource.Color.abc_tint_seek_thumb;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_spinner = global::HyperRecog.Resource.Color.abc_tint_spinner;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_switch_track = global::HyperRecog.Resource.Color.abc_tint_switch_track;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.accent_material_dark = global::HyperRecog.Resource.Color.accent_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.accent_material_light = global::HyperRecog.Resource.Color.accent_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.background_floating_material_dark = global::HyperRecog.Resource.Color.background_floating_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.background_floating_material_light = global::HyperRecog.Resource.Color.background_floating_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.background_material_dark = global::HyperRecog.Resource.Color.background_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.background_material_light = global::HyperRecog.Resource.Color.background_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_disabled_material_dark = global::HyperRecog.Resource.Color.bright_foreground_disabled_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_disabled_material_light = global::HyperRecog.Resource.Color.bright_foreground_disabled_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_inverse_material_dark = global::HyperRecog.Resource.Color.bright_foreground_inverse_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_inverse_material_light = global::HyperRecog.Resource.Color.bright_foreground_inverse_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_material_dark = global::HyperRecog.Resource.Color.bright_foreground_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_material_light = global::HyperRecog.Resource.Color.bright_foreground_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.button_material_dark = global::HyperRecog.Resource.Color.button_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.button_material_light = global::HyperRecog.Resource.Color.button_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_dark_background = global::HyperRecog.Resource.Color.cardview_dark_background;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_light_background = global::HyperRecog.Resource.Color.cardview_light_background;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_shadow_end_color = global::HyperRecog.Resource.Color.cardview_shadow_end_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_shadow_start_color = global::HyperRecog.Resource.Color.cardview_shadow_start_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.design_bottom_navigation_shadow_color = global::HyperRecog.Resource.Color.design_bottom_navigation_shadow_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.design_default_color_primary = global::HyperRecog.Resource.Color.design_default_color_primary;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.design_default_color_primary_dark = global::HyperRecog.Resource.Color.design_default_color_primary_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.design_error = global::HyperRecog.Resource.Color.design_error;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_end_color = global::HyperRecog.Resource.Color.design_fab_shadow_end_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_mid_color = global::HyperRecog.Resource.Color.design_fab_shadow_mid_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_start_color = global::HyperRecog.Resource.Color.design_fab_shadow_start_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_end_inner_color = global::HyperRecog.Resource.Color.design_fab_stroke_end_inner_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_end_outer_color = global::HyperRecog.Resource.Color.design_fab_stroke_end_outer_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_top_inner_color = global::HyperRecog.Resource.Color.design_fab_stroke_top_inner_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_top_outer_color = global::HyperRecog.Resource.Color.design_fab_stroke_top_outer_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.design_snackbar_background_color = global::HyperRecog.Resource.Color.design_snackbar_background_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.design_tint_password_toggle = global::HyperRecog.Resource.Color.design_tint_password_toggle;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_disabled_material_dark = global::HyperRecog.Resource.Color.dim_foreground_disabled_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_disabled_material_light = global::HyperRecog.Resource.Color.dim_foreground_disabled_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_material_dark = global::HyperRecog.Resource.Color.dim_foreground_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_material_light = global::HyperRecog.Resource.Color.dim_foreground_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.error_color_material_dark = global::HyperRecog.Resource.Color.error_color_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.error_color_material_light = global::HyperRecog.Resource.Color.error_color_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.foreground_material_dark = global::HyperRecog.Resource.Color.foreground_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.foreground_material_light = global::HyperRecog.Resource.Color.foreground_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.highlighted_text_material_dark = global::HyperRecog.Resource.Color.highlighted_text_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.highlighted_text_material_light = global::HyperRecog.Resource.Color.highlighted_text_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.material_blue_grey_800 = global::HyperRecog.Resource.Color.material_blue_grey_800;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.material_blue_grey_900 = global::HyperRecog.Resource.Color.material_blue_grey_900;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.material_blue_grey_950 = global::HyperRecog.Resource.Color.material_blue_grey_950;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.material_deep_teal_200 = global::HyperRecog.Resource.Color.material_deep_teal_200;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.material_deep_teal_500 = global::HyperRecog.Resource.Color.material_deep_teal_500;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_100 = global::HyperRecog.Resource.Color.material_grey_100;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_300 = global::HyperRecog.Resource.Color.material_grey_300;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_50 = global::HyperRecog.Resource.Color.material_grey_50;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_600 = global::HyperRecog.Resource.Color.material_grey_600;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_800 = global::HyperRecog.Resource.Color.material_grey_800;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_850 = global::HyperRecog.Resource.Color.material_grey_850;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_900 = global::HyperRecog.Resource.Color.material_grey_900;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::HyperRecog.Resource.Color.mtrl_bottom_nav_colored_item_tint;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_bottom_nav_item_tint = global::HyperRecog.Resource.Color.mtrl_bottom_nav_item_tint;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_bg_color_disabled = global::HyperRecog.Resource.Color.mtrl_btn_bg_color_disabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_bg_color_selector = global::HyperRecog.Resource.Color.mtrl_btn_bg_color_selector;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_ripple_color = global::HyperRecog.Resource.Color.mtrl_btn_ripple_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_stroke_color_selector = global::HyperRecog.Resource.Color.mtrl_btn_stroke_color_selector;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_text_btn_ripple_color = global::HyperRecog.Resource.Color.mtrl_btn_text_btn_ripple_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_text_color_disabled = global::HyperRecog.Resource.Color.mtrl_btn_text_color_disabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_text_color_selector = global::HyperRecog.Resource.Color.mtrl_btn_text_color_selector;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_transparent_bg_color = global::HyperRecog.Resource.Color.mtrl_btn_transparent_bg_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_chip_background_color = global::HyperRecog.Resource.Color.mtrl_chip_background_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_chip_close_icon_tint = global::HyperRecog.Resource.Color.mtrl_chip_close_icon_tint;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_chip_ripple_color = global::HyperRecog.Resource.Color.mtrl_chip_ripple_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_chip_text_color = global::HyperRecog.Resource.Color.mtrl_chip_text_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_fab_ripple_color = global::HyperRecog.Resource.Color.mtrl_fab_ripple_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_scrim_color = global::HyperRecog.Resource.Color.mtrl_scrim_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_colored_ripple_color = global::HyperRecog.Resource.Color.mtrl_tabs_colored_ripple_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_icon_color_selector = global::HyperRecog.Resource.Color.mtrl_tabs_icon_color_selector;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::HyperRecog.Resource.Color.mtrl_tabs_icon_color_selector_colored;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::HyperRecog.Resource.Color.mtrl_tabs_legacy_text_color_selector;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_ripple_color = global::HyperRecog.Resource.Color.mtrl_tabs_ripple_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_text_btn_text_color_selector = global::HyperRecog.Resource.Color.mtrl_text_btn_text_color_selector;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_default_box_stroke_color = global::HyperRecog.Resource.Color.mtrl_textinput_default_box_stroke_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_disabled_color = global::HyperRecog.Resource.Color.mtrl_textinput_disabled_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::HyperRecog.Resource.Color.mtrl_textinput_filled_box_default_background_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::HyperRecog.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_action_color_filter = global::HyperRecog.Resource.Color.notification_action_color_filter;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_icon_bg_color = global::HyperRecog.Resource.Color.notification_icon_bg_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_material_background_media_default_color = global::HyperRecog.Resource.Color.notification_material_background_media_default_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_dark_material_dark = global::HyperRecog.Resource.Color.primary_dark_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_dark_material_light = global::HyperRecog.Resource.Color.primary_dark_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_material_dark = global::HyperRecog.Resource.Color.primary_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_material_light = global::HyperRecog.Resource.Color.primary_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_default_material_dark = global::HyperRecog.Resource.Color.primary_text_default_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_default_material_light = global::HyperRecog.Resource.Color.primary_text_default_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_disabled_material_dark = global::HyperRecog.Resource.Color.primary_text_disabled_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_disabled_material_light = global::HyperRecog.Resource.Color.primary_text_disabled_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.ripple_material_dark = global::HyperRecog.Resource.Color.ripple_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.ripple_material_light = global::HyperRecog.Resource.Color.ripple_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_default_material_dark = global::HyperRecog.Resource.Color.secondary_text_default_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_default_material_light = global::HyperRecog.Resource.Color.secondary_text_default_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_disabled_material_dark = global::HyperRecog.Resource.Color.secondary_text_disabled_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_disabled_material_light = global::HyperRecog.Resource.Color.secondary_text_disabled_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_disabled_material_dark = global::HyperRecog.Resource.Color.switch_thumb_disabled_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_disabled_material_light = global::HyperRecog.Resource.Color.switch_thumb_disabled_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_material_dark = global::HyperRecog.Resource.Color.switch_thumb_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_material_light = global::HyperRecog.Resource.Color.switch_thumb_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_normal_material_dark = global::HyperRecog.Resource.Color.switch_thumb_normal_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_normal_material_light = global::HyperRecog.Resource.Color.switch_thumb_normal_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.tooltip_background_dark = global::HyperRecog.Resource.Color.tooltip_background_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Color.tooltip_background_light = global::HyperRecog.Resource.Color.tooltip_background_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::HyperRecog.Resource.Dimension.abc_action_bar_content_inset_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::HyperRecog.Resource.Dimension.abc_action_bar_content_inset_with_nav;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_default_height_material = global::HyperRecog.Resource.Dimension.abc_action_bar_default_height_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::HyperRecog.Resource.Dimension.abc_action_bar_default_padding_end_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::HyperRecog.Resource.Dimension.abc_action_bar_default_padding_start_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_elevation_material = global::HyperRecog.Resource.Dimension.abc_action_bar_elevation_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::HyperRecog.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::HyperRecog.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::HyperRecog.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::HyperRecog.Resource.Dimension.abc_action_bar_stacked_max_height;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::HyperRecog.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::HyperRecog.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::HyperRecog.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_height_material = global::HyperRecog.Resource.Dimension.abc_action_button_min_height_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_width_material = global::HyperRecog.Resource.Dimension.abc_action_button_min_width_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::HyperRecog.Resource.Dimension.abc_action_button_min_width_overflow_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::HyperRecog.Resource.Dimension.abc_alert_dialog_button_bar_height;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_alert_dialog_button_dimen = global::HyperRecog.Resource.Dimension.abc_alert_dialog_button_dimen;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::HyperRecog.Resource.Dimension.abc_button_inset_horizontal_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_inset_vertical_material = global::HyperRecog.Resource.Dimension.abc_button_inset_vertical_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::HyperRecog.Resource.Dimension.abc_button_padding_horizontal_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_padding_vertical_material = global::HyperRecog.Resource.Dimension.abc_button_padding_vertical_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::HyperRecog.Resource.Dimension.abc_cascading_menus_min_smallest_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_config_prefDialogWidth = global::HyperRecog.Resource.Dimension.abc_config_prefDialogWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_corner_material = global::HyperRecog.Resource.Dimension.abc_control_corner_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_inset_material = global::HyperRecog.Resource.Dimension.abc_control_inset_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_padding_material = global::HyperRecog.Resource.Dimension.abc_control_padding_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_corner_radius_material = global::HyperRecog.Resource.Dimension.abc_dialog_corner_radius_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::HyperRecog.Resource.Dimension.abc_dialog_fixed_height_major;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::HyperRecog.Resource.Dimension.abc_dialog_fixed_height_minor;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::HyperRecog.Resource.Dimension.abc_dialog_fixed_width_major;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::HyperRecog.Resource.Dimension.abc_dialog_fixed_width_minor;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::HyperRecog.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::HyperRecog.Resource.Dimension.abc_dialog_list_padding_top_no_title;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_min_width_major = global::HyperRecog.Resource.Dimension.abc_dialog_min_width_major;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_min_width_minor = global::HyperRecog.Resource.Dimension.abc_dialog_min_width_minor;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_padding_material = global::HyperRecog.Resource.Dimension.abc_dialog_padding_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_padding_top_material = global::HyperRecog.Resource.Dimension.abc_dialog_padding_top_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_title_divider_material = global::HyperRecog.Resource.Dimension.abc_dialog_title_divider_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::HyperRecog.Resource.Dimension.abc_disabled_alpha_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::HyperRecog.Resource.Dimension.abc_disabled_alpha_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::HyperRecog.Resource.Dimension.abc_dropdownitem_icon_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::HyperRecog.Resource.Dimension.abc_dropdownitem_text_padding_left;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::HyperRecog.Resource.Dimension.abc_dropdownitem_text_padding_right;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::HyperRecog.Resource.Dimension.abc_edit_text_inset_bottom_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::HyperRecog.Resource.Dimension.abc_edit_text_inset_horizontal_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::HyperRecog.Resource.Dimension.abc_edit_text_inset_top_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_floating_window_z = global::HyperRecog.Resource.Dimension.abc_floating_window_z;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::HyperRecog.Resource.Dimension.abc_list_item_padding_horizontal_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_panel_menu_list_width = global::HyperRecog.Resource.Dimension.abc_panel_menu_list_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_progress_bar_height_material = global::HyperRecog.Resource.Dimension.abc_progress_bar_height_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_search_view_preferred_height = global::HyperRecog.Resource.Dimension.abc_search_view_preferred_height;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_search_view_preferred_width = global::HyperRecog.Resource.Dimension.abc_search_view_preferred_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::HyperRecog.Resource.Dimension.abc_seekbar_track_background_height_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::HyperRecog.Resource.Dimension.abc_seekbar_track_progress_height_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::HyperRecog.Resource.Dimension.abc_select_dialog_padding_start_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_switch_padding = global::HyperRecog.Resource.Dimension.abc_switch_padding;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_body_1_material = global::HyperRecog.Resource.Dimension.abc_text_size_body_1_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_body_2_material = global::HyperRecog.Resource.Dimension.abc_text_size_body_2_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_button_material = global::HyperRecog.Resource.Dimension.abc_text_size_button_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_caption_material = global::HyperRecog.Resource.Dimension.abc_text_size_caption_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_1_material = global::HyperRecog.Resource.Dimension.abc_text_size_display_1_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_2_material = global::HyperRecog.Resource.Dimension.abc_text_size_display_2_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_3_material = global::HyperRecog.Resource.Dimension.abc_text_size_display_3_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_4_material = global::HyperRecog.Resource.Dimension.abc_text_size_display_4_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_headline_material = global::HyperRecog.Resource.Dimension.abc_text_size_headline_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_large_material = global::HyperRecog.Resource.Dimension.abc_text_size_large_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_medium_material = global::HyperRecog.Resource.Dimension.abc_text_size_medium_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_menu_header_material = global::HyperRecog.Resource.Dimension.abc_text_size_menu_header_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_menu_material = global::HyperRecog.Resource.Dimension.abc_text_size_menu_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_small_material = global::HyperRecog.Resource.Dimension.abc_text_size_small_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_subhead_material = global::HyperRecog.Resource.Dimension.abc_text_size_subhead_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::HyperRecog.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_title_material = global::HyperRecog.Resource.Dimension.abc_text_size_title_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::HyperRecog.Resource.Dimension.abc_text_size_title_material_toolbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_compat_inset_shadow = global::HyperRecog.Resource.Dimension.cardview_compat_inset_shadow;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_default_elevation = global::HyperRecog.Resource.Dimension.cardview_default_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_default_radius = global::HyperRecog.Resource.Dimension.cardview_default_radius;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_inset_horizontal_material = global::HyperRecog.Resource.Dimension.compat_button_inset_horizontal_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_inset_vertical_material = global::HyperRecog.Resource.Dimension.compat_button_inset_vertical_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_padding_horizontal_material = global::HyperRecog.Resource.Dimension.compat_button_padding_horizontal_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_padding_vertical_material = global::HyperRecog.Resource.Dimension.compat_button_padding_vertical_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_control_corner_material = global::HyperRecog.Resource.Dimension.compat_control_corner_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_notification_large_icon_max_height = global::HyperRecog.Resource.Dimension.compat_notification_large_icon_max_height;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_notification_large_icon_max_width = global::HyperRecog.Resource.Dimension.compat_notification_large_icon_max_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_appbar_elevation = global::HyperRecog.Resource.Dimension.design_appbar_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::HyperRecog.Resource.Dimension.design_bottom_navigation_active_item_max_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::HyperRecog.Resource.Dimension.design_bottom_navigation_active_item_min_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_active_text_size = global::HyperRecog.Resource.Dimension.design_bottom_navigation_active_text_size;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_elevation = global::HyperRecog.Resource.Dimension.design_bottom_navigation_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_height = global::HyperRecog.Resource.Dimension.design_bottom_navigation_height;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_icon_size = global::HyperRecog.Resource.Dimension.design_bottom_navigation_icon_size;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_item_max_width = global::HyperRecog.Resource.Dimension.design_bottom_navigation_item_max_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_item_min_width = global::HyperRecog.Resource.Dimension.design_bottom_navigation_item_min_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_margin = global::HyperRecog.Resource.Dimension.design_bottom_navigation_margin;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_shadow_height = global::HyperRecog.Resource.Dimension.design_bottom_navigation_shadow_height;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_text_size = global::HyperRecog.Resource.Dimension.design_bottom_navigation_text_size;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_sheet_modal_elevation = global::HyperRecog.Resource.Dimension.design_bottom_sheet_modal_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_sheet_peek_height_min = global::HyperRecog.Resource.Dimension.design_bottom_sheet_peek_height_min;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_border_width = global::HyperRecog.Resource.Dimension.design_fab_border_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_elevation = global::HyperRecog.Resource.Dimension.design_fab_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_image_size = global::HyperRecog.Resource.Dimension.design_fab_image_size;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_size_mini = global::HyperRecog.Resource.Dimension.design_fab_size_mini;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_size_normal = global::HyperRecog.Resource.Dimension.design_fab_size_normal;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_translation_z_hovered_focused = global::HyperRecog.Resource.Dimension.design_fab_translation_z_hovered_focused;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_translation_z_pressed = global::HyperRecog.Resource.Dimension.design_fab_translation_z_pressed;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_elevation = global::HyperRecog.Resource.Dimension.design_navigation_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_icon_padding = global::HyperRecog.Resource.Dimension.design_navigation_icon_padding;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_icon_size = global::HyperRecog.Resource.Dimension.design_navigation_icon_size;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_item_horizontal_padding = global::HyperRecog.Resource.Dimension.design_navigation_item_horizontal_padding;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_item_icon_padding = global::HyperRecog.Resource.Dimension.design_navigation_item_icon_padding;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_max_width = global::HyperRecog.Resource.Dimension.design_navigation_max_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_padding_bottom = global::HyperRecog.Resource.Dimension.design_navigation_padding_bottom;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::HyperRecog.Resource.Dimension.design_navigation_separator_vertical_padding;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_action_inline_max_width = global::HyperRecog.Resource.Dimension.design_snackbar_action_inline_max_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_background_corner_radius = global::HyperRecog.Resource.Dimension.design_snackbar_background_corner_radius;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_elevation = global::HyperRecog.Resource.Dimension.design_snackbar_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::HyperRecog.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_max_width = global::HyperRecog.Resource.Dimension.design_snackbar_max_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_min_width = global::HyperRecog.Resource.Dimension.design_snackbar_min_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_padding_horizontal = global::HyperRecog.Resource.Dimension.design_snackbar_padding_horizontal;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_padding_vertical = global::HyperRecog.Resource.Dimension.design_snackbar_padding_vertical;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::HyperRecog.Resource.Dimension.design_snackbar_padding_vertical_2lines;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_text_size = global::HyperRecog.Resource.Dimension.design_snackbar_text_size;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_max_width = global::HyperRecog.Resource.Dimension.design_tab_max_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_scrollable_min_width = global::HyperRecog.Resource.Dimension.design_tab_scrollable_min_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_text_size = global::HyperRecog.Resource.Dimension.design_tab_text_size;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_text_size_2line = global::HyperRecog.Resource.Dimension.design_tab_text_size_2line;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_textinput_caption_translate_y = global::HyperRecog.Resource.Dimension.design_textinput_caption_translate_y;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.disabled_alpha_material_dark = global::HyperRecog.Resource.Dimension.disabled_alpha_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.disabled_alpha_material_light = global::HyperRecog.Resource.Dimension.disabled_alpha_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.fastscroll_default_thickness = global::HyperRecog.Resource.Dimension.fastscroll_default_thickness;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.fastscroll_margin = global::HyperRecog.Resource.Dimension.fastscroll_margin;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.fastscroll_minimum_range = global::HyperRecog.Resource.Dimension.fastscroll_minimum_range;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.highlight_alpha_material_colored = global::HyperRecog.Resource.Dimension.highlight_alpha_material_colored;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.highlight_alpha_material_dark = global::HyperRecog.Resource.Dimension.highlight_alpha_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.highlight_alpha_material_light = global::HyperRecog.Resource.Dimension.highlight_alpha_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_alpha_material_dark = global::HyperRecog.Resource.Dimension.hint_alpha_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_alpha_material_light = global::HyperRecog.Resource.Dimension.hint_alpha_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_pressed_alpha_material_dark = global::HyperRecog.Resource.Dimension.hint_pressed_alpha_material_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_pressed_alpha_material_light = global::HyperRecog.Resource.Dimension.hint_pressed_alpha_material_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::HyperRecog.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::HyperRecog.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::HyperRecog.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::HyperRecog.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::HyperRecog.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::HyperRecog.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::HyperRecog.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_height = global::HyperRecog.Resource.Dimension.mtrl_bottomappbar_height;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_corner_radius = global::HyperRecog.Resource.Dimension.mtrl_btn_corner_radius;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::HyperRecog.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_disabled_elevation = global::HyperRecog.Resource.Dimension.mtrl_btn_disabled_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_disabled_z = global::HyperRecog.Resource.Dimension.mtrl_btn_disabled_z;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_elevation = global::HyperRecog.Resource.Dimension.mtrl_btn_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_focused_z = global::HyperRecog.Resource.Dimension.mtrl_btn_focused_z;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_hovered_z = global::HyperRecog.Resource.Dimension.mtrl_btn_hovered_z;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::HyperRecog.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_icon_padding = global::HyperRecog.Resource.Dimension.mtrl_btn_icon_padding;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_inset = global::HyperRecog.Resource.Dimension.mtrl_btn_inset;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_letter_spacing = global::HyperRecog.Resource.Dimension.mtrl_btn_letter_spacing;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_padding_bottom = global::HyperRecog.Resource.Dimension.mtrl_btn_padding_bottom;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_padding_left = global::HyperRecog.Resource.Dimension.mtrl_btn_padding_left;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_padding_right = global::HyperRecog.Resource.Dimension.mtrl_btn_padding_right;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_padding_top = global::HyperRecog.Resource.Dimension.mtrl_btn_padding_top;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_pressed_z = global::HyperRecog.Resource.Dimension.mtrl_btn_pressed_z;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_stroke_size = global::HyperRecog.Resource.Dimension.mtrl_btn_stroke_size;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::HyperRecog.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::HyperRecog.Resource.Dimension.mtrl_btn_text_btn_padding_left;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::HyperRecog.Resource.Dimension.mtrl_btn_text_btn_padding_right;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_text_size = global::HyperRecog.Resource.Dimension.mtrl_btn_text_size;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_z = global::HyperRecog.Resource.Dimension.mtrl_btn_z;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_card_elevation = global::HyperRecog.Resource.Dimension.mtrl_card_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_card_spacing = global::HyperRecog.Resource.Dimension.mtrl_card_spacing;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_chip_pressed_translation_z = global::HyperRecog.Resource.Dimension.mtrl_chip_pressed_translation_z;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_chip_text_size = global::HyperRecog.Resource.Dimension.mtrl_chip_text_size;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_fab_elevation = global::HyperRecog.Resource.Dimension.mtrl_fab_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::HyperRecog.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_fab_translation_z_pressed = global::HyperRecog.Resource.Dimension.mtrl_fab_translation_z_pressed;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_navigation_elevation = global::HyperRecog.Resource.Dimension.mtrl_navigation_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::HyperRecog.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_navigation_item_icon_padding = global::HyperRecog.Resource.Dimension.mtrl_navigation_item_icon_padding;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::HyperRecog.Resource.Dimension.mtrl_snackbar_background_corner_radius;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_snackbar_margin = global::HyperRecog.Resource.Dimension.mtrl_snackbar_margin;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_bottom_offset = global::HyperRecog.Resource.Dimension.mtrl_textinput_box_bottom_offset;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::HyperRecog.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::HyperRecog.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::HyperRecog.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_padding_end = global::HyperRecog.Resource.Dimension.mtrl_textinput_box_padding_end;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::HyperRecog.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::HyperRecog.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::HyperRecog.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_toolbar_default_height = global::HyperRecog.Resource.Dimension.mtrl_toolbar_default_height;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_action_icon_size = global::HyperRecog.Resource.Dimension.notification_action_icon_size;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_action_text_size = global::HyperRecog.Resource.Dimension.notification_action_text_size;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_big_circle_margin = global::HyperRecog.Resource.Dimension.notification_big_circle_margin;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_content_margin_start = global::HyperRecog.Resource.Dimension.notification_content_margin_start;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_large_icon_height = global::HyperRecog.Resource.Dimension.notification_large_icon_height;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_large_icon_width = global::HyperRecog.Resource.Dimension.notification_large_icon_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_main_column_padding_top = global::HyperRecog.Resource.Dimension.notification_main_column_padding_top;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_media_narrow_margin = global::HyperRecog.Resource.Dimension.notification_media_narrow_margin;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_right_icon_size = global::HyperRecog.Resource.Dimension.notification_right_icon_size;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_right_side_padding_top = global::HyperRecog.Resource.Dimension.notification_right_side_padding_top;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_small_icon_background_padding = global::HyperRecog.Resource.Dimension.notification_small_icon_background_padding;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_small_icon_size_as_large = global::HyperRecog.Resource.Dimension.notification_small_icon_size_as_large;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_subtext_size = global::HyperRecog.Resource.Dimension.notification_subtext_size;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_top_pad = global::HyperRecog.Resource.Dimension.notification_top_pad;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_top_pad_large_text = global::HyperRecog.Resource.Dimension.notification_top_pad_large_text;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_corner_radius = global::HyperRecog.Resource.Dimension.subtitle_corner_radius;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_outline_width = global::HyperRecog.Resource.Dimension.subtitle_outline_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_shadow_offset = global::HyperRecog.Resource.Dimension.subtitle_shadow_offset;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_shadow_radius = global::HyperRecog.Resource.Dimension.subtitle_shadow_radius;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_corner_radius = global::HyperRecog.Resource.Dimension.tooltip_corner_radius;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_horizontal_padding = global::HyperRecog.Resource.Dimension.tooltip_horizontal_padding;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_margin = global::HyperRecog.Resource.Dimension.tooltip_margin;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::HyperRecog.Resource.Dimension.tooltip_precise_anchor_extra_offset;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_precise_anchor_threshold = global::HyperRecog.Resource.Dimension.tooltip_precise_anchor_threshold;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_vertical_padding = global::HyperRecog.Resource.Dimension.tooltip_vertical_padding;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_y_offset_non_touch = global::HyperRecog.Resource.Dimension.tooltip_y_offset_non_touch;
-			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_y_offset_touch = global::HyperRecog.Resource.Dimension.tooltip_y_offset_touch;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::HyperRecog.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_action_bar_item_background_material = global::HyperRecog.Resource.Drawable.abc_action_bar_item_background_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_borderless_material = global::HyperRecog.Resource.Drawable.abc_btn_borderless_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_check_material = global::HyperRecog.Resource.Drawable.abc_btn_check_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::HyperRecog.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::HyperRecog.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_colored_material = global::HyperRecog.Resource.Drawable.abc_btn_colored_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::HyperRecog.Resource.Drawable.abc_btn_default_mtrl_shape;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_radio_material = global::HyperRecog.Resource.Drawable.abc_btn_radio_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::HyperRecog.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::HyperRecog.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::HyperRecog.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::HyperRecog.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_cab_background_internal_bg = global::HyperRecog.Resource.Drawable.abc_cab_background_internal_bg;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_cab_background_top_material = global::HyperRecog.Resource.Drawable.abc_cab_background_top_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::HyperRecog.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_control_background_material = global::HyperRecog.Resource.Drawable.abc_control_background_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_dialog_material_background = global::HyperRecog.Resource.Drawable.abc_dialog_material_background;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_edit_text_material = global::HyperRecog.Resource.Drawable.abc_edit_text_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_ab_back_material = global::HyperRecog.Resource.Drawable.abc_ic_ab_back_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::HyperRecog.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_clear_material = global::HyperRecog.Resource.Drawable.abc_ic_clear_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::HyperRecog.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_go_search_api_material = global::HyperRecog.Resource.Drawable.abc_ic_go_search_api_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::HyperRecog.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::HyperRecog.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_overflow_material = global::HyperRecog.Resource.Drawable.abc_ic_menu_overflow_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::HyperRecog.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::HyperRecog.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::HyperRecog.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_search_api_material = global::HyperRecog.Resource.Drawable.abc_ic_search_api_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_black_16dp = global::HyperRecog.Resource.Drawable.abc_ic_star_black_16dp;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_black_36dp = global::HyperRecog.Resource.Drawable.abc_ic_star_black_36dp;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_black_48dp = global::HyperRecog.Resource.Drawable.abc_ic_star_black_48dp;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_half_black_16dp = global::HyperRecog.Resource.Drawable.abc_ic_star_half_black_16dp;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_half_black_36dp = global::HyperRecog.Resource.Drawable.abc_ic_star_half_black_36dp;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_half_black_48dp = global::HyperRecog.Resource.Drawable.abc_ic_star_half_black_48dp;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_voice_search_api_material = global::HyperRecog.Resource.Drawable.abc_ic_voice_search_api_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_item_background_holo_dark = global::HyperRecog.Resource.Drawable.abc_item_background_holo_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_item_background_holo_light = global::HyperRecog.Resource.Drawable.abc_item_background_holo_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_divider_material = global::HyperRecog.Resource.Drawable.abc_list_divider_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::HyperRecog.Resource.Drawable.abc_list_divider_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_focused_holo = global::HyperRecog.Resource.Drawable.abc_list_focused_holo;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_longpressed_holo = global::HyperRecog.Resource.Drawable.abc_list_longpressed_holo;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::HyperRecog.Resource.Drawable.abc_list_pressed_holo_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_pressed_holo_light = global::HyperRecog.Resource.Drawable.abc_list_pressed_holo_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::HyperRecog.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::HyperRecog.Resource.Drawable.abc_list_selector_background_transition_holo_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::HyperRecog.Resource.Drawable.abc_list_selector_disabled_holo_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::HyperRecog.Resource.Drawable.abc_list_selector_disabled_holo_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_holo_dark = global::HyperRecog.Resource.Drawable.abc_list_selector_holo_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_holo_light = global::HyperRecog.Resource.Drawable.abc_list_selector_holo_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::HyperRecog.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::HyperRecog.Resource.Drawable.abc_popup_background_mtrl_mult;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::HyperRecog.Resource.Drawable.abc_ratingbar_indicator_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ratingbar_material = global::HyperRecog.Resource.Drawable.abc_ratingbar_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ratingbar_small_material = global::HyperRecog.Resource.Drawable.abc_ratingbar_small_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::HyperRecog.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::HyperRecog.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::HyperRecog.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::HyperRecog.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::HyperRecog.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_seekbar_thumb_material = global::HyperRecog.Resource.Drawable.abc_seekbar_thumb_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_seekbar_tick_mark_material = global::HyperRecog.Resource.Drawable.abc_seekbar_tick_mark_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_seekbar_track_material = global::HyperRecog.Resource.Drawable.abc_seekbar_track_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::HyperRecog.Resource.Drawable.abc_spinner_mtrl_am_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::HyperRecog.Resource.Drawable.abc_spinner_textfield_background_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_switch_thumb_material = global::HyperRecog.Resource.Drawable.abc_switch_thumb_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::HyperRecog.Resource.Drawable.abc_switch_track_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_tab_indicator_material = global::HyperRecog.Resource.Drawable.abc_tab_indicator_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::HyperRecog.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_cursor_material = global::HyperRecog.Resource.Drawable.abc_text_cursor_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::HyperRecog.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::HyperRecog.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::HyperRecog.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::HyperRecog.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::HyperRecog.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::HyperRecog.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::HyperRecog.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::HyperRecog.Resource.Drawable.abc_textfield_default_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::HyperRecog.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::HyperRecog.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_material = global::HyperRecog.Resource.Drawable.abc_textfield_search_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_vector_test = global::HyperRecog.Resource.Drawable.abc_vector_test;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.avd_hide_password = global::HyperRecog.Resource.Drawable.avd_hide_password;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.avd_show_password = global::HyperRecog.Resource.Drawable.avd_show_password;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_bottom_navigation_item_background = global::HyperRecog.Resource.Drawable.design_bottom_navigation_item_background;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_fab_background = global::HyperRecog.Resource.Drawable.design_fab_background;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_ic_visibility = global::HyperRecog.Resource.Drawable.design_ic_visibility;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_ic_visibility_off = global::HyperRecog.Resource.Drawable.design_ic_visibility_off;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_password_eye = global::HyperRecog.Resource.Drawable.design_password_eye;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_snackbar_background = global::HyperRecog.Resource.Drawable.design_snackbar_background;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.ic_mtrl_chip_checked_black = global::HyperRecog.Resource.Drawable.ic_mtrl_chip_checked_black;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.ic_mtrl_chip_checked_circle = global::HyperRecog.Resource.Drawable.ic_mtrl_chip_checked_circle;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.ic_mtrl_chip_close_circle = global::HyperRecog.Resource.Drawable.ic_mtrl_chip_close_circle;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.mtrl_snackbar_background = global::HyperRecog.Resource.Drawable.mtrl_snackbar_background;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.mtrl_tabs_default_indicator = global::HyperRecog.Resource.Drawable.mtrl_tabs_default_indicator;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.navigation_empty_icon = global::HyperRecog.Resource.Drawable.navigation_empty_icon;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_action_background = global::HyperRecog.Resource.Drawable.notification_action_background;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg = global::HyperRecog.Resource.Drawable.notification_bg;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_low = global::HyperRecog.Resource.Drawable.notification_bg_low;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_low_normal = global::HyperRecog.Resource.Drawable.notification_bg_low_normal;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_low_pressed = global::HyperRecog.Resource.Drawable.notification_bg_low_pressed;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_normal = global::HyperRecog.Resource.Drawable.notification_bg_normal;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_normal_pressed = global::HyperRecog.Resource.Drawable.notification_bg_normal_pressed;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_icon_background = global::HyperRecog.Resource.Drawable.notification_icon_background;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_template_icon_bg = global::HyperRecog.Resource.Drawable.notification_template_icon_bg;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_template_icon_low_bg = global::HyperRecog.Resource.Drawable.notification_template_icon_low_bg;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_tile_bg = global::HyperRecog.Resource.Drawable.notification_tile_bg;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notify_panel_notification_icon_bg = global::HyperRecog.Resource.Drawable.notify_panel_notification_icon_bg;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.tooltip_frame_dark = global::HyperRecog.Resource.Drawable.tooltip_frame_dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Drawable.tooltip_frame_light = global::HyperRecog.Resource.Drawable.tooltip_frame_light;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.ALT = global::HyperRecog.Resource.Id.ALT;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.CTRL = global::HyperRecog.Resource.Id.CTRL;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.FUNCTION = global::HyperRecog.Resource.Id.FUNCTION;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.META = global::HyperRecog.Resource.Id.META;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.SHIFT = global::HyperRecog.Resource.Id.SHIFT;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.SYM = global::HyperRecog.Resource.Id.SYM;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.action0 = global::HyperRecog.Resource.Id.action0;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar = global::HyperRecog.Resource.Id.action_bar;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_activity_content = global::HyperRecog.Resource.Id.action_bar_activity_content;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_container = global::HyperRecog.Resource.Id.action_bar_container;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_root = global::HyperRecog.Resource.Id.action_bar_root;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_spinner = global::HyperRecog.Resource.Id.action_bar_spinner;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_subtitle = global::HyperRecog.Resource.Id.action_bar_subtitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_title = global::HyperRecog.Resource.Id.action_bar_title;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.action_container = global::HyperRecog.Resource.Id.action_container;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.action_context_bar = global::HyperRecog.Resource.Id.action_context_bar;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.action_divider = global::HyperRecog.Resource.Id.action_divider;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.action_image = global::HyperRecog.Resource.Id.action_image;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.action_menu_divider = global::HyperRecog.Resource.Id.action_menu_divider;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.action_menu_presenter = global::HyperRecog.Resource.Id.action_menu_presenter;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.action_mode_bar = global::HyperRecog.Resource.Id.action_mode_bar;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.action_mode_bar_stub = global::HyperRecog.Resource.Id.action_mode_bar_stub;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.action_mode_close_button = global::HyperRecog.Resource.Id.action_mode_close_button;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.action_text = global::HyperRecog.Resource.Id.action_text;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.actions = global::HyperRecog.Resource.Id.actions;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.activity_chooser_view_content = global::HyperRecog.Resource.Id.activity_chooser_view_content;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.add = global::HyperRecog.Resource.Id.add;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.alertTitle = global::HyperRecog.Resource.Id.alertTitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.all = global::HyperRecog.Resource.Id.all;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.always = global::HyperRecog.Resource.Id.always;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.async = global::HyperRecog.Resource.Id.async;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.auto = global::HyperRecog.Resource.Id.auto;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.beginning = global::HyperRecog.Resource.Id.beginning;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.blocking = global::HyperRecog.Resource.Id.blocking;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.bottom = global::HyperRecog.Resource.Id.bottom;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.bottomtab_navarea = global::HyperRecog.Resource.Id.bottomtab_navarea;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.bottomtab_tabbar = global::HyperRecog.Resource.Id.bottomtab_tabbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.buttonPanel = global::HyperRecog.Resource.Id.buttonPanel;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.cancel_action = global::HyperRecog.Resource.Id.cancel_action;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.center = global::HyperRecog.Resource.Id.center;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.center_horizontal = global::HyperRecog.Resource.Id.center_horizontal;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.center_vertical = global::HyperRecog.Resource.Id.center_vertical;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.checkbox = global::HyperRecog.Resource.Id.checkbox;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.chronometer = global::HyperRecog.Resource.Id.chronometer;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.clip_horizontal = global::HyperRecog.Resource.Id.clip_horizontal;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.clip_vertical = global::HyperRecog.Resource.Id.clip_vertical;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.collapseActionView = global::HyperRecog.Resource.Id.collapseActionView;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.container = global::HyperRecog.Resource.Id.container;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.content = global::HyperRecog.Resource.Id.content;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.contentPanel = global::HyperRecog.Resource.Id.contentPanel;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.coordinator = global::HyperRecog.Resource.Id.coordinator;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.custom = global::HyperRecog.Resource.Id.custom;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.customPanel = global::HyperRecog.Resource.Id.customPanel;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.decor_content_parent = global::HyperRecog.Resource.Id.decor_content_parent;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.default_activity_button = global::HyperRecog.Resource.Id.default_activity_button;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.design_bottom_sheet = global::HyperRecog.Resource.Id.design_bottom_sheet;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.design_menu_item_action_area = global::HyperRecog.Resource.Id.design_menu_item_action_area;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.design_menu_item_action_area_stub = global::HyperRecog.Resource.Id.design_menu_item_action_area_stub;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.design_menu_item_text = global::HyperRecog.Resource.Id.design_menu_item_text;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.design_navigation_view = global::HyperRecog.Resource.Id.design_navigation_view;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.disableHome = global::HyperRecog.Resource.Id.disableHome;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.edit_query = global::HyperRecog.Resource.Id.edit_query;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.end = global::HyperRecog.Resource.Id.end;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.end_padder = global::HyperRecog.Resource.Id.end_padder;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.enterAlways = global::HyperRecog.Resource.Id.enterAlways;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.enterAlwaysCollapsed = global::HyperRecog.Resource.Id.enterAlwaysCollapsed;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.exitUntilCollapsed = global::HyperRecog.Resource.Id.exitUntilCollapsed;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.expand_activities_button = global::HyperRecog.Resource.Id.expand_activities_button;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.expanded_menu = global::HyperRecog.Resource.Id.expanded_menu;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.fill = global::HyperRecog.Resource.Id.fill;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.fill_horizontal = global::HyperRecog.Resource.Id.fill_horizontal;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.fill_vertical = global::HyperRecog.Resource.Id.fill_vertical;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.filled = global::HyperRecog.Resource.Id.filled;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.@fixed = global::HyperRecog.Resource.Id.@fixed;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.flyoutcontent_appbar = global::HyperRecog.Resource.Id.flyoutcontent_appbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.flyoutcontent_recycler = global::HyperRecog.Resource.Id.flyoutcontent_recycler;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.forever = global::HyperRecog.Resource.Id.forever;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.ghost_view = global::HyperRecog.Resource.Id.ghost_view;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.group_divider = global::HyperRecog.Resource.Id.group_divider;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.home = global::HyperRecog.Resource.Id.home;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.homeAsUp = global::HyperRecog.Resource.Id.homeAsUp;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.icon = global::HyperRecog.Resource.Id.icon;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.icon_group = global::HyperRecog.Resource.Id.icon_group;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.ifRoom = global::HyperRecog.Resource.Id.ifRoom;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.image = global::HyperRecog.Resource.Id.image;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.info = global::HyperRecog.Resource.Id.info;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.italic = global::HyperRecog.Resource.Id.italic;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.item_touch_helper_previous_elevation = global::HyperRecog.Resource.Id.item_touch_helper_previous_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.labeled = global::HyperRecog.Resource.Id.labeled;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.largeLabel = global::HyperRecog.Resource.Id.largeLabel;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.left = global::HyperRecog.Resource.Id.left;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.line1 = global::HyperRecog.Resource.Id.line1;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.line3 = global::HyperRecog.Resource.Id.line3;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.listMode = global::HyperRecog.Resource.Id.listMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.list_item = global::HyperRecog.Resource.Id.list_item;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.main_appbar = global::HyperRecog.Resource.Id.main_appbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.main_tablayout = global::HyperRecog.Resource.Id.main_tablayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.main_toolbar = global::HyperRecog.Resource.Id.main_toolbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.main_viewpager = global::HyperRecog.Resource.Id.main_viewpager;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.masked = global::HyperRecog.Resource.Id.masked;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.media_actions = global::HyperRecog.Resource.Id.media_actions;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.message = global::HyperRecog.Resource.Id.message;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.middle = global::HyperRecog.Resource.Id.middle;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.mini = global::HyperRecog.Resource.Id.mini;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.mtrl_child_content_container = global::HyperRecog.Resource.Id.mtrl_child_content_container;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.mtrl_internal_children_alpha_tag = global::HyperRecog.Resource.Id.mtrl_internal_children_alpha_tag;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.multiply = global::HyperRecog.Resource.Id.multiply;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.navigation_header_container = global::HyperRecog.Resource.Id.navigation_header_container;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.never = global::HyperRecog.Resource.Id.never;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.none = global::HyperRecog.Resource.Id.none;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.normal = global::HyperRecog.Resource.Id.normal;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.notification_background = global::HyperRecog.Resource.Id.notification_background;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.notification_main_column = global::HyperRecog.Resource.Id.notification_main_column;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.notification_main_column_container = global::HyperRecog.Resource.Id.notification_main_column_container;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.outline = global::HyperRecog.Resource.Id.outline;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.parallax = global::HyperRecog.Resource.Id.parallax;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.parentPanel = global::HyperRecog.Resource.Id.parentPanel;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.parent_matrix = global::HyperRecog.Resource.Id.parent_matrix;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.pin = global::HyperRecog.Resource.Id.pin;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.progress_circular = global::HyperRecog.Resource.Id.progress_circular;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.progress_horizontal = global::HyperRecog.Resource.Id.progress_horizontal;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.radio = global::HyperRecog.Resource.Id.radio;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.right = global::HyperRecog.Resource.Id.right;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.right_icon = global::HyperRecog.Resource.Id.right_icon;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.right_side = global::HyperRecog.Resource.Id.right_side;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.save_image_matrix = global::HyperRecog.Resource.Id.save_image_matrix;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.save_non_transition_alpha = global::HyperRecog.Resource.Id.save_non_transition_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.save_scale_type = global::HyperRecog.Resource.Id.save_scale_type;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.screen = global::HyperRecog.Resource.Id.screen;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.scroll = global::HyperRecog.Resource.Id.scroll;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollIndicatorDown = global::HyperRecog.Resource.Id.scrollIndicatorDown;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollIndicatorUp = global::HyperRecog.Resource.Id.scrollIndicatorUp;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollView = global::HyperRecog.Resource.Id.scrollView;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollable = global::HyperRecog.Resource.Id.scrollable;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.search_badge = global::HyperRecog.Resource.Id.search_badge;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.search_bar = global::HyperRecog.Resource.Id.search_bar;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.search_button = global::HyperRecog.Resource.Id.search_button;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.search_close_btn = global::HyperRecog.Resource.Id.search_close_btn;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.search_edit_frame = global::HyperRecog.Resource.Id.search_edit_frame;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.search_go_btn = global::HyperRecog.Resource.Id.search_go_btn;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.search_mag_icon = global::HyperRecog.Resource.Id.search_mag_icon;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.search_plate = global::HyperRecog.Resource.Id.search_plate;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.search_src_text = global::HyperRecog.Resource.Id.search_src_text;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.search_voice_btn = global::HyperRecog.Resource.Id.search_voice_btn;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.select_dialog_listview = global::HyperRecog.Resource.Id.select_dialog_listview;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.selected = global::HyperRecog.Resource.Id.selected;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.shellcontent_appbar = global::HyperRecog.Resource.Id.shellcontent_appbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.shellcontent_toolbar = global::HyperRecog.Resource.Id.shellcontent_toolbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.shortcut = global::HyperRecog.Resource.Id.shortcut;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.showCustom = global::HyperRecog.Resource.Id.showCustom;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.showHome = global::HyperRecog.Resource.Id.showHome;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.showTitle = global::HyperRecog.Resource.Id.showTitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.smallLabel = global::HyperRecog.Resource.Id.smallLabel;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.snackbar_action = global::HyperRecog.Resource.Id.snackbar_action;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.snackbar_text = global::HyperRecog.Resource.Id.snackbar_text;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.snap = global::HyperRecog.Resource.Id.snap;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.snapMargins = global::HyperRecog.Resource.Id.snapMargins;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.spacer = global::HyperRecog.Resource.Id.spacer;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.split_action_bar = global::HyperRecog.Resource.Id.split_action_bar;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.src_atop = global::HyperRecog.Resource.Id.src_atop;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.src_in = global::HyperRecog.Resource.Id.src_in;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.src_over = global::HyperRecog.Resource.Id.src_over;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.start = global::HyperRecog.Resource.Id.start;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.status_bar_latest_event_content = global::HyperRecog.Resource.Id.status_bar_latest_event_content;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.stretch = global::HyperRecog.Resource.Id.stretch;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.submenuarrow = global::HyperRecog.Resource.Id.submenuarrow;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.submit_area = global::HyperRecog.Resource.Id.submit_area;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.tabMode = global::HyperRecog.Resource.Id.tabMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_transition_group = global::HyperRecog.Resource.Id.tag_transition_group;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_unhandled_key_event_manager = global::HyperRecog.Resource.Id.tag_unhandled_key_event_manager;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_unhandled_key_listeners = global::HyperRecog.Resource.Id.tag_unhandled_key_listeners;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.text = global::HyperRecog.Resource.Id.text;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.text2 = global::HyperRecog.Resource.Id.text2;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.textSpacerNoButtons = global::HyperRecog.Resource.Id.textSpacerNoButtons;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.textSpacerNoTitle = global::HyperRecog.Resource.Id.textSpacerNoTitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.textStart = global::HyperRecog.Resource.Id.textStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.text_input_password_toggle = global::HyperRecog.Resource.Id.text_input_password_toggle;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_counter = global::HyperRecog.Resource.Id.textinput_counter;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_error = global::HyperRecog.Resource.Id.textinput_error;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_helper_text = global::HyperRecog.Resource.Id.textinput_helper_text;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.time = global::HyperRecog.Resource.Id.time;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.title = global::HyperRecog.Resource.Id.title;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.titleDividerNoCustom = global::HyperRecog.Resource.Id.titleDividerNoCustom;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.title_template = global::HyperRecog.Resource.Id.title_template;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.top = global::HyperRecog.Resource.Id.top;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.topPanel = global::HyperRecog.Resource.Id.topPanel;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.touch_outside = global::HyperRecog.Resource.Id.touch_outside;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_current_scene = global::HyperRecog.Resource.Id.transition_current_scene;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_layout_save = global::HyperRecog.Resource.Id.transition_layout_save;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_position = global::HyperRecog.Resource.Id.transition_position;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_scene_layoutid_cache = global::HyperRecog.Resource.Id.transition_scene_layoutid_cache;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_transform = global::HyperRecog.Resource.Id.transition_transform;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.uniform = global::HyperRecog.Resource.Id.uniform;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.unlabeled = global::HyperRecog.Resource.Id.unlabeled;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.up = global::HyperRecog.Resource.Id.up;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.useLogo = global::HyperRecog.Resource.Id.useLogo;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.view_offset_helper = global::HyperRecog.Resource.Id.view_offset_helper;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.visible = global::HyperRecog.Resource.Id.visible;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.withText = global::HyperRecog.Resource.Id.withText;
-			global::Xamarin.Forms.Platform.Android.Resource.Id.wrap_content = global::HyperRecog.Resource.Id.wrap_content;
-			global::Xamarin.Forms.Platform.Android.Resource.Integer.abc_config_activityDefaultDur = global::HyperRecog.Resource.Integer.abc_config_activityDefaultDur;
-			global::Xamarin.Forms.Platform.Android.Resource.Integer.abc_config_activityShortDur = global::HyperRecog.Resource.Integer.abc_config_activityShortDur;
-			global::Xamarin.Forms.Platform.Android.Resource.Integer.app_bar_elevation_anim_duration = global::HyperRecog.Resource.Integer.app_bar_elevation_anim_duration;
-			global::Xamarin.Forms.Platform.Android.Resource.Integer.bottom_sheet_slide_duration = global::HyperRecog.Resource.Integer.bottom_sheet_slide_duration;
-			global::Xamarin.Forms.Platform.Android.Resource.Integer.cancel_button_image_alpha = global::HyperRecog.Resource.Integer.cancel_button_image_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Integer.config_tooltipAnimTime = global::HyperRecog.Resource.Integer.config_tooltipAnimTime;
-			global::Xamarin.Forms.Platform.Android.Resource.Integer.design_snackbar_text_max_lines = global::HyperRecog.Resource.Integer.design_snackbar_text_max_lines;
-			global::Xamarin.Forms.Platform.Android.Resource.Integer.design_tab_indicator_anim_duration_ms = global::HyperRecog.Resource.Integer.design_tab_indicator_anim_duration_ms;
-			global::Xamarin.Forms.Platform.Android.Resource.Integer.hide_password_duration = global::HyperRecog.Resource.Integer.hide_password_duration;
-			global::Xamarin.Forms.Platform.Android.Resource.Integer.mtrl_btn_anim_delay_ms = global::HyperRecog.Resource.Integer.mtrl_btn_anim_delay_ms;
-			global::Xamarin.Forms.Platform.Android.Resource.Integer.mtrl_btn_anim_duration_ms = global::HyperRecog.Resource.Integer.mtrl_btn_anim_duration_ms;
-			global::Xamarin.Forms.Platform.Android.Resource.Integer.mtrl_chip_anim_duration = global::HyperRecog.Resource.Integer.mtrl_chip_anim_duration;
-			global::Xamarin.Forms.Platform.Android.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::HyperRecog.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
-			global::Xamarin.Forms.Platform.Android.Resource.Integer.show_password_duration = global::HyperRecog.Resource.Integer.show_password_duration;
-			global::Xamarin.Forms.Platform.Android.Resource.Integer.status_bar_notification_info_maxnum = global::HyperRecog.Resource.Integer.status_bar_notification_info_maxnum;
-			global::Xamarin.Forms.Platform.Android.Resource.Interpolator.mtrl_fast_out_linear_in = global::HyperRecog.Resource.Interpolator.mtrl_fast_out_linear_in;
-			global::Xamarin.Forms.Platform.Android.Resource.Interpolator.mtrl_fast_out_slow_in = global::HyperRecog.Resource.Interpolator.mtrl_fast_out_slow_in;
-			global::Xamarin.Forms.Platform.Android.Resource.Interpolator.mtrl_linear = global::HyperRecog.Resource.Interpolator.mtrl_linear;
-			global::Xamarin.Forms.Platform.Android.Resource.Interpolator.mtrl_linear_out_slow_in = global::HyperRecog.Resource.Interpolator.mtrl_linear_out_slow_in;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_bar_title_item = global::HyperRecog.Resource.Layout.abc_action_bar_title_item;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_bar_up_container = global::HyperRecog.Resource.Layout.abc_action_bar_up_container;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_menu_item_layout = global::HyperRecog.Resource.Layout.abc_action_menu_item_layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_menu_layout = global::HyperRecog.Resource.Layout.abc_action_menu_layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_mode_bar = global::HyperRecog.Resource.Layout.abc_action_mode_bar;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_mode_close_item_material = global::HyperRecog.Resource.Layout.abc_action_mode_close_item_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_activity_chooser_view = global::HyperRecog.Resource.Layout.abc_activity_chooser_view;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::HyperRecog.Resource.Layout.abc_activity_chooser_view_list_item;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::HyperRecog.Resource.Layout.abc_alert_dialog_button_bar_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_material = global::HyperRecog.Resource.Layout.abc_alert_dialog_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_title_material = global::HyperRecog.Resource.Layout.abc_alert_dialog_title_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_cascading_menu_item_layout = global::HyperRecog.Resource.Layout.abc_cascading_menu_item_layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_dialog_title_material = global::HyperRecog.Resource.Layout.abc_dialog_title_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_expanded_menu_layout = global::HyperRecog.Resource.Layout.abc_expanded_menu_layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_checkbox = global::HyperRecog.Resource.Layout.abc_list_menu_item_checkbox;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_icon = global::HyperRecog.Resource.Layout.abc_list_menu_item_icon;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_layout = global::HyperRecog.Resource.Layout.abc_list_menu_item_layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_radio = global::HyperRecog.Resource.Layout.abc_list_menu_item_radio;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_popup_menu_header_item_layout = global::HyperRecog.Resource.Layout.abc_popup_menu_header_item_layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_popup_menu_item_layout = global::HyperRecog.Resource.Layout.abc_popup_menu_item_layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_content_include = global::HyperRecog.Resource.Layout.abc_screen_content_include;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_simple = global::HyperRecog.Resource.Layout.abc_screen_simple;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::HyperRecog.Resource.Layout.abc_screen_simple_overlay_action_mode;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_toolbar = global::HyperRecog.Resource.Layout.abc_screen_toolbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::HyperRecog.Resource.Layout.abc_search_dropdown_item_icons_2line;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_search_view = global::HyperRecog.Resource.Layout.abc_search_view;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_select_dialog_material = global::HyperRecog.Resource.Layout.abc_select_dialog_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_tooltip = global::HyperRecog.Resource.Layout.abc_tooltip;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.BottomTabLayout = global::HyperRecog.Resource.Layout.BottomTabLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_bottom_navigation_item = global::HyperRecog.Resource.Layout.design_bottom_navigation_item;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_bottom_sheet_dialog = global::HyperRecog.Resource.Layout.design_bottom_sheet_dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_snackbar = global::HyperRecog.Resource.Layout.design_layout_snackbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_snackbar_include = global::HyperRecog.Resource.Layout.design_layout_snackbar_include;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_tab_icon = global::HyperRecog.Resource.Layout.design_layout_tab_icon;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_tab_text = global::HyperRecog.Resource.Layout.design_layout_tab_text;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_menu_item_action_area = global::HyperRecog.Resource.Layout.design_menu_item_action_area;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item = global::HyperRecog.Resource.Layout.design_navigation_item;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item_header = global::HyperRecog.Resource.Layout.design_navigation_item_header;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item_separator = global::HyperRecog.Resource.Layout.design_navigation_item_separator;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item_subheader = global::HyperRecog.Resource.Layout.design_navigation_item_subheader;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_menu = global::HyperRecog.Resource.Layout.design_navigation_menu;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_menu_item = global::HyperRecog.Resource.Layout.design_navigation_menu_item;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_text_input_password_icon = global::HyperRecog.Resource.Layout.design_text_input_password_icon;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.FlyoutContent = global::HyperRecog.Resource.Layout.FlyoutContent;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.mtrl_layout_snackbar = global::HyperRecog.Resource.Layout.mtrl_layout_snackbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.mtrl_layout_snackbar_include = global::HyperRecog.Resource.Layout.mtrl_layout_snackbar_include;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_action = global::HyperRecog.Resource.Layout.notification_action;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_action_tombstone = global::HyperRecog.Resource.Layout.notification_action_tombstone;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_media_action = global::HyperRecog.Resource.Layout.notification_media_action;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_media_cancel_action = global::HyperRecog.Resource.Layout.notification_media_cancel_action;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media = global::HyperRecog.Resource.Layout.notification_template_big_media;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media_custom = global::HyperRecog.Resource.Layout.notification_template_big_media_custom;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media_narrow = global::HyperRecog.Resource.Layout.notification_template_big_media_narrow;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media_narrow_custom = global::HyperRecog.Resource.Layout.notification_template_big_media_narrow_custom;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_custom_big = global::HyperRecog.Resource.Layout.notification_template_custom_big;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_icon_group = global::HyperRecog.Resource.Layout.notification_template_icon_group;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_lines_media = global::HyperRecog.Resource.Layout.notification_template_lines_media;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_media = global::HyperRecog.Resource.Layout.notification_template_media;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_media_custom = global::HyperRecog.Resource.Layout.notification_template_media_custom;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_part_chronometer = global::HyperRecog.Resource.Layout.notification_template_part_chronometer;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_part_time = global::HyperRecog.Resource.Layout.notification_template_part_time;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.RootLayout = global::HyperRecog.Resource.Layout.RootLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_item_material = global::HyperRecog.Resource.Layout.select_dialog_item_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_multichoice_material = global::HyperRecog.Resource.Layout.select_dialog_multichoice_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_singlechoice_material = global::HyperRecog.Resource.Layout.select_dialog_singlechoice_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.ShellContent = global::HyperRecog.Resource.Layout.ShellContent;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::HyperRecog.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_bar_home_description = global::HyperRecog.Resource.String.abc_action_bar_home_description;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_bar_up_description = global::HyperRecog.Resource.String.abc_action_bar_up_description;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_menu_overflow_description = global::HyperRecog.Resource.String.abc_action_menu_overflow_description;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_mode_done = global::HyperRecog.Resource.String.abc_action_mode_done;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_activity_chooser_view_see_all = global::HyperRecog.Resource.String.abc_activity_chooser_view_see_all;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_activitychooserview_choose_application = global::HyperRecog.Resource.String.abc_activitychooserview_choose_application;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_capital_off = global::HyperRecog.Resource.String.abc_capital_off;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_capital_on = global::HyperRecog.Resource.String.abc_capital_on;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_body_1_material = global::HyperRecog.Resource.String.abc_font_family_body_1_material;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_body_2_material = global::HyperRecog.Resource.String.abc_font_family_body_2_material;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_button_material = global::HyperRecog.Resource.String.abc_font_family_button_material;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_caption_material = global::HyperRecog.Resource.String.abc_font_family_caption_material;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_1_material = global::HyperRecog.Resource.String.abc_font_family_display_1_material;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_2_material = global::HyperRecog.Resource.String.abc_font_family_display_2_material;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_3_material = global::HyperRecog.Resource.String.abc_font_family_display_3_material;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_4_material = global::HyperRecog.Resource.String.abc_font_family_display_4_material;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_headline_material = global::HyperRecog.Resource.String.abc_font_family_headline_material;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_menu_material = global::HyperRecog.Resource.String.abc_font_family_menu_material;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_subhead_material = global::HyperRecog.Resource.String.abc_font_family_subhead_material;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_title_material = global::HyperRecog.Resource.String.abc_font_family_title_material;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_alt_shortcut_label = global::HyperRecog.Resource.String.abc_menu_alt_shortcut_label;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_ctrl_shortcut_label = global::HyperRecog.Resource.String.abc_menu_ctrl_shortcut_label;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_delete_shortcut_label = global::HyperRecog.Resource.String.abc_menu_delete_shortcut_label;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_enter_shortcut_label = global::HyperRecog.Resource.String.abc_menu_enter_shortcut_label;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_function_shortcut_label = global::HyperRecog.Resource.String.abc_menu_function_shortcut_label;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_meta_shortcut_label = global::HyperRecog.Resource.String.abc_menu_meta_shortcut_label;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_shift_shortcut_label = global::HyperRecog.Resource.String.abc_menu_shift_shortcut_label;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_space_shortcut_label = global::HyperRecog.Resource.String.abc_menu_space_shortcut_label;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_sym_shortcut_label = global::HyperRecog.Resource.String.abc_menu_sym_shortcut_label;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_prepend_shortcut_label = global::HyperRecog.Resource.String.abc_prepend_shortcut_label;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_search_hint = global::HyperRecog.Resource.String.abc_search_hint;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_clear = global::HyperRecog.Resource.String.abc_searchview_description_clear;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_query = global::HyperRecog.Resource.String.abc_searchview_description_query;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_search = global::HyperRecog.Resource.String.abc_searchview_description_search;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_submit = global::HyperRecog.Resource.String.abc_searchview_description_submit;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_voice = global::HyperRecog.Resource.String.abc_searchview_description_voice;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_shareactionprovider_share_with = global::HyperRecog.Resource.String.abc_shareactionprovider_share_with;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_shareactionprovider_share_with_application = global::HyperRecog.Resource.String.abc_shareactionprovider_share_with_application;
-			global::Xamarin.Forms.Platform.Android.Resource.String.abc_toolbar_collapse_description = global::HyperRecog.Resource.String.abc_toolbar_collapse_description;
-			global::Xamarin.Forms.Platform.Android.Resource.String.appbar_scrolling_view_behavior = global::HyperRecog.Resource.String.appbar_scrolling_view_behavior;
-			global::Xamarin.Forms.Platform.Android.Resource.String.bottom_sheet_behavior = global::HyperRecog.Resource.String.bottom_sheet_behavior;
-			global::Xamarin.Forms.Platform.Android.Resource.String.character_counter_content_description = global::HyperRecog.Resource.String.character_counter_content_description;
-			global::Xamarin.Forms.Platform.Android.Resource.String.character_counter_pattern = global::HyperRecog.Resource.String.character_counter_pattern;
-			global::Xamarin.Forms.Platform.Android.Resource.String.fab_transformation_scrim_behavior = global::HyperRecog.Resource.String.fab_transformation_scrim_behavior;
-			global::Xamarin.Forms.Platform.Android.Resource.String.fab_transformation_sheet_behavior = global::HyperRecog.Resource.String.fab_transformation_sheet_behavior;
-			global::Xamarin.Forms.Platform.Android.Resource.String.hide_bottom_view_on_scroll_behavior = global::HyperRecog.Resource.String.hide_bottom_view_on_scroll_behavior;
-			global::Xamarin.Forms.Platform.Android.Resource.String.mtrl_chip_close_icon_content_description = global::HyperRecog.Resource.String.mtrl_chip_close_icon_content_description;
-			global::Xamarin.Forms.Platform.Android.Resource.String.password_toggle_content_description = global::HyperRecog.Resource.String.password_toggle_content_description;
-			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_eye = global::HyperRecog.Resource.String.path_password_eye;
-			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_eye_mask_strike_through = global::HyperRecog.Resource.String.path_password_eye_mask_strike_through;
-			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_eye_mask_visible = global::HyperRecog.Resource.String.path_password_eye_mask_visible;
-			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_strike_through = global::HyperRecog.Resource.String.path_password_strike_through;
-			global::Xamarin.Forms.Platform.Android.Resource.String.search_menu_title = global::HyperRecog.Resource.String.search_menu_title;
-			global::Xamarin.Forms.Platform.Android.Resource.String.status_bar_notification_info_overflow = global::HyperRecog.Resource.String.status_bar_notification_info_overflow;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.AlertDialog_AppCompat = global::HyperRecog.Resource.Style.AlertDialog_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.AlertDialog_AppCompat_Light = global::HyperRecog.Resource.Style.AlertDialog_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_Dialog = global::HyperRecog.Resource.Style.Animation_AppCompat_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::HyperRecog.Resource.Style.Animation_AppCompat_DropDownUp;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_Tooltip = global::HyperRecog.Resource.Style.Animation_AppCompat_Tooltip;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_Design_BottomSheetDialog = global::HyperRecog.Resource.Style.Animation_Design_BottomSheetDialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_AlertDialog_AppCompat = global::HyperRecog.Resource.Style.Base_AlertDialog_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::HyperRecog.Resource.Style.Base_AlertDialog_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::HyperRecog.Resource.Style.Base_Animation_AppCompat_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::HyperRecog.Resource.Style.Base_Animation_AppCompat_DropDownUp;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_Tooltip = global::HyperRecog.Resource.Style.Base_Animation_AppCompat_Tooltip;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_CardView = global::HyperRecog.Resource.Style.Base_CardView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::HyperRecog.Resource.Style.Base_DialogWindowTitle_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::HyperRecog.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Body1;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Body2;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Button;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Caption;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Display1;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Display2;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Display3;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Display4;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Headline;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Large;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Medium;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Menu;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Small;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Title;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::HyperRecog.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::HyperRecog.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::HyperRecog.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::HyperRecog.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat = global::HyperRecog.Resource.Style.Base_Theme_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::HyperRecog.Resource.Style.Base_Theme_AppCompat_CompactMenu;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::HyperRecog.Resource.Style.Base_Theme_AppCompat_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::HyperRecog.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::HyperRecog.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::HyperRecog.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::HyperRecog.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light = global::HyperRecog.Resource.Style.Base_Theme_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::HyperRecog.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::HyperRecog.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::HyperRecog.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::HyperRecog.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::HyperRecog.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::HyperRecog.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents = global::HyperRecog.Resource.Style.Base_Theme_MaterialComponents;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::HyperRecog.Resource.Style.Base_Theme_MaterialComponents_Bridge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::HyperRecog.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::HyperRecog.Resource.Style.Base_Theme_MaterialComponents_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::HyperRecog.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::HyperRecog.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::HyperRecog.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::HyperRecog.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light = global::HyperRecog.Resource.Style.Base_Theme_MaterialComponents_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::HyperRecog.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::HyperRecog.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::HyperRecog.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::HyperRecog.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::HyperRecog.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::HyperRecog.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::HyperRecog.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::HyperRecog.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::HyperRecog.Resource.Style.Base_ThemeOverlay_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::HyperRecog.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::HyperRecog.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::HyperRecog.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::HyperRecog.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::HyperRecog.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::HyperRecog.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::HyperRecog.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::HyperRecog.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents = global::HyperRecog.Resource.Style.Base_V14_Theme_MaterialComponents;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::HyperRecog.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::HyperRecog.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::HyperRecog.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::HyperRecog.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::HyperRecog.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::HyperRecog.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::HyperRecog.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::HyperRecog.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat = global::HyperRecog.Resource.Style.Base_V21_Theme_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::HyperRecog.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::HyperRecog.Resource.Style.Base_V21_Theme_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::HyperRecog.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::HyperRecog.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V22_Theme_AppCompat = global::HyperRecog.Resource.Style.Base_V22_Theme_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::HyperRecog.Resource.Style.Base_V22_Theme_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V23_Theme_AppCompat = global::HyperRecog.Resource.Style.Base_V23_Theme_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V23_Theme_AppCompat_Light = global::HyperRecog.Resource.Style.Base_V23_Theme_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Theme_AppCompat = global::HyperRecog.Resource.Style.Base_V26_Theme_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Theme_AppCompat_Light = global::HyperRecog.Resource.Style.Base_V26_Theme_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::HyperRecog.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V28_Theme_AppCompat = global::HyperRecog.Resource.Style.Base_V28_Theme_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V28_Theme_AppCompat_Light = global::HyperRecog.Resource.Style.Base_V28_Theme_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat = global::HyperRecog.Resource.Style.Base_V7_Theme_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::HyperRecog.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::HyperRecog.Resource.Style.Base_V7_Theme_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::HyperRecog.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::HyperRecog.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::HyperRecog.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::HyperRecog.Resource.Style.Base_V7_Widget_AppCompat_EditText;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::HyperRecog.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ActionButton;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ActionMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_Button;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_Button_Colored;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_Button_Small;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ButtonBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_EditText;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ImageButton;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ListMenuView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ListView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_PopupMenu;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_PopupWindow;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ProgressBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_RatingBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_SearchView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_SeekBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_Spinner;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_Toolbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::HyperRecog.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_Design_TabLayout = global::HyperRecog.Resource.Style.Base_Widget_Design_TabLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_MaterialComponents_Chip = global::HyperRecog.Resource.Style.Base_Widget_MaterialComponents_Chip;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::HyperRecog.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::HyperRecog.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView = global::HyperRecog.Resource.Style.CardView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Dark = global::HyperRecog.Resource.Style.CardView_Dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Light = global::HyperRecog.Resource.Style.CardView_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat = global::HyperRecog.Resource.Style.Platform_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat_Light = global::HyperRecog.Resource.Style.Platform_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents = global::HyperRecog.Resource.Style.Platform_MaterialComponents;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents_Dialog = global::HyperRecog.Resource.Style.Platform_MaterialComponents_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents_Light = global::HyperRecog.Resource.Style.Platform_MaterialComponents_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::HyperRecog.Resource.Style.Platform_MaterialComponents_Light_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::HyperRecog.Resource.Style.Platform_ThemeOverlay_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::HyperRecog.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::HyperRecog.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V21_AppCompat = global::HyperRecog.Resource.Style.Platform_V21_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V21_AppCompat_Light = global::HyperRecog.Resource.Style.Platform_V21_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V25_AppCompat = global::HyperRecog.Resource.Style.Platform_V25_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V25_AppCompat_Light = global::HyperRecog.Resource.Style.Platform_V25_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::HyperRecog.Resource.Style.Platform_Widget_AppCompat_Spinner;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::HyperRecog.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::HyperRecog.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::HyperRecog.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::HyperRecog.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::HyperRecog.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::HyperRecog.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::HyperRecog.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::HyperRecog.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::HyperRecog.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::HyperRecog.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::HyperRecog.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::HyperRecog.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::HyperRecog.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::HyperRecog.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::HyperRecog.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::HyperRecog.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::HyperRecog.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat = global::HyperRecog.Resource.Style.TextAppearance_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Body1;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Body2;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Button = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Button;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Caption;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Display1;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Display2;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Display3;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Display4;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Headline;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Large = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Large;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Medium;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Menu;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Small = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Small;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Subhead;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Title = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Title;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Tooltip = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Tooltip;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Widget_Button;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::HyperRecog.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification = global::HyperRecog.Resource.Style.TextAppearance_Compat_Notification;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Info = global::HyperRecog.Resource.Style.TextAppearance_Compat_Notification_Info;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::HyperRecog.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::HyperRecog.Resource.Style.TextAppearance_Compat_Notification_Line2;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::HyperRecog.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Media = global::HyperRecog.Resource.Style.TextAppearance_Compat_Notification_Media;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Time = global::HyperRecog.Resource.Style.TextAppearance_Compat_Notification_Time;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::HyperRecog.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Title = global::HyperRecog.Resource.Style.TextAppearance_Compat_Notification_Title;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::HyperRecog.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::HyperRecog.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Counter = global::HyperRecog.Resource.Style.TextAppearance_Design_Counter;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::HyperRecog.Resource.Style.TextAppearance_Design_Counter_Overflow;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Error = global::HyperRecog.Resource.Style.TextAppearance_Design_Error;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_HelperText = global::HyperRecog.Resource.Style.TextAppearance_Design_HelperText;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Hint = global::HyperRecog.Resource.Style.TextAppearance_Design_Hint;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::HyperRecog.Resource.Style.TextAppearance_Design_Snackbar_Message;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Tab = global::HyperRecog.Resource.Style.TextAppearance_Design_Tab;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::HyperRecog.Resource.Style.TextAppearance_MaterialComponents_Body1;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::HyperRecog.Resource.Style.TextAppearance_MaterialComponents_Body2;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Button = global::HyperRecog.Resource.Style.TextAppearance_MaterialComponents_Button;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Caption = global::HyperRecog.Resource.Style.TextAppearance_MaterialComponents_Caption;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Chip = global::HyperRecog.Resource.Style.TextAppearance_MaterialComponents_Chip;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::HyperRecog.Resource.Style.TextAppearance_MaterialComponents_Headline1;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::HyperRecog.Resource.Style.TextAppearance_MaterialComponents_Headline2;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::HyperRecog.Resource.Style.TextAppearance_MaterialComponents_Headline3;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::HyperRecog.Resource.Style.TextAppearance_MaterialComponents_Headline4;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::HyperRecog.Resource.Style.TextAppearance_MaterialComponents_Headline5;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::HyperRecog.Resource.Style.TextAppearance_MaterialComponents_Headline6;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Overline = global::HyperRecog.Resource.Style.TextAppearance_MaterialComponents_Overline;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::HyperRecog.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::HyperRecog.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Tab = global::HyperRecog.Resource.Style.TextAppearance_MaterialComponents_Tab;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::HyperRecog.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::HyperRecog.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::HyperRecog.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat = global::HyperRecog.Resource.Style.Theme_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::HyperRecog.Resource.Style.Theme_AppCompat_CompactMenu;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight = global::HyperRecog.Resource.Style.Theme_AppCompat_DayNight;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::HyperRecog.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::HyperRecog.Resource.Style.Theme_AppCompat_DayNight_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::HyperRecog.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::HyperRecog.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::HyperRecog.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::HyperRecog.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog = global::HyperRecog.Resource.Style.Theme_AppCompat_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::HyperRecog.Resource.Style.Theme_AppCompat_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::HyperRecog.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::HyperRecog.Resource.Style.Theme_AppCompat_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light = global::HyperRecog.Resource.Style.Theme_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::HyperRecog.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::HyperRecog.Resource.Style.Theme_AppCompat_Light_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::HyperRecog.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::HyperRecog.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::HyperRecog.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::HyperRecog.Resource.Style.Theme_AppCompat_Light_NoActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::HyperRecog.Resource.Style.Theme_AppCompat_NoActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design = global::HyperRecog.Resource.Style.Theme_Design;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::HyperRecog.Resource.Style.Theme_Design_BottomSheetDialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light = global::HyperRecog.Resource.Style.Theme_Design_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::HyperRecog.Resource.Style.Theme_Design_Light_BottomSheetDialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::HyperRecog.Resource.Style.Theme_Design_Light_NoActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_NoActionBar = global::HyperRecog.Resource.Style.Theme_Design_NoActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents = global::HyperRecog.Resource.Style.Theme_MaterialComponents;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::HyperRecog.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Bridge = global::HyperRecog.Resource.Style.Theme_MaterialComponents_Bridge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_CompactMenu = global::HyperRecog.Resource.Style.Theme_MaterialComponents_CompactMenu;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog = global::HyperRecog.Resource.Style.Theme_MaterialComponents_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::HyperRecog.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::HyperRecog.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::HyperRecog.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light = global::HyperRecog.Resource.Style.Theme_MaterialComponents_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::HyperRecog.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::HyperRecog.Resource.Style.Theme_MaterialComponents_Light_Bridge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::HyperRecog.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::HyperRecog.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::HyperRecog.Resource.Style.Theme_MaterialComponents_Light_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::HyperRecog.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::HyperRecog.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::HyperRecog.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::HyperRecog.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::HyperRecog.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_NoActionBar = global::HyperRecog.Resource.Style.Theme_MaterialComponents_NoActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::HyperRecog.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat = global::HyperRecog.Resource.Style.ThemeOverlay_AppCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::HyperRecog.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::HyperRecog.Resource.Style.ThemeOverlay_AppCompat_Dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::HyperRecog.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::HyperRecog.Resource.Style.ThemeOverlay_AppCompat_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::HyperRecog.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::HyperRecog.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents = global::HyperRecog.Resource.Style.ThemeOverlay_MaterialComponents;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::HyperRecog.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::HyperRecog.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::HyperRecog.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::HyperRecog.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::HyperRecog.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::HyperRecog.Resource.Style.ThemeOverlay_MaterialComponents_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::HyperRecog.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::HyperRecog.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::HyperRecog.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::HyperRecog.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::HyperRecog.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar = global::HyperRecog.Resource.Style.Widget_AppCompat_ActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::HyperRecog.Resource.Style.Widget_AppCompat_ActionBar_Solid;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::HyperRecog.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::HyperRecog.Resource.Style.Widget_AppCompat_ActionBar_TabText;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::HyperRecog.Resource.Style.Widget_AppCompat_ActionBar_TabView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton = global::HyperRecog.Resource.Style.Widget_AppCompat_ActionButton;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::HyperRecog.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::HyperRecog.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionMode = global::HyperRecog.Resource.Style.Widget_AppCompat_ActionMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::HyperRecog.Resource.Style.Widget_AppCompat_ActivityChooserView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::HyperRecog.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button = global::HyperRecog.Resource.Style.Widget_AppCompat_Button;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::HyperRecog.Resource.Style.Widget_AppCompat_Button_Borderless;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::HyperRecog.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::HyperRecog.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::HyperRecog.Resource.Style.Widget_AppCompat_Button_Colored;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Small = global::HyperRecog.Resource.Style.Widget_AppCompat_Button_Small;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::HyperRecog.Resource.Style.Widget_AppCompat_ButtonBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::HyperRecog.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::HyperRecog.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::HyperRecog.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::HyperRecog.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::HyperRecog.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::HyperRecog.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_EditText = global::HyperRecog.Resource.Style.Widget_AppCompat_EditText;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ImageButton = global::HyperRecog.Resource.Style.Widget_AppCompat_ImageButton;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_ActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_ActionButton;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_PopupMenu;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_SearchView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::HyperRecog.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListMenuView = global::HyperRecog.Resource.Style.Widget_AppCompat_ListMenuView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::HyperRecog.Resource.Style.Widget_AppCompat_ListPopupWindow;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListView = global::HyperRecog.Resource.Style.Widget_AppCompat_ListView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::HyperRecog.Resource.Style.Widget_AppCompat_ListView_DropDown;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::HyperRecog.Resource.Style.Widget_AppCompat_ListView_Menu;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::HyperRecog.Resource.Style.Widget_AppCompat_PopupMenu;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::HyperRecog.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::HyperRecog.Resource.Style.Widget_AppCompat_PopupWindow;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::HyperRecog.Resource.Style.Widget_AppCompat_ProgressBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::HyperRecog.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar = global::HyperRecog.Resource.Style.Widget_AppCompat_RatingBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::HyperRecog.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::HyperRecog.Resource.Style.Widget_AppCompat_RatingBar_Small;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SearchView = global::HyperRecog.Resource.Style.Widget_AppCompat_SearchView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::HyperRecog.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SeekBar = global::HyperRecog.Resource.Style.Widget_AppCompat_SeekBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::HyperRecog.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner = global::HyperRecog.Resource.Style.Widget_AppCompat_Spinner;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::HyperRecog.Resource.Style.Widget_AppCompat_Spinner_DropDown;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::HyperRecog.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::HyperRecog.Resource.Style.Widget_AppCompat_Spinner_Underlined;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::HyperRecog.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Toolbar = global::HyperRecog.Resource.Style.Widget_AppCompat_Toolbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::HyperRecog.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Compat_NotificationActionContainer = global::HyperRecog.Resource.Style.Widget_Compat_NotificationActionContainer;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Compat_NotificationActionText = global::HyperRecog.Resource.Style.Widget_Compat_NotificationActionText;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_AppBarLayout = global::HyperRecog.Resource.Style.Widget_Design_AppBarLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_BottomNavigationView = global::HyperRecog.Resource.Style.Widget_Design_BottomNavigationView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::HyperRecog.Resource.Style.Widget_Design_BottomSheet_Modal;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::HyperRecog.Resource.Style.Widget_Design_CollapsingToolbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_FloatingActionButton = global::HyperRecog.Resource.Style.Widget_Design_FloatingActionButton;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_NavigationView = global::HyperRecog.Resource.Style.Widget_Design_NavigationView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::HyperRecog.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_Snackbar = global::HyperRecog.Resource.Style.Widget_Design_Snackbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_TabLayout = global::HyperRecog.Resource.Style.Widget_Design_TabLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_TextInputLayout = global::HyperRecog.Resource.Style.Widget_Design_TextInputLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::HyperRecog.Resource.Style.Widget_MaterialComponents_BottomAppBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::HyperRecog.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::HyperRecog.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::HyperRecog.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::HyperRecog.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button = global::HyperRecog.Resource.Style.Widget_MaterialComponents_Button;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_Icon = global::HyperRecog.Resource.Style.Widget_MaterialComponents_Button_Icon;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::HyperRecog.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::HyperRecog.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::HyperRecog.Resource.Style.Widget_MaterialComponents_Button_TextButton;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::HyperRecog.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::HyperRecog.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::HyperRecog.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::HyperRecog.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::HyperRecog.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_CardView = global::HyperRecog.Resource.Style.Widget_MaterialComponents_CardView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Action = global::HyperRecog.Resource.Style.Widget_MaterialComponents_Chip_Action;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::HyperRecog.Resource.Style.Widget_MaterialComponents_Chip_Choice;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::HyperRecog.Resource.Style.Widget_MaterialComponents_Chip_Entry;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::HyperRecog.Resource.Style.Widget_MaterialComponents_Chip_Filter;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_ChipGroup = global::HyperRecog.Resource.Style.Widget_MaterialComponents_ChipGroup;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::HyperRecog.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_NavigationView = global::HyperRecog.Resource.Style.Widget_MaterialComponents_NavigationView;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Snackbar = global::HyperRecog.Resource.Style.Widget_MaterialComponents_Snackbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::HyperRecog.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TabLayout = global::HyperRecog.Resource.Style.Widget_MaterialComponents_TabLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::HyperRecog.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::HyperRecog.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::HyperRecog.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::HyperRecog.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::HyperRecog.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::HyperRecog.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::HyperRecog.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::HyperRecog.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::HyperRecog.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Toolbar = global::HyperRecog.Resource.Style.Widget_MaterialComponents_Toolbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Support_CoordinatorLayout = global::HyperRecog.Resource.Style.Widget_Support_CoordinatorLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.collectionViewStyle = global::HyperRecog.Resource.Style.collectionViewStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar = global::HyperRecog.Resource.Styleable.ActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_background = global::HyperRecog.Resource.Styleable.ActionBar_background;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_backgroundSplit = global::HyperRecog.Resource.Styleable.ActionBar_backgroundSplit;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_backgroundStacked = global::HyperRecog.Resource.Styleable.ActionBar_backgroundStacked;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::HyperRecog.Resource.Styleable.ActionBar_contentInsetEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::HyperRecog.Resource.Styleable.ActionBar_contentInsetEndWithActions;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::HyperRecog.Resource.Styleable.ActionBar_contentInsetLeft;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetRight = global::HyperRecog.Resource.Styleable.ActionBar_contentInsetRight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetStart = global::HyperRecog.Resource.Styleable.ActionBar_contentInsetStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::HyperRecog.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::HyperRecog.Resource.Styleable.ActionBar_customNavigationLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_displayOptions = global::HyperRecog.Resource.Styleable.ActionBar_displayOptions;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_divider = global::HyperRecog.Resource.Styleable.ActionBar_divider;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_elevation = global::HyperRecog.Resource.Styleable.ActionBar_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_height = global::HyperRecog.Resource.Styleable.ActionBar_height;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::HyperRecog.Resource.Styleable.ActionBar_hideOnContentScroll;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::HyperRecog.Resource.Styleable.ActionBar_homeAsUpIndicator;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_homeLayout = global::HyperRecog.Resource.Styleable.ActionBar_homeLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_icon = global::HyperRecog.Resource.Styleable.ActionBar_icon;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::HyperRecog.Resource.Styleable.ActionBar_indeterminateProgressStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_itemPadding = global::HyperRecog.Resource.Styleable.ActionBar_itemPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_logo = global::HyperRecog.Resource.Styleable.ActionBar_logo;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_navigationMode = global::HyperRecog.Resource.Styleable.ActionBar_navigationMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_popupTheme = global::HyperRecog.Resource.Styleable.ActionBar_popupTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_progressBarPadding = global::HyperRecog.Resource.Styleable.ActionBar_progressBarPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_progressBarStyle = global::HyperRecog.Resource.Styleable.ActionBar_progressBarStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_subtitle = global::HyperRecog.Resource.Styleable.ActionBar_subtitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::HyperRecog.Resource.Styleable.ActionBar_subtitleTextStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_title = global::HyperRecog.Resource.Styleable.ActionBar_title;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_titleTextStyle = global::HyperRecog.Resource.Styleable.ActionBar_titleTextStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBarLayout = global::HyperRecog.Resource.Styleable.ActionBarLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::HyperRecog.Resource.Styleable.ActionBarLayout_android_layout_gravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuItemView = global::HyperRecog.Resource.Styleable.ActionMenuItemView;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::HyperRecog.Resource.Styleable.ActionMenuItemView_android_minWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuView = global::HyperRecog.Resource.Styleable.ActionMenuView;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode = global::HyperRecog.Resource.Styleable.ActionMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_background = global::HyperRecog.Resource.Styleable.ActionMode_background;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_backgroundSplit = global::HyperRecog.Resource.Styleable.ActionMode_backgroundSplit;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_closeItemLayout = global::HyperRecog.Resource.Styleable.ActionMode_closeItemLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_height = global::HyperRecog.Resource.Styleable.ActionMode_height;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::HyperRecog.Resource.Styleable.ActionMode_subtitleTextStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_titleTextStyle = global::HyperRecog.Resource.Styleable.ActionMode_titleTextStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActivityChooserView = global::HyperRecog.Resource.Styleable.ActivityChooserView;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::HyperRecog.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::HyperRecog.Resource.Styleable.ActivityChooserView_initialActivityCount;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog = global::HyperRecog.Resource.Styleable.AlertDialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_android_layout = global::HyperRecog.Resource.Styleable.AlertDialog_android_layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_buttonIconDimen = global::HyperRecog.Resource.Styleable.AlertDialog_buttonIconDimen;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::HyperRecog.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_listItemLayout = global::HyperRecog.Resource.Styleable.AlertDialog_listItemLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_listLayout = global::HyperRecog.Resource.Styleable.AlertDialog_listLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::HyperRecog.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_showTitle = global::HyperRecog.Resource.Styleable.AlertDialog_showTitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::HyperRecog.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat = global::HyperRecog.Resource.Styleable.AnimatedStateListDrawableCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::HyperRecog.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::HyperRecog.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::HyperRecog.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::HyperRecog.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::HyperRecog.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::HyperRecog.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableItem = global::HyperRecog.Resource.Styleable.AnimatedStateListDrawableItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::HyperRecog.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::HyperRecog.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition = global::HyperRecog.Resource.Styleable.AnimatedStateListDrawableTransition;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::HyperRecog.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::HyperRecog.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::HyperRecog.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::HyperRecog.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout = global::HyperRecog.Resource.Styleable.AppBarLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_background = global::HyperRecog.Resource.Styleable.AppBarLayout_android_background;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::HyperRecog.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::HyperRecog.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_elevation = global::HyperRecog.Resource.Styleable.AppBarLayout_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_expanded = global::HyperRecog.Resource.Styleable.AppBarLayout_expanded;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_liftOnScroll = global::HyperRecog.Resource.Styleable.AppBarLayout_liftOnScroll;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates = global::HyperRecog.Resource.Styleable.AppBarLayoutStates;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::HyperRecog.Resource.Styleable.AppBarLayoutStates_state_collapsed;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::HyperRecog.Resource.Styleable.AppBarLayoutStates_state_collapsible;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_liftable = global::HyperRecog.Resource.Styleable.AppBarLayoutStates_state_liftable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_lifted = global::HyperRecog.Resource.Styleable.AppBarLayoutStates_state_lifted;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout = global::HyperRecog.Resource.Styleable.AppBarLayout_Layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::HyperRecog.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::HyperRecog.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView = global::HyperRecog.Resource.Styleable.AppCompatImageView;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_android_src = global::HyperRecog.Resource.Styleable.AppCompatImageView_android_src;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::HyperRecog.Resource.Styleable.AppCompatImageView_srcCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_tint = global::HyperRecog.Resource.Styleable.AppCompatImageView_tint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_tintMode = global::HyperRecog.Resource.Styleable.AppCompatImageView_tintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar = global::HyperRecog.Resource.Styleable.AppCompatSeekBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_android_thumb = global::HyperRecog.Resource.Styleable.AppCompatSeekBar_android_thumb;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_tickMark = global::HyperRecog.Resource.Styleable.AppCompatSeekBar_tickMark;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::HyperRecog.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::HyperRecog.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper = global::HyperRecog.Resource.Styleable.AppCompatTextHelper;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::HyperRecog.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::HyperRecog.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::HyperRecog.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::HyperRecog.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::HyperRecog.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::HyperRecog.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::HyperRecog.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView = global::HyperRecog.Resource.Styleable.AppCompatTextView;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::HyperRecog.Resource.Styleable.AppCompatTextView_android_textAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::HyperRecog.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::HyperRecog.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::HyperRecog.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::HyperRecog.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::HyperRecog.Resource.Styleable.AppCompatTextView_autoSizeTextType;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::HyperRecog.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_fontFamily = global::HyperRecog.Resource.Styleable.AppCompatTextView_fontFamily;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::HyperRecog.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_lineHeight = global::HyperRecog.Resource.Styleable.AppCompatTextView_lineHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::HyperRecog.Resource.Styleable.AppCompatTextView_textAllCaps;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme = global::HyperRecog.Resource.Styleable.AppCompatTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionBarDivider;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionBarSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionBarStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionBarTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionModeBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionModeStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::HyperRecog.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_alertDialogStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::HyperRecog.Resource.Styleable.AppCompatTheme_alertDialogTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::HyperRecog.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_buttonBarStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_buttonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::HyperRecog.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_checkboxStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::HyperRecog.Resource.Styleable.AppCompatTheme_colorAccent;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::HyperRecog.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::HyperRecog.Resource.Styleable.AppCompatTheme_colorButtonNormal;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::HyperRecog.Resource.Styleable.AppCompatTheme_colorControlActivated;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::HyperRecog.Resource.Styleable.AppCompatTheme_colorControlHighlight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::HyperRecog.Resource.Styleable.AppCompatTheme_colorControlNormal;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorError = global::HyperRecog.Resource.Styleable.AppCompatTheme_colorError;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::HyperRecog.Resource.Styleable.AppCompatTheme_colorPrimary;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::HyperRecog.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::HyperRecog.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::HyperRecog.Resource.Styleable.AppCompatTheme_controlBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::HyperRecog.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::HyperRecog.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::HyperRecog.Resource.Styleable.AppCompatTheme_dialogTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::HyperRecog.Resource.Styleable.AppCompatTheme_dividerHorizontal;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::HyperRecog.Resource.Styleable.AppCompatTheme_dividerVertical;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::HyperRecog.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::HyperRecog.Resource.Styleable.AppCompatTheme_editTextBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::HyperRecog.Resource.Styleable.AppCompatTheme_editTextColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_editTextStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::HyperRecog.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_imageButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::HyperRecog.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::HyperRecog.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::HyperRecog.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::HyperRecog.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::HyperRecog.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::HyperRecog.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::HyperRecog.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::HyperRecog.Resource.Styleable.AppCompatTheme_panelBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::HyperRecog.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::HyperRecog.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_popupMenuStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_popupWindowStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_radioButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_ratingBarStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::HyperRecog.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::HyperRecog.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_searchViewStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_seekBarStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::HyperRecog.Resource.Styleable.AppCompatTheme_selectableItemBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::HyperRecog.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_spinnerStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_switchStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::HyperRecog.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::HyperRecog.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::HyperRecog.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::HyperRecog.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::HyperRecog.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::HyperRecog.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::HyperRecog.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::HyperRecog.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::HyperRecog.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::HyperRecog.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::HyperRecog.Resource.Styleable.AppCompatTheme_toolbarStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::HyperRecog.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::HyperRecog.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::HyperRecog.Resource.Styleable.AppCompatTheme_viewInflaterClass;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::HyperRecog.Resource.Styleable.AppCompatTheme_windowActionBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::HyperRecog.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::HyperRecog.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::HyperRecog.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::HyperRecog.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::HyperRecog.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::HyperRecog.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::HyperRecog.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::HyperRecog.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::HyperRecog.Resource.Styleable.AppCompatTheme_windowNoTitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar = global::HyperRecog.Resource.Styleable.BottomAppBar;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_backgroundTint = global::HyperRecog.Resource.Styleable.BottomAppBar_backgroundTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::HyperRecog.Resource.Styleable.BottomAppBar_fabAlignmentMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_fabCradleMargin = global::HyperRecog.Resource.Styleable.BottomAppBar_fabCradleMargin;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::HyperRecog.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::HyperRecog.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_hideOnScroll = global::HyperRecog.Resource.Styleable.BottomAppBar_hideOnScroll;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView = global::HyperRecog.Resource.Styleable.BottomNavigationView;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_elevation = global::HyperRecog.Resource.Styleable.BottomNavigationView_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemBackground = global::HyperRecog.Resource.Styleable.BottomNavigationView_itemBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::HyperRecog.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemIconSize = global::HyperRecog.Resource.Styleable.BottomNavigationView_itemIconSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemIconTint = global::HyperRecog.Resource.Styleable.BottomNavigationView_itemIconTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::HyperRecog.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::HyperRecog.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemTextColor = global::HyperRecog.Resource.Styleable.BottomNavigationView_itemTextColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::HyperRecog.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_menu = global::HyperRecog.Resource.Styleable.BottomNavigationView_menu;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout = global::HyperRecog.Resource.Styleable.BottomSheetBehavior_Layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::HyperRecog.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::HyperRecog.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::HyperRecog.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::HyperRecog.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ButtonBarLayout = global::HyperRecog.Resource.Styleable.ButtonBarLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::HyperRecog.Resource.Styleable.ButtonBarLayout_allowStacking;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView = global::HyperRecog.Resource.Styleable.CardView;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_android_minHeight = global::HyperRecog.Resource.Styleable.CardView_android_minHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_android_minWidth = global::HyperRecog.Resource.Styleable.CardView_android_minWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardBackgroundColor = global::HyperRecog.Resource.Styleable.CardView_cardBackgroundColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardCornerRadius = global::HyperRecog.Resource.Styleable.CardView_cardCornerRadius;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardElevation = global::HyperRecog.Resource.Styleable.CardView_cardElevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardMaxElevation = global::HyperRecog.Resource.Styleable.CardView_cardMaxElevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardPreventCornerOverlap = global::HyperRecog.Resource.Styleable.CardView_cardPreventCornerOverlap;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardUseCompatPadding = global::HyperRecog.Resource.Styleable.CardView_cardUseCompatPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPadding = global::HyperRecog.Resource.Styleable.CardView_contentPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingBottom = global::HyperRecog.Resource.Styleable.CardView_contentPaddingBottom;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingLeft = global::HyperRecog.Resource.Styleable.CardView_contentPaddingLeft;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingRight = global::HyperRecog.Resource.Styleable.CardView_contentPaddingRight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingTop = global::HyperRecog.Resource.Styleable.CardView_contentPaddingTop;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip = global::HyperRecog.Resource.Styleable.Chip;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_checkable = global::HyperRecog.Resource.Styleable.Chip_android_checkable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_ellipsize = global::HyperRecog.Resource.Styleable.Chip_android_ellipsize;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_maxWidth = global::HyperRecog.Resource.Styleable.Chip_android_maxWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_text = global::HyperRecog.Resource.Styleable.Chip_android_text;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_textAppearance = global::HyperRecog.Resource.Styleable.Chip_android_textAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_checkedIcon = global::HyperRecog.Resource.Styleable.Chip_checkedIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_checkedIconEnabled = global::HyperRecog.Resource.Styleable.Chip_checkedIconEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_checkedIconVisible = global::HyperRecog.Resource.Styleable.Chip_checkedIconVisible;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipBackgroundColor = global::HyperRecog.Resource.Styleable.Chip_chipBackgroundColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipCornerRadius = global::HyperRecog.Resource.Styleable.Chip_chipCornerRadius;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipEndPadding = global::HyperRecog.Resource.Styleable.Chip_chipEndPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIcon = global::HyperRecog.Resource.Styleable.Chip_chipIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIconEnabled = global::HyperRecog.Resource.Styleable.Chip_chipIconEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIconSize = global::HyperRecog.Resource.Styleable.Chip_chipIconSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIconTint = global::HyperRecog.Resource.Styleable.Chip_chipIconTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIconVisible = global::HyperRecog.Resource.Styleable.Chip_chipIconVisible;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipMinHeight = global::HyperRecog.Resource.Styleable.Chip_chipMinHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipStartPadding = global::HyperRecog.Resource.Styleable.Chip_chipStartPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipStrokeColor = global::HyperRecog.Resource.Styleable.Chip_chipStrokeColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipStrokeWidth = global::HyperRecog.Resource.Styleable.Chip_chipStrokeWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIcon = global::HyperRecog.Resource.Styleable.Chip_closeIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconEnabled = global::HyperRecog.Resource.Styleable.Chip_closeIconEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconEndPadding = global::HyperRecog.Resource.Styleable.Chip_closeIconEndPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconSize = global::HyperRecog.Resource.Styleable.Chip_closeIconSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconStartPadding = global::HyperRecog.Resource.Styleable.Chip_closeIconStartPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconTint = global::HyperRecog.Resource.Styleable.Chip_closeIconTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconVisible = global::HyperRecog.Resource.Styleable.Chip_closeIconVisible;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_hideMotionSpec = global::HyperRecog.Resource.Styleable.Chip_hideMotionSpec;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_iconEndPadding = global::HyperRecog.Resource.Styleable.Chip_iconEndPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_iconStartPadding = global::HyperRecog.Resource.Styleable.Chip_iconStartPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_rippleColor = global::HyperRecog.Resource.Styleable.Chip_rippleColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_showMotionSpec = global::HyperRecog.Resource.Styleable.Chip_showMotionSpec;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_textEndPadding = global::HyperRecog.Resource.Styleable.Chip_textEndPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_textStartPadding = global::HyperRecog.Resource.Styleable.Chip_textStartPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup = global::HyperRecog.Resource.Styleable.ChipGroup;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_checkedChip = global::HyperRecog.Resource.Styleable.ChipGroup_checkedChip;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_chipSpacing = global::HyperRecog.Resource.Styleable.ChipGroup_chipSpacing;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::HyperRecog.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_chipSpacingVertical = global::HyperRecog.Resource.Styleable.ChipGroup_chipSpacingVertical;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_singleLine = global::HyperRecog.Resource.Styleable.ChipGroup_singleLine;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_singleSelection = global::HyperRecog.Resource.Styleable.ChipGroup_singleSelection;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout_title;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout_Layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::HyperRecog.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem = global::HyperRecog.Resource.Styleable.ColorStateListItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_alpha = global::HyperRecog.Resource.Styleable.ColorStateListItem_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_android_alpha = global::HyperRecog.Resource.Styleable.ColorStateListItem_android_alpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_android_color = global::HyperRecog.Resource.Styleable.ColorStateListItem_android_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton = global::HyperRecog.Resource.Styleable.CompoundButton;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton_android_button = global::HyperRecog.Resource.Styleable.CompoundButton_android_button;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton_buttonTint = global::HyperRecog.Resource.Styleable.CompoundButton_buttonTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::HyperRecog.Resource.Styleable.CompoundButton_buttonTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout = global::HyperRecog.Resource.Styleable.CoordinatorLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_keylines = global::HyperRecog.Resource.Styleable.CoordinatorLayout_keylines;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::HyperRecog.Resource.Styleable.CoordinatorLayout_statusBarBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout = global::HyperRecog.Resource.Styleable.CoordinatorLayout_Layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::HyperRecog.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::HyperRecog.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::HyperRecog.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::HyperRecog.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::HyperRecog.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::HyperRecog.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::HyperRecog.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme = global::HyperRecog.Resource.Styleable.DesignTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::HyperRecog.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme_bottomSheetStyle = global::HyperRecog.Resource.Styleable.DesignTheme_bottomSheetStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle = global::HyperRecog.Resource.Styleable.DrawerArrowToggle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::HyperRecog.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::HyperRecog.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::HyperRecog.Resource.Styleable.DrawerArrowToggle_barLength;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_color = global::HyperRecog.Resource.Styleable.DrawerArrowToggle_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::HyperRecog.Resource.Styleable.DrawerArrowToggle_drawableSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::HyperRecog.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::HyperRecog.Resource.Styleable.DrawerArrowToggle_spinBars;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::HyperRecog.Resource.Styleable.DrawerArrowToggle_thickness;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton = global::HyperRecog.Resource.Styleable.FloatingActionButton;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::HyperRecog.Resource.Styleable.FloatingActionButton_backgroundTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::HyperRecog.Resource.Styleable.FloatingActionButton_backgroundTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::HyperRecog.Resource.Styleable.FloatingActionButton_borderWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_elevation = global::HyperRecog.Resource.Styleable.FloatingActionButton_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_fabCustomSize = global::HyperRecog.Resource.Styleable.FloatingActionButton_fabCustomSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_fabSize = global::HyperRecog.Resource.Styleable.FloatingActionButton_fabSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::HyperRecog.Resource.Styleable.FloatingActionButton_hideMotionSpec;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::HyperRecog.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_maxImageSize = global::HyperRecog.Resource.Styleable.FloatingActionButton_maxImageSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::HyperRecog.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::HyperRecog.Resource.Styleable.FloatingActionButton_rippleColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_showMotionSpec = global::HyperRecog.Resource.Styleable.FloatingActionButton_showMotionSpec;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::HyperRecog.Resource.Styleable.FloatingActionButton_useCompatPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::HyperRecog.Resource.Styleable.FloatingActionButton_Behavior_Layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::HyperRecog.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FlowLayout = global::HyperRecog.Resource.Styleable.FlowLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FlowLayout_itemSpacing = global::HyperRecog.Resource.Styleable.FlowLayout_itemSpacing;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FlowLayout_lineSpacing = global::HyperRecog.Resource.Styleable.FlowLayout_lineSpacing;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily = global::HyperRecog.Resource.Styleable.FontFamily;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderAuthority = global::HyperRecog.Resource.Styleable.FontFamily_fontProviderAuthority;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderCerts = global::HyperRecog.Resource.Styleable.FontFamily_fontProviderCerts;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::HyperRecog.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::HyperRecog.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderPackage = global::HyperRecog.Resource.Styleable.FontFamily_fontProviderPackage;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderQuery = global::HyperRecog.Resource.Styleable.FontFamily_fontProviderQuery;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont = global::HyperRecog.Resource.Styleable.FontFamilyFont;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_font = global::HyperRecog.Resource.Styleable.FontFamilyFont_android_font;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontStyle = global::HyperRecog.Resource.Styleable.FontFamilyFont_android_fontStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::HyperRecog.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontWeight = global::HyperRecog.Resource.Styleable.FontFamilyFont_android_fontWeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::HyperRecog.Resource.Styleable.FontFamilyFont_android_ttcIndex;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_font = global::HyperRecog.Resource.Styleable.FontFamilyFont_font;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontStyle = global::HyperRecog.Resource.Styleable.FontFamilyFont_fontStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::HyperRecog.Resource.Styleable.FontFamilyFont_fontVariationSettings;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontWeight = global::HyperRecog.Resource.Styleable.FontFamilyFont_fontWeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_ttcIndex = global::HyperRecog.Resource.Styleable.FontFamilyFont_ttcIndex;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout = global::HyperRecog.Resource.Styleable.ForegroundLinearLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::HyperRecog.Resource.Styleable.ForegroundLinearLayout_android_foreground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::HyperRecog.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::HyperRecog.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor = global::HyperRecog.Resource.Styleable.GradientColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_centerColor = global::HyperRecog.Resource.Styleable.GradientColor_android_centerColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_centerX = global::HyperRecog.Resource.Styleable.GradientColor_android_centerX;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_centerY = global::HyperRecog.Resource.Styleable.GradientColor_android_centerY;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_endColor = global::HyperRecog.Resource.Styleable.GradientColor_android_endColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_endX = global::HyperRecog.Resource.Styleable.GradientColor_android_endX;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_endY = global::HyperRecog.Resource.Styleable.GradientColor_android_endY;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_gradientRadius = global::HyperRecog.Resource.Styleable.GradientColor_android_gradientRadius;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_startColor = global::HyperRecog.Resource.Styleable.GradientColor_android_startColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_startX = global::HyperRecog.Resource.Styleable.GradientColor_android_startX;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_startY = global::HyperRecog.Resource.Styleable.GradientColor_android_startY;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_tileMode = global::HyperRecog.Resource.Styleable.GradientColor_android_tileMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_type = global::HyperRecog.Resource.Styleable.GradientColor_android_type;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem = global::HyperRecog.Resource.Styleable.GradientColorItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem_android_color = global::HyperRecog.Resource.Styleable.GradientColorItem_android_color;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem_android_offset = global::HyperRecog.Resource.Styleable.GradientColorItem_android_offset;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat = global::HyperRecog.Resource.Styleable.LinearLayoutCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::HyperRecog.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::HyperRecog.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::HyperRecog.Resource.Styleable.LinearLayoutCompat_android_gravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::HyperRecog.Resource.Styleable.LinearLayoutCompat_android_orientation;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::HyperRecog.Resource.Styleable.LinearLayoutCompat_android_weightSum;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_divider = global::HyperRecog.Resource.Styleable.LinearLayoutCompat_divider;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::HyperRecog.Resource.Styleable.LinearLayoutCompat_dividerPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::HyperRecog.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::HyperRecog.Resource.Styleable.LinearLayoutCompat_showDividers;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::HyperRecog.Resource.Styleable.LinearLayoutCompat_Layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::HyperRecog.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::HyperRecog.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::HyperRecog.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::HyperRecog.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow = global::HyperRecog.Resource.Styleable.ListPopupWindow;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::HyperRecog.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::HyperRecog.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton = global::HyperRecog.Resource.Styleable.MaterialButton;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_android_insetBottom = global::HyperRecog.Resource.Styleable.MaterialButton_android_insetBottom;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_android_insetLeft = global::HyperRecog.Resource.Styleable.MaterialButton_android_insetLeft;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_android_insetRight = global::HyperRecog.Resource.Styleable.MaterialButton_android_insetRight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_android_insetTop = global::HyperRecog.Resource.Styleable.MaterialButton_android_insetTop;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_backgroundTint = global::HyperRecog.Resource.Styleable.MaterialButton_backgroundTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_backgroundTintMode = global::HyperRecog.Resource.Styleable.MaterialButton_backgroundTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_cornerRadius = global::HyperRecog.Resource.Styleable.MaterialButton_cornerRadius;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_icon = global::HyperRecog.Resource.Styleable.MaterialButton_icon;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconGravity = global::HyperRecog.Resource.Styleable.MaterialButton_iconGravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconPadding = global::HyperRecog.Resource.Styleable.MaterialButton_iconPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconSize = global::HyperRecog.Resource.Styleable.MaterialButton_iconSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconTint = global::HyperRecog.Resource.Styleable.MaterialButton_iconTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconTintMode = global::HyperRecog.Resource.Styleable.MaterialButton_iconTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_rippleColor = global::HyperRecog.Resource.Styleable.MaterialButton_rippleColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_strokeColor = global::HyperRecog.Resource.Styleable.MaterialButton_strokeColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_strokeWidth = global::HyperRecog.Resource.Styleable.MaterialButton_strokeWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialCardView = global::HyperRecog.Resource.Styleable.MaterialCardView;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialCardView_strokeColor = global::HyperRecog.Resource.Styleable.MaterialCardView_strokeColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialCardView_strokeWidth = global::HyperRecog.Resource.Styleable.MaterialCardView_strokeWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_chipStyle = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_chipStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorAccent = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_colorAccent;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorPrimary = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_colorPrimary;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorSecondary = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_colorSecondary;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_editTextStyle = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_editTextStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_scrimBackground = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_scrimBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_tabStyle = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_tabStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1 = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2 = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1 = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2 = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3 = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4 = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5 = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6 = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1 = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2 = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textInputStyle = global::HyperRecog.Resource.Styleable.MaterialComponentsTheme_textInputStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup = global::HyperRecog.Resource.Styleable.MenuGroup;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::HyperRecog.Resource.Styleable.MenuGroup_android_checkableBehavior;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_enabled = global::HyperRecog.Resource.Styleable.MenuGroup_android_enabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_id = global::HyperRecog.Resource.Styleable.MenuGroup_android_id;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::HyperRecog.Resource.Styleable.MenuGroup_android_menuCategory;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::HyperRecog.Resource.Styleable.MenuGroup_android_orderInCategory;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_visible = global::HyperRecog.Resource.Styleable.MenuGroup_android_visible;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem = global::HyperRecog.Resource.Styleable.MenuItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_actionLayout = global::HyperRecog.Resource.Styleable.MenuItem_actionLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_actionProviderClass = global::HyperRecog.Resource.Styleable.MenuItem_actionProviderClass;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_actionViewClass = global::HyperRecog.Resource.Styleable.MenuItem_actionViewClass;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_alphabeticModifiers = global::HyperRecog.Resource.Styleable.MenuItem_alphabeticModifiers;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::HyperRecog.Resource.Styleable.MenuItem_android_alphabeticShortcut;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_checkable = global::HyperRecog.Resource.Styleable.MenuItem_android_checkable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_checked = global::HyperRecog.Resource.Styleable.MenuItem_android_checked;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_enabled = global::HyperRecog.Resource.Styleable.MenuItem_android_enabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_icon = global::HyperRecog.Resource.Styleable.MenuItem_android_icon;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_id = global::HyperRecog.Resource.Styleable.MenuItem_android_id;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_menuCategory = global::HyperRecog.Resource.Styleable.MenuItem_android_menuCategory;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::HyperRecog.Resource.Styleable.MenuItem_android_numericShortcut;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_onClick = global::HyperRecog.Resource.Styleable.MenuItem_android_onClick;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::HyperRecog.Resource.Styleable.MenuItem_android_orderInCategory;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_title = global::HyperRecog.Resource.Styleable.MenuItem_android_title;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::HyperRecog.Resource.Styleable.MenuItem_android_titleCondensed;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_visible = global::HyperRecog.Resource.Styleable.MenuItem_android_visible;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_contentDescription = global::HyperRecog.Resource.Styleable.MenuItem_contentDescription;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_iconTint = global::HyperRecog.Resource.Styleable.MenuItem_iconTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_iconTintMode = global::HyperRecog.Resource.Styleable.MenuItem_iconTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_numericModifiers = global::HyperRecog.Resource.Styleable.MenuItem_numericModifiers;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_showAsAction = global::HyperRecog.Resource.Styleable.MenuItem_showAsAction;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_tooltipText = global::HyperRecog.Resource.Styleable.MenuItem_tooltipText;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView = global::HyperRecog.Resource.Styleable.MenuView;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_headerBackground = global::HyperRecog.Resource.Styleable.MenuView_android_headerBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::HyperRecog.Resource.Styleable.MenuView_android_horizontalDivider;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_itemBackground = global::HyperRecog.Resource.Styleable.MenuView_android_itemBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::HyperRecog.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::HyperRecog.Resource.Styleable.MenuView_android_itemTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_verticalDivider = global::HyperRecog.Resource.Styleable.MenuView_android_verticalDivider;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::HyperRecog.Resource.Styleable.MenuView_android_windowAnimationStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::HyperRecog.Resource.Styleable.MenuView_preserveIconSpacing;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_subMenuArrow = global::HyperRecog.Resource.Styleable.MenuView_subMenuArrow;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView = global::HyperRecog.Resource.Styleable.NavigationView;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_android_background = global::HyperRecog.Resource.Styleable.NavigationView_android_background;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::HyperRecog.Resource.Styleable.NavigationView_android_fitsSystemWindows;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_android_maxWidth = global::HyperRecog.Resource.Styleable.NavigationView_android_maxWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_elevation = global::HyperRecog.Resource.Styleable.NavigationView_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_headerLayout = global::HyperRecog.Resource.Styleable.NavigationView_headerLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemBackground = global::HyperRecog.Resource.Styleable.NavigationView_itemBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemHorizontalPadding = global::HyperRecog.Resource.Styleable.NavigationView_itemHorizontalPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemIconPadding = global::HyperRecog.Resource.Styleable.NavigationView_itemIconPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemIconTint = global::HyperRecog.Resource.Styleable.NavigationView_itemIconTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::HyperRecog.Resource.Styleable.NavigationView_itemTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemTextColor = global::HyperRecog.Resource.Styleable.NavigationView_itemTextColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_menu = global::HyperRecog.Resource.Styleable.NavigationView_menu;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow = global::HyperRecog.Resource.Styleable.PopupWindow;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::HyperRecog.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::HyperRecog.Resource.Styleable.PopupWindow_android_popupBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::HyperRecog.Resource.Styleable.PopupWindow_overlapAnchor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindowBackgroundState = global::HyperRecog.Resource.Styleable.PopupWindowBackgroundState;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::HyperRecog.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView = global::HyperRecog.Resource.Styleable.RecycleListView;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::HyperRecog.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::HyperRecog.Resource.Styleable.RecycleListView_paddingTopNoTitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView = global::HyperRecog.Resource.Styleable.RecyclerView;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_android_descendantFocusability = global::HyperRecog.Resource.Styleable.RecyclerView_android_descendantFocusability;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_android_orientation = global::HyperRecog.Resource.Styleable.RecyclerView_android_orientation;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollEnabled = global::HyperRecog.Resource.Styleable.RecyclerView_fastScrollEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::HyperRecog.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::HyperRecog.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::HyperRecog.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::HyperRecog.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_layoutManager = global::HyperRecog.Resource.Styleable.RecyclerView_layoutManager;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_reverseLayout = global::HyperRecog.Resource.Styleable.RecyclerView_reverseLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_spanCount = global::HyperRecog.Resource.Styleable.RecyclerView_spanCount;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_stackFromEnd = global::HyperRecog.Resource.Styleable.RecyclerView_stackFromEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrimInsetsFrameLayout = global::HyperRecog.Resource.Styleable.ScrimInsetsFrameLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::HyperRecog.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrollingViewBehavior_Layout = global::HyperRecog.Resource.Styleable.ScrollingViewBehavior_Layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::HyperRecog.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView = global::HyperRecog.Resource.Styleable.SearchView;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_focusable = global::HyperRecog.Resource.Styleable.SearchView_android_focusable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_imeOptions = global::HyperRecog.Resource.Styleable.SearchView_android_imeOptions;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_inputType = global::HyperRecog.Resource.Styleable.SearchView_android_inputType;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_maxWidth = global::HyperRecog.Resource.Styleable.SearchView_android_maxWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_closeIcon = global::HyperRecog.Resource.Styleable.SearchView_closeIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_commitIcon = global::HyperRecog.Resource.Styleable.SearchView_commitIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_defaultQueryHint = global::HyperRecog.Resource.Styleable.SearchView_defaultQueryHint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_goIcon = global::HyperRecog.Resource.Styleable.SearchView_goIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::HyperRecog.Resource.Styleable.SearchView_iconifiedByDefault;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_layout = global::HyperRecog.Resource.Styleable.SearchView_layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_queryBackground = global::HyperRecog.Resource.Styleable.SearchView_queryBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_queryHint = global::HyperRecog.Resource.Styleable.SearchView_queryHint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_searchHintIcon = global::HyperRecog.Resource.Styleable.SearchView_searchHintIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_searchIcon = global::HyperRecog.Resource.Styleable.SearchView_searchIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_submitBackground = global::HyperRecog.Resource.Styleable.SearchView_submitBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::HyperRecog.Resource.Styleable.SearchView_suggestionRowLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_voiceIcon = global::HyperRecog.Resource.Styleable.SearchView_voiceIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar = global::HyperRecog.Resource.Styleable.Snackbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar_snackbarButtonStyle = global::HyperRecog.Resource.Styleable.Snackbar_snackbarButtonStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar_snackbarStyle = global::HyperRecog.Resource.Styleable.Snackbar_snackbarStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout = global::HyperRecog.Resource.Styleable.SnackbarLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::HyperRecog.Resource.Styleable.SnackbarLayout_android_maxWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_elevation = global::HyperRecog.Resource.Styleable.SnackbarLayout_elevation;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::HyperRecog.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner = global::HyperRecog.Resource.Styleable.Spinner;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::HyperRecog.Resource.Styleable.Spinner_android_dropDownWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_entries = global::HyperRecog.Resource.Styleable.Spinner_android_entries;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_popupBackground = global::HyperRecog.Resource.Styleable.Spinner_android_popupBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_prompt = global::HyperRecog.Resource.Styleable.Spinner_android_prompt;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_popupTheme = global::HyperRecog.Resource.Styleable.Spinner_popupTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable = global::HyperRecog.Resource.Styleable.StateListDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_constantSize = global::HyperRecog.Resource.Styleable.StateListDrawable_android_constantSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_dither = global::HyperRecog.Resource.Styleable.StateListDrawable_android_dither;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::HyperRecog.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::HyperRecog.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_variablePadding = global::HyperRecog.Resource.Styleable.StateListDrawable_android_variablePadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_visible = global::HyperRecog.Resource.Styleable.StateListDrawable_android_visible;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawableItem = global::HyperRecog.Resource.Styleable.StateListDrawableItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawableItem_android_drawable = global::HyperRecog.Resource.Styleable.StateListDrawableItem_android_drawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat = global::HyperRecog.Resource.Styleable.SwitchCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_textOff = global::HyperRecog.Resource.Styleable.SwitchCompat_android_textOff;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_textOn = global::HyperRecog.Resource.Styleable.SwitchCompat_android_textOn;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_thumb = global::HyperRecog.Resource.Styleable.SwitchCompat_android_thumb;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_showText = global::HyperRecog.Resource.Styleable.SwitchCompat_showText;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_splitTrack = global::HyperRecog.Resource.Styleable.SwitchCompat_splitTrack;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::HyperRecog.Resource.Styleable.SwitchCompat_switchMinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_switchPadding = global::HyperRecog.Resource.Styleable.SwitchCompat_switchPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::HyperRecog.Resource.Styleable.SwitchCompat_switchTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::HyperRecog.Resource.Styleable.SwitchCompat_thumbTextPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_thumbTint = global::HyperRecog.Resource.Styleable.SwitchCompat_thumbTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_thumbTintMode = global::HyperRecog.Resource.Styleable.SwitchCompat_thumbTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_track = global::HyperRecog.Resource.Styleable.SwitchCompat_track;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_trackTint = global::HyperRecog.Resource.Styleable.SwitchCompat_trackTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_trackTintMode = global::HyperRecog.Resource.Styleable.SwitchCompat_trackTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem = global::HyperRecog.Resource.Styleable.TabItem;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem_android_icon = global::HyperRecog.Resource.Styleable.TabItem_android_icon;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem_android_layout = global::HyperRecog.Resource.Styleable.TabItem_android_layout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem_android_text = global::HyperRecog.Resource.Styleable.TabItem_android_text;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout = global::HyperRecog.Resource.Styleable.TabLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabBackground = global::HyperRecog.Resource.Styleable.TabLayout_tabBackground;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabContentStart = global::HyperRecog.Resource.Styleable.TabLayout_tabContentStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabGravity = global::HyperRecog.Resource.Styleable.TabLayout_tabGravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIconTint = global::HyperRecog.Resource.Styleable.TabLayout_tabIconTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIconTintMode = global::HyperRecog.Resource.Styleable.TabLayout_tabIconTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicator = global::HyperRecog.Resource.Styleable.TabLayout_tabIndicator;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::HyperRecog.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::HyperRecog.Resource.Styleable.TabLayout_tabIndicatorColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::HyperRecog.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorGravity = global::HyperRecog.Resource.Styleable.TabLayout_tabIndicatorGravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::HyperRecog.Resource.Styleable.TabLayout_tabIndicatorHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabInlineLabel = global::HyperRecog.Resource.Styleable.TabLayout_tabInlineLabel;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::HyperRecog.Resource.Styleable.TabLayout_tabMaxWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMinWidth = global::HyperRecog.Resource.Styleable.TabLayout_tabMinWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMode = global::HyperRecog.Resource.Styleable.TabLayout_tabMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPadding = global::HyperRecog.Resource.Styleable.TabLayout_tabPadding;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingBottom = global::HyperRecog.Resource.Styleable.TabLayout_tabPaddingBottom;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::HyperRecog.Resource.Styleable.TabLayout_tabPaddingEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::HyperRecog.Resource.Styleable.TabLayout_tabPaddingStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::HyperRecog.Resource.Styleable.TabLayout_tabPaddingTop;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabRippleColor = global::HyperRecog.Resource.Styleable.TabLayout_tabRippleColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::HyperRecog.Resource.Styleable.TabLayout_tabSelectedTextColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::HyperRecog.Resource.Styleable.TabLayout_tabTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabTextColor = global::HyperRecog.Resource.Styleable.TabLayout_tabTextColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabUnboundedRipple = global::HyperRecog.Resource.Styleable.TabLayout_tabUnboundedRipple;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance = global::HyperRecog.Resource.Styleable.TextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_fontFamily = global::HyperRecog.Resource.Styleable.TextAppearance_android_fontFamily;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::HyperRecog.Resource.Styleable.TextAppearance_android_shadowColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::HyperRecog.Resource.Styleable.TextAppearance_android_shadowDx;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::HyperRecog.Resource.Styleable.TextAppearance_android_shadowDy;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::HyperRecog.Resource.Styleable.TextAppearance_android_shadowRadius;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textColor = global::HyperRecog.Resource.Styleable.TextAppearance_android_textColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textColorHint = global::HyperRecog.Resource.Styleable.TextAppearance_android_textColorHint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textColorLink = global::HyperRecog.Resource.Styleable.TextAppearance_android_textColorLink;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textSize = global::HyperRecog.Resource.Styleable.TextAppearance_android_textSize;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textStyle = global::HyperRecog.Resource.Styleable.TextAppearance_android_textStyle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_typeface = global::HyperRecog.Resource.Styleable.TextAppearance_android_typeface;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_fontFamily = global::HyperRecog.Resource.Styleable.TextAppearance_fontFamily;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_textAllCaps = global::HyperRecog.Resource.Styleable.TextAppearance_textAllCaps;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout = global::HyperRecog.Resource.Styleable.TextInputLayout;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_android_hint = global::HyperRecog.Resource.Styleable.TextInputLayout_android_hint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::HyperRecog.Resource.Styleable.TextInputLayout_android_textColorHint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::HyperRecog.Resource.Styleable.TextInputLayout_boxBackgroundColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::HyperRecog.Resource.Styleable.TextInputLayout_boxBackgroundMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::HyperRecog.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::HyperRecog.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::HyperRecog.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::HyperRecog.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::HyperRecog.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxStrokeColor = global::HyperRecog.Resource.Styleable.TextInputLayout_boxStrokeColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::HyperRecog.Resource.Styleable.TextInputLayout_boxStrokeWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::HyperRecog.Resource.Styleable.TextInputLayout_counterEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::HyperRecog.Resource.Styleable.TextInputLayout_counterMaxLength;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::HyperRecog.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::HyperRecog.Resource.Styleable.TextInputLayout_counterTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::HyperRecog.Resource.Styleable.TextInputLayout_errorEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::HyperRecog.Resource.Styleable.TextInputLayout_errorTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_helperText = global::HyperRecog.Resource.Styleable.TextInputLayout_helperText;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_helperTextEnabled = global::HyperRecog.Resource.Styleable.TextInputLayout_helperTextEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::HyperRecog.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::HyperRecog.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::HyperRecog.Resource.Styleable.TextInputLayout_hintEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::HyperRecog.Resource.Styleable.TextInputLayout_hintTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::HyperRecog.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::HyperRecog.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::HyperRecog.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleTint = global::HyperRecog.Resource.Styleable.TextInputLayout_passwordToggleTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::HyperRecog.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement = global::HyperRecog.Resource.Styleable.ThemeEnforcement;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::HyperRecog.Resource.Styleable.ThemeEnforcement_android_textAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::HyperRecog.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::HyperRecog.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar = global::HyperRecog.Resource.Styleable.Toolbar;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_android_gravity = global::HyperRecog.Resource.Styleable.Toolbar_android_gravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_android_minHeight = global::HyperRecog.Resource.Styleable.Toolbar_android_minHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_buttonGravity = global::HyperRecog.Resource.Styleable.Toolbar_buttonGravity;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::HyperRecog.Resource.Styleable.Toolbar_collapseContentDescription;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_collapseIcon = global::HyperRecog.Resource.Styleable.Toolbar_collapseIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::HyperRecog.Resource.Styleable.Toolbar_contentInsetEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::HyperRecog.Resource.Styleable.Toolbar_contentInsetEndWithActions;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::HyperRecog.Resource.Styleable.Toolbar_contentInsetLeft;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetRight = global::HyperRecog.Resource.Styleable.Toolbar_contentInsetRight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetStart = global::HyperRecog.Resource.Styleable.Toolbar_contentInsetStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::HyperRecog.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_logo = global::HyperRecog.Resource.Styleable.Toolbar_logo;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_logoDescription = global::HyperRecog.Resource.Styleable.Toolbar_logoDescription;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::HyperRecog.Resource.Styleable.Toolbar_maxButtonHeight;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::HyperRecog.Resource.Styleable.Toolbar_navigationContentDescription;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_navigationIcon = global::HyperRecog.Resource.Styleable.Toolbar_navigationIcon;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_popupTheme = global::HyperRecog.Resource.Styleable.Toolbar_popupTheme;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_subtitle = global::HyperRecog.Resource.Styleable.Toolbar_subtitle;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::HyperRecog.Resource.Styleable.Toolbar_subtitleTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::HyperRecog.Resource.Styleable.Toolbar_subtitleTextColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_title = global::HyperRecog.Resource.Styleable.Toolbar_title;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMargin = global::HyperRecog.Resource.Styleable.Toolbar_titleMargin;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::HyperRecog.Resource.Styleable.Toolbar_titleMarginBottom;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::HyperRecog.Resource.Styleable.Toolbar_titleMarginEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginStart = global::HyperRecog.Resource.Styleable.Toolbar_titleMarginStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginTop = global::HyperRecog.Resource.Styleable.Toolbar_titleMarginTop;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMargins = global::HyperRecog.Resource.Styleable.Toolbar_titleMargins;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::HyperRecog.Resource.Styleable.Toolbar_titleTextAppearance;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleTextColor = global::HyperRecog.Resource.Styleable.Toolbar_titleTextColor;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View = global::HyperRecog.Resource.Styleable.View;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_android_focusable = global::HyperRecog.Resource.Styleable.View_android_focusable;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_android_theme = global::HyperRecog.Resource.Styleable.View_android_theme;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_paddingEnd = global::HyperRecog.Resource.Styleable.View_paddingEnd;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_paddingStart = global::HyperRecog.Resource.Styleable.View_paddingStart;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_theme = global::HyperRecog.Resource.Styleable.View_theme;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper = global::HyperRecog.Resource.Styleable.ViewBackgroundHelper;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::HyperRecog.Resource.Styleable.ViewBackgroundHelper_android_background;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::HyperRecog.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::HyperRecog.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat = global::HyperRecog.Resource.Styleable.ViewStubCompat;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_id = global::HyperRecog.Resource.Styleable.ViewStubCompat_android_id;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::HyperRecog.Resource.Styleable.ViewStubCompat_android_inflatedId;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_layout = global::HyperRecog.Resource.Styleable.ViewStubCompat_android_layout;
 		}
 		
 		public partial class Animation
@@ -3004,18 +442,6 @@ namespace HyperRecog
 			
 			// aapt resource value: 0x7F01000F
 			public const int design_snackbar_out = 2130771983;
-			
-			// aapt resource value: 0x7F010010
-			public const int EnterFromLeft = 2130771984;
-			
-			// aapt resource value: 0x7F010011
-			public const int EnterFromRight = 2130771985;
-			
-			// aapt resource value: 0x7F010012
-			public const int ExitToLeft = 2130771986;
-			
-			// aapt resource value: 0x7F010013
-			public const int ExitToRight = 2130771987;
 			
 			static Animation()
 			{
@@ -4882,73 +2308,70 @@ namespace HyperRecog
 			public const int notification_icon_bg_color = 2131034224;
 			
 			// aapt resource value: 0x7F050071
-			public const int notification_material_background_media_default_color = 2131034225;
+			public const int primary_dark_material_dark = 2131034225;
 			
 			// aapt resource value: 0x7F050072
-			public const int primary_dark_material_dark = 2131034226;
+			public const int primary_dark_material_light = 2131034226;
 			
 			// aapt resource value: 0x7F050073
-			public const int primary_dark_material_light = 2131034227;
+			public const int primary_material_dark = 2131034227;
 			
 			// aapt resource value: 0x7F050074
-			public const int primary_material_dark = 2131034228;
+			public const int primary_material_light = 2131034228;
 			
 			// aapt resource value: 0x7F050075
-			public const int primary_material_light = 2131034229;
+			public const int primary_text_default_material_dark = 2131034229;
 			
 			// aapt resource value: 0x7F050076
-			public const int primary_text_default_material_dark = 2131034230;
+			public const int primary_text_default_material_light = 2131034230;
 			
 			// aapt resource value: 0x7F050077
-			public const int primary_text_default_material_light = 2131034231;
+			public const int primary_text_disabled_material_dark = 2131034231;
 			
 			// aapt resource value: 0x7F050078
-			public const int primary_text_disabled_material_dark = 2131034232;
+			public const int primary_text_disabled_material_light = 2131034232;
 			
 			// aapt resource value: 0x7F050079
-			public const int primary_text_disabled_material_light = 2131034233;
+			public const int ripple_material_dark = 2131034233;
 			
 			// aapt resource value: 0x7F05007A
-			public const int ripple_material_dark = 2131034234;
+			public const int ripple_material_light = 2131034234;
 			
 			// aapt resource value: 0x7F05007B
-			public const int ripple_material_light = 2131034235;
+			public const int secondary_text_default_material_dark = 2131034235;
 			
 			// aapt resource value: 0x7F05007C
-			public const int secondary_text_default_material_dark = 2131034236;
+			public const int secondary_text_default_material_light = 2131034236;
 			
 			// aapt resource value: 0x7F05007D
-			public const int secondary_text_default_material_light = 2131034237;
+			public const int secondary_text_disabled_material_dark = 2131034237;
 			
 			// aapt resource value: 0x7F05007E
-			public const int secondary_text_disabled_material_dark = 2131034238;
+			public const int secondary_text_disabled_material_light = 2131034238;
 			
 			// aapt resource value: 0x7F05007F
-			public const int secondary_text_disabled_material_light = 2131034239;
+			public const int switch_thumb_disabled_material_dark = 2131034239;
 			
 			// aapt resource value: 0x7F050080
-			public const int switch_thumb_disabled_material_dark = 2131034240;
+			public const int switch_thumb_disabled_material_light = 2131034240;
 			
 			// aapt resource value: 0x7F050081
-			public const int switch_thumb_disabled_material_light = 2131034241;
+			public const int switch_thumb_material_dark = 2131034241;
 			
 			// aapt resource value: 0x7F050082
-			public const int switch_thumb_material_dark = 2131034242;
+			public const int switch_thumb_material_light = 2131034242;
 			
 			// aapt resource value: 0x7F050083
-			public const int switch_thumb_material_light = 2131034243;
+			public const int switch_thumb_normal_material_dark = 2131034243;
 			
 			// aapt resource value: 0x7F050084
-			public const int switch_thumb_normal_material_dark = 2131034244;
+			public const int switch_thumb_normal_material_light = 2131034244;
 			
 			// aapt resource value: 0x7F050085
-			public const int switch_thumb_normal_material_light = 2131034245;
+			public const int tooltip_background_dark = 2131034245;
 			
 			// aapt resource value: 0x7F050086
-			public const int tooltip_background_dark = 2131034246;
-			
-			// aapt resource value: 0x7F050087
-			public const int tooltip_background_light = 2131034247;
+			public const int tooltip_background_light = 2131034246;
 			
 			static Color()
 			{
@@ -5591,40 +3014,28 @@ namespace HyperRecog
 			public const int notification_top_pad_large_text = 2131099856;
 			
 			// aapt resource value: 0x7F0600D1
-			public const int subtitle_corner_radius = 2131099857;
+			public const int tooltip_corner_radius = 2131099857;
 			
 			// aapt resource value: 0x7F0600D2
-			public const int subtitle_outline_width = 2131099858;
+			public const int tooltip_horizontal_padding = 2131099858;
 			
 			// aapt resource value: 0x7F0600D3
-			public const int subtitle_shadow_offset = 2131099859;
+			public const int tooltip_margin = 2131099859;
 			
 			// aapt resource value: 0x7F0600D4
-			public const int subtitle_shadow_radius = 2131099860;
+			public const int tooltip_precise_anchor_extra_offset = 2131099860;
 			
 			// aapt resource value: 0x7F0600D5
-			public const int tooltip_corner_radius = 2131099861;
+			public const int tooltip_precise_anchor_threshold = 2131099861;
 			
 			// aapt resource value: 0x7F0600D6
-			public const int tooltip_horizontal_padding = 2131099862;
+			public const int tooltip_vertical_padding = 2131099862;
 			
 			// aapt resource value: 0x7F0600D7
-			public const int tooltip_margin = 2131099863;
+			public const int tooltip_y_offset_non_touch = 2131099863;
 			
 			// aapt resource value: 0x7F0600D8
-			public const int tooltip_precise_anchor_extra_offset = 2131099864;
-			
-			// aapt resource value: 0x7F0600D9
-			public const int tooltip_precise_anchor_threshold = 2131099865;
-			
-			// aapt resource value: 0x7F0600DA
-			public const int tooltip_vertical_padding = 2131099866;
-			
-			// aapt resource value: 0x7F0600DB
-			public const int tooltip_y_offset_non_touch = 2131099867;
-			
-			// aapt resource value: 0x7F0600DC
-			public const int tooltip_y_offset_touch = 2131099868;
+			public const int tooltip_y_offset_touch = 2131099864;
 			
 			static Dimension()
 			{
@@ -6009,45 +3420,6 @@ namespace HyperRecog
 			// aapt resource value: 0x7F080001
 			public const int nunito_black = 2131230721;
 			
-			// aapt resource value: 0x7F080002
-			public const int nunito_blackitalic = 2131230722;
-			
-			// aapt resource value: 0x7F080003
-			public const int nunito_bold = 2131230723;
-			
-			// aapt resource value: 0x7F080004
-			public const int nunito_bolditalic = 2131230724;
-			
-			// aapt resource value: 0x7F080005
-			public const int nunito_extrabold = 2131230725;
-			
-			// aapt resource value: 0x7F080006
-			public const int nunito_extrabolditalic = 2131230726;
-			
-			// aapt resource value: 0x7F080007
-			public const int nunito_extralight = 2131230727;
-			
-			// aapt resource value: 0x7F080008
-			public const int nunito_extralightitalic = 2131230728;
-			
-			// aapt resource value: 0x7F080009
-			public const int nunito_italic = 2131230729;
-			
-			// aapt resource value: 0x7F08000A
-			public const int nunito_light = 2131230730;
-			
-			// aapt resource value: 0x7F08000B
-			public const int nunito_lightitalic = 2131230731;
-			
-			// aapt resource value: 0x7F08000C
-			public const int nunito_regular = 2131230732;
-			
-			// aapt resource value: 0x7F08000D
-			public const int nunito_semibold = 2131230733;
-			
-			// aapt resource value: 0x7F08000E
-			public const int nunito_semiboldItalic = 2131230734;
-			
 			static Font()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -6061,731 +3433,686 @@ namespace HyperRecog
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7F090006
-			public const int action0 = 2131296262;
+			// aapt resource value: 0x7F090017
+			public const int actions = 2131296279;
 			
-			// aapt resource value: 0x7F090018
-			public const int actions = 2131296280;
+			// aapt resource value: 0x7F090006
+			public const int action_bar = 2131296262;
 			
 			// aapt resource value: 0x7F090007
-			public const int action_bar = 2131296263;
+			public const int action_bar_activity_content = 2131296263;
 			
 			// aapt resource value: 0x7F090008
-			public const int action_bar_activity_content = 2131296264;
+			public const int action_bar_container = 2131296264;
 			
 			// aapt resource value: 0x7F090009
-			public const int action_bar_container = 2131296265;
+			public const int action_bar_root = 2131296265;
 			
 			// aapt resource value: 0x7F09000A
-			public const int action_bar_root = 2131296266;
+			public const int action_bar_spinner = 2131296266;
 			
 			// aapt resource value: 0x7F09000B
-			public const int action_bar_spinner = 2131296267;
+			public const int action_bar_subtitle = 2131296267;
 			
 			// aapt resource value: 0x7F09000C
-			public const int action_bar_subtitle = 2131296268;
+			public const int action_bar_title = 2131296268;
 			
 			// aapt resource value: 0x7F09000D
-			public const int action_bar_title = 2131296269;
+			public const int action_container = 2131296269;
 			
 			// aapt resource value: 0x7F09000E
-			public const int action_container = 2131296270;
+			public const int action_context_bar = 2131296270;
 			
 			// aapt resource value: 0x7F09000F
-			public const int action_context_bar = 2131296271;
+			public const int action_divider = 2131296271;
 			
 			// aapt resource value: 0x7F090010
-			public const int action_divider = 2131296272;
+			public const int action_image = 2131296272;
 			
 			// aapt resource value: 0x7F090011
-			public const int action_image = 2131296273;
+			public const int action_menu_divider = 2131296273;
 			
 			// aapt resource value: 0x7F090012
-			public const int action_menu_divider = 2131296274;
+			public const int action_menu_presenter = 2131296274;
 			
 			// aapt resource value: 0x7F090013
-			public const int action_menu_presenter = 2131296275;
+			public const int action_mode_bar = 2131296275;
 			
 			// aapt resource value: 0x7F090014
-			public const int action_mode_bar = 2131296276;
+			public const int action_mode_bar_stub = 2131296276;
 			
 			// aapt resource value: 0x7F090015
-			public const int action_mode_bar_stub = 2131296277;
+			public const int action_mode_close_button = 2131296277;
 			
 			// aapt resource value: 0x7F090016
-			public const int action_mode_close_button = 2131296278;
+			public const int action_text = 2131296278;
 			
-			// aapt resource value: 0x7F090017
-			public const int action_text = 2131296279;
+			// aapt resource value: 0x7F090018
+			public const int activity_chooser_view_content = 2131296280;
 			
 			// aapt resource value: 0x7F090019
-			public const int activity_chooser_view_content = 2131296281;
+			public const int add = 2131296281;
 			
 			// aapt resource value: 0x7F09001A
-			public const int add = 2131296282;
+			public const int alertTitle = 2131296282;
 			
 			// aapt resource value: 0x7F09001B
-			public const int alertTitle = 2131296283;
-			
-			// aapt resource value: 0x7F09001C
-			public const int all = 2131296284;
+			public const int all = 2131296283;
 			
 			// aapt resource value: 0x7F090000
 			public const int ALT = 2131296256;
 			
+			// aapt resource value: 0x7F09001C
+			public const int always = 2131296284;
+			
 			// aapt resource value: 0x7F09001D
-			public const int always = 2131296285;
+			public const int async = 2131296285;
 			
 			// aapt resource value: 0x7F09001E
-			public const int async = 2131296286;
+			public const int auto = 2131296286;
 			
 			// aapt resource value: 0x7F09001F
-			public const int auto = 2131296287;
+			public const int beginning = 2131296287;
 			
 			// aapt resource value: 0x7F090020
-			public const int beginning = 2131296288;
+			public const int blocking = 2131296288;
 			
 			// aapt resource value: 0x7F090021
-			public const int blocking = 2131296289;
+			public const int bottom = 2131296289;
 			
 			// aapt resource value: 0x7F090022
-			public const int bottom = 2131296290;
-			
-			// aapt resource value: 0x7F090023
-			public const int bottomtab_navarea = 2131296291;
-			
-			// aapt resource value: 0x7F090024
-			public const int bottomtab_tabbar = 2131296292;
+			public const int browser_actions_header_text = 2131296290;
 			
 			// aapt resource value: 0x7F090025
-			public const int browser_actions_header_text = 2131296293;
+			public const int browser_actions_menu_items = 2131296293;
 			
-			// aapt resource value: 0x7F090028
-			public const int browser_actions_menu_items = 2131296296;
+			// aapt resource value: 0x7F090023
+			public const int browser_actions_menu_item_icon = 2131296291;
+			
+			// aapt resource value: 0x7F090024
+			public const int browser_actions_menu_item_text = 2131296292;
 			
 			// aapt resource value: 0x7F090026
-			public const int browser_actions_menu_item_icon = 2131296294;
+			public const int browser_actions_menu_view = 2131296294;
 			
 			// aapt resource value: 0x7F090027
-			public const int browser_actions_menu_item_text = 2131296295;
+			public const int buttonPanel = 2131296295;
+			
+			// aapt resource value: 0x7F090028
+			public const int cameraButton = 2131296296;
 			
 			// aapt resource value: 0x7F090029
-			public const int browser_actions_menu_view = 2131296297;
+			public const int center = 2131296297;
 			
 			// aapt resource value: 0x7F09002A
-			public const int buttonPanel = 2131296298;
+			public const int center_horizontal = 2131296298;
 			
 			// aapt resource value: 0x7F09002B
-			public const int cameraButton = 2131296299;
+			public const int center_vertical = 2131296299;
 			
 			// aapt resource value: 0x7F09002C
-			public const int cancel_action = 2131296300;
+			public const int checkbox = 2131296300;
 			
 			// aapt resource value: 0x7F09002D
-			public const int center = 2131296301;
+			public const int chooseTextView = 2131296301;
 			
 			// aapt resource value: 0x7F09002E
-			public const int center_horizontal = 2131296302;
+			public const int chronometer = 2131296302;
 			
 			// aapt resource value: 0x7F09002F
-			public const int center_vertical = 2131296303;
+			public const int clip_horizontal = 2131296303;
 			
 			// aapt resource value: 0x7F090030
-			public const int checkbox = 2131296304;
+			public const int clip_vertical = 2131296304;
 			
 			// aapt resource value: 0x7F090031
-			public const int chooseTextView = 2131296305;
+			public const int collapseActionView = 2131296305;
 			
 			// aapt resource value: 0x7F090032
-			public const int chronometer = 2131296306;
+			public const int container = 2131296306;
 			
 			// aapt resource value: 0x7F090033
-			public const int clip_horizontal = 2131296307;
+			public const int content = 2131296307;
 			
 			// aapt resource value: 0x7F090034
-			public const int clip_vertical = 2131296308;
+			public const int contentPanel = 2131296308;
 			
 			// aapt resource value: 0x7F090035
-			public const int collapseActionView = 2131296309;
+			public const int coordinator = 2131296309;
 			
 			// aapt resource value: 0x7F090036
-			public const int container = 2131296310;
-			
-			// aapt resource value: 0x7F090037
-			public const int content = 2131296311;
-			
-			// aapt resource value: 0x7F090038
-			public const int contentPanel = 2131296312;
-			
-			// aapt resource value: 0x7F090039
-			public const int coordinator = 2131296313;
-			
-			// aapt resource value: 0x7F09003A
-			public const int copyButton = 2131296314;
+			public const int copyButton = 2131296310;
 			
 			// aapt resource value: 0x7F090001
 			public const int CTRL = 2131296257;
 			
+			// aapt resource value: 0x7F090037
+			public const int custom = 2131296311;
+			
+			// aapt resource value: 0x7F090038
+			public const int customPanel = 2131296312;
+			
+			// aapt resource value: 0x7F090039
+			public const int decor_content_parent = 2131296313;
+			
+			// aapt resource value: 0x7F09003A
+			public const int default_activity_button = 2131296314;
+			
 			// aapt resource value: 0x7F09003B
-			public const int custom = 2131296315;
+			public const int design_bottom_sheet = 2131296315;
 			
 			// aapt resource value: 0x7F09003C
-			public const int customPanel = 2131296316;
+			public const int design_menu_item_action_area = 2131296316;
 			
 			// aapt resource value: 0x7F09003D
-			public const int decor_content_parent = 2131296317;
+			public const int design_menu_item_action_area_stub = 2131296317;
 			
 			// aapt resource value: 0x7F09003E
-			public const int default_activity_button = 2131296318;
+			public const int design_menu_item_text = 2131296318;
 			
 			// aapt resource value: 0x7F09003F
-			public const int design_bottom_sheet = 2131296319;
+			public const int design_navigation_view = 2131296319;
 			
 			// aapt resource value: 0x7F090040
-			public const int design_menu_item_action_area = 2131296320;
+			public const int disableHome = 2131296320;
 			
 			// aapt resource value: 0x7F090041
-			public const int design_menu_item_action_area_stub = 2131296321;
+			public const int edit_query = 2131296321;
 			
 			// aapt resource value: 0x7F090042
-			public const int design_menu_item_text = 2131296322;
+			public const int end = 2131296322;
 			
 			// aapt resource value: 0x7F090043
-			public const int design_navigation_view = 2131296323;
+			public const int enterAlways = 2131296323;
 			
 			// aapt resource value: 0x7F090044
-			public const int disableHome = 2131296324;
+			public const int enterAlwaysCollapsed = 2131296324;
 			
 			// aapt resource value: 0x7F090045
-			public const int edit_query = 2131296325;
-			
-			// aapt resource value: 0x7F090046
-			public const int end = 2131296326;
+			public const int exitUntilCollapsed = 2131296325;
 			
 			// aapt resource value: 0x7F090047
-			public const int end_padder = 2131296327;
+			public const int expanded_menu = 2131296327;
+			
+			// aapt resource value: 0x7F090046
+			public const int expand_activities_button = 2131296326;
 			
 			// aapt resource value: 0x7F090048
-			public const int enterAlways = 2131296328;
-			
-			// aapt resource value: 0x7F090049
-			public const int enterAlwaysCollapsed = 2131296329;
-			
-			// aapt resource value: 0x7F09004A
-			public const int exitUntilCollapsed = 2131296330;
-			
-			// aapt resource value: 0x7F09004C
-			public const int expanded_menu = 2131296332;
+			public const int fill = 2131296328;
 			
 			// aapt resource value: 0x7F09004B
-			public const int expand_activities_button = 2131296331;
+			public const int filled = 2131296331;
+			
+			// aapt resource value: 0x7F090049
+			public const int fill_horizontal = 2131296329;
+			
+			// aapt resource value: 0x7F09004A
+			public const int fill_vertical = 2131296330;
+			
+			// aapt resource value: 0x7F09004C
+			public const int @fixed = 2131296332;
 			
 			// aapt resource value: 0x7F09004D
-			public const int fill = 2131296333;
-			
-			// aapt resource value: 0x7F090050
-			public const int filled = 2131296336;
-			
-			// aapt resource value: 0x7F09004E
-			public const int fill_horizontal = 2131296334;
-			
-			// aapt resource value: 0x7F09004F
-			public const int fill_vertical = 2131296335;
-			
-			// aapt resource value: 0x7F090051
-			public const int @fixed = 2131296337;
-			
-			// aapt resource value: 0x7F090052
-			public const int flyoutcontent_appbar = 2131296338;
-			
-			// aapt resource value: 0x7F090053
-			public const int flyoutcontent_recycler = 2131296339;
-			
-			// aapt resource value: 0x7F090054
-			public const int forever = 2131296340;
+			public const int forever = 2131296333;
 			
 			// aapt resource value: 0x7F090002
 			public const int FUNCTION = 2131296258;
 			
+			// aapt resource value: 0x7F09004E
+			public const int ghost_view = 2131296334;
+			
+			// aapt resource value: 0x7F09004F
+			public const int goToLinkButton = 2131296335;
+			
+			// aapt resource value: 0x7F090050
+			public const int group_divider = 2131296336;
+			
+			// aapt resource value: 0x7F090051
+			public const int home = 2131296337;
+			
+			// aapt resource value: 0x7F090052
+			public const int homeAsUp = 2131296338;
+			
+			// aapt resource value: 0x7F090053
+			public const int icon = 2131296339;
+			
+			// aapt resource value: 0x7F090054
+			public const int icon_group = 2131296340;
+			
 			// aapt resource value: 0x7F090055
-			public const int ghost_view = 2131296341;
+			public const int ifRoom = 2131296341;
 			
 			// aapt resource value: 0x7F090056
-			public const int goToLinkButton = 2131296342;
+			public const int image = 2131296342;
 			
 			// aapt resource value: 0x7F090057
-			public const int group_divider = 2131296343;
+			public const int imageView = 2131296343;
 			
 			// aapt resource value: 0x7F090058
-			public const int home = 2131296344;
+			public const int info = 2131296344;
 			
 			// aapt resource value: 0x7F090059
-			public const int homeAsUp = 2131296345;
+			public const int italic = 2131296345;
 			
 			// aapt resource value: 0x7F09005A
-			public const int icon = 2131296346;
+			public const int item_touch_helper_previous_elevation = 2131296346;
 			
 			// aapt resource value: 0x7F09005B
-			public const int icon_group = 2131296347;
+			public const int labeled = 2131296347;
 			
 			// aapt resource value: 0x7F09005C
-			public const int ifRoom = 2131296348;
+			public const int largeLabel = 2131296348;
 			
 			// aapt resource value: 0x7F09005D
-			public const int image = 2131296349;
+			public const int left = 2131296349;
 			
 			// aapt resource value: 0x7F09005E
-			public const int imageView = 2131296350;
+			public const int line1 = 2131296350;
 			
 			// aapt resource value: 0x7F09005F
-			public const int info = 2131296351;
+			public const int line3 = 2131296351;
 			
 			// aapt resource value: 0x7F090060
-			public const int italic = 2131296352;
+			public const int linearLayout1 = 2131296352;
 			
 			// aapt resource value: 0x7F090061
-			public const int item_touch_helper_previous_elevation = 2131296353;
+			public const int link = 2131296353;
 			
 			// aapt resource value: 0x7F090062
-			public const int labeled = 2131296354;
+			public const int linkListView = 2131296354;
 			
 			// aapt resource value: 0x7F090063
-			public const int largeLabel = 2131296355;
+			public const int linkTextView = 2131296355;
 			
 			// aapt resource value: 0x7F090064
-			public const int left = 2131296356;
+			public const int listMode = 2131296356;
 			
 			// aapt resource value: 0x7F090065
-			public const int line1 = 2131296357;
+			public const int list_item = 2131296357;
 			
 			// aapt resource value: 0x7F090066
-			public const int line3 = 2131296358;
+			public const int loadCopyButton = 2131296358;
 			
 			// aapt resource value: 0x7F090067
-			public const int linearLayout1 = 2131296359;
+			public const int loadDeleteButton = 2131296359;
 			
 			// aapt resource value: 0x7F090068
-			public const int link = 2131296360;
+			public const int loadDescriptionEditText = 2131296360;
 			
 			// aapt resource value: 0x7F090069
-			public const int linkListView = 2131296361;
+			public const int loadDescriptionTextView = 2131296361;
 			
 			// aapt resource value: 0x7F09006A
-			public const int linkTextView = 2131296362;
+			public const int loadGoToLinkButton = 2131296362;
 			
 			// aapt resource value: 0x7F09006B
-			public const int listMode = 2131296363;
+			public const int loadLinearLayout = 2131296363;
 			
 			// aapt resource value: 0x7F09006C
-			public const int list_item = 2131296364;
+			public const int loadLinkEditText = 2131296364;
 			
 			// aapt resource value: 0x7F09006D
-			public const int loadCopyButton = 2131296365;
+			public const int loadLinkTextView = 2131296365;
 			
 			// aapt resource value: 0x7F09006E
-			public const int loadDeleteButton = 2131296366;
+			public const int loadNameEditText = 2131296366;
 			
 			// aapt resource value: 0x7F09006F
-			public const int loadDescriptionEditText = 2131296367;
+			public const int loadNameTextView = 2131296367;
 			
 			// aapt resource value: 0x7F090070
-			public const int loadDescriptionTextView = 2131296368;
+			public const int loadSaveButton = 2131296368;
 			
 			// aapt resource value: 0x7F090071
-			public const int loadGoToLinkButton = 2131296369;
+			public const int loadShareButton = 2131296369;
 			
 			// aapt resource value: 0x7F090072
-			public const int loadLinearLayout = 2131296370;
+			public const int masked = 2131296370;
 			
 			// aapt resource value: 0x7F090073
-			public const int loadLinkEditText = 2131296371;
-			
-			// aapt resource value: 0x7F090074
-			public const int loadLinkTextView = 2131296372;
-			
-			// aapt resource value: 0x7F090075
-			public const int loadNameEditText = 2131296373;
-			
-			// aapt resource value: 0x7F090076
-			public const int loadNameTextView = 2131296374;
-			
-			// aapt resource value: 0x7F090077
-			public const int loadSaveButton = 2131296375;
-			
-			// aapt resource value: 0x7F090078
-			public const int loadShareButton = 2131296376;
-			
-			// aapt resource value: 0x7F090079
-			public const int main_appbar = 2131296377;
-			
-			// aapt resource value: 0x7F09007A
-			public const int main_tablayout = 2131296378;
-			
-			// aapt resource value: 0x7F09007B
-			public const int main_toolbar = 2131296379;
-			
-			// aapt resource value: 0x7F09007C
-			public const int main_viewpager = 2131296380;
-			
-			// aapt resource value: 0x7F09007D
-			public const int masked = 2131296381;
-			
-			// aapt resource value: 0x7F09007E
-			public const int media_actions = 2131296382;
-			
-			// aapt resource value: 0x7F09007F
-			public const int message = 2131296383;
+			public const int message = 2131296371;
 			
 			// aapt resource value: 0x7F090003
 			public const int META = 2131296259;
 			
+			// aapt resource value: 0x7F090074
+			public const int middle = 2131296372;
+			
+			// aapt resource value: 0x7F090075
+			public const int mini = 2131296373;
+			
+			// aapt resource value: 0x7F090076
+			public const int mtrl_child_content_container = 2131296374;
+			
+			// aapt resource value: 0x7F090077
+			public const int mtrl_internal_children_alpha_tag = 2131296375;
+			
+			// aapt resource value: 0x7F090078
+			public const int multiply = 2131296376;
+			
+			// aapt resource value: 0x7F090079
+			public const int nameSaveLinkEditText = 2131296377;
+			
+			// aapt resource value: 0x7F09007A
+			public const int nameSaveLinkTextView = 2131296378;
+			
+			// aapt resource value: 0x7F09007B
+			public const int nameTextView = 2131296379;
+			
+			// aapt resource value: 0x7F09007C
+			public const int navigation_header_container = 2131296380;
+			
+			// aapt resource value: 0x7F09007D
+			public const int never = 2131296381;
+			
+			// aapt resource value: 0x7F09007E
+			public const int newLinkButton = 2131296382;
+			
+			// aapt resource value: 0x7F09007F
+			public const int none = 2131296383;
+			
 			// aapt resource value: 0x7F090080
-			public const int middle = 2131296384;
+			public const int normal = 2131296384;
 			
 			// aapt resource value: 0x7F090081
-			public const int mini = 2131296385;
+			public const int notification_background = 2131296385;
 			
 			// aapt resource value: 0x7F090082
-			public const int mtrl_child_content_container = 2131296386;
+			public const int notification_main_column = 2131296386;
 			
 			// aapt resource value: 0x7F090083
-			public const int mtrl_internal_children_alpha_tag = 2131296387;
+			public const int notification_main_column_container = 2131296387;
 			
 			// aapt resource value: 0x7F090084
-			public const int multiply = 2131296388;
+			public const int outline = 2131296388;
 			
 			// aapt resource value: 0x7F090085
-			public const int nameSaveLinkEditText = 2131296389;
+			public const int parallax = 2131296389;
 			
 			// aapt resource value: 0x7F090086
-			public const int nameSaveLinkTextView = 2131296390;
+			public const int parentPanel = 2131296390;
 			
 			// aapt resource value: 0x7F090087
-			public const int nameTextView = 2131296391;
+			public const int parent_matrix = 2131296391;
 			
 			// aapt resource value: 0x7F090088
-			public const int navigation_header_container = 2131296392;
+			public const int pin = 2131296392;
 			
 			// aapt resource value: 0x7F090089
-			public const int never = 2131296393;
+			public const int progress_circular = 2131296393;
 			
 			// aapt resource value: 0x7F09008A
-			public const int newLinkButton = 2131296394;
+			public const int progress_horizontal = 2131296394;
 			
 			// aapt resource value: 0x7F09008B
-			public const int none = 2131296395;
+			public const int radio = 2131296395;
 			
 			// aapt resource value: 0x7F09008C
-			public const int normal = 2131296396;
+			public const int recogniseButton = 2131296396;
 			
 			// aapt resource value: 0x7F09008D
-			public const int notification_background = 2131296397;
+			public const int recogniziedTextView = 2131296397;
 			
 			// aapt resource value: 0x7F09008E
-			public const int notification_main_column = 2131296398;
+			public const int right = 2131296398;
 			
 			// aapt resource value: 0x7F09008F
-			public const int notification_main_column_container = 2131296399;
+			public const int right_icon = 2131296399;
 			
 			// aapt resource value: 0x7F090090
-			public const int outline = 2131296400;
+			public const int right_side = 2131296400;
 			
 			// aapt resource value: 0x7F090091
-			public const int parallax = 2131296401;
+			public const int saveButton = 2131296401;
 			
 			// aapt resource value: 0x7F090092
-			public const int parentPanel = 2131296402;
+			public const int saveDescriptionEditText = 2131296402;
 			
 			// aapt resource value: 0x7F090093
-			public const int parent_matrix = 2131296403;
-			
-			// aapt resource value: 0x7F090094
-			public const int pin = 2131296404;
-			
-			// aapt resource value: 0x7F090095
-			public const int progress_circular = 2131296405;
-			
-			// aapt resource value: 0x7F090096
-			public const int progress_horizontal = 2131296406;
-			
-			// aapt resource value: 0x7F090097
-			public const int radio = 2131296407;
-			
-			// aapt resource value: 0x7F090098
-			public const int recogniseButton = 2131296408;
-			
-			// aapt resource value: 0x7F090099
-			public const int recogniziedTextView = 2131296409;
+			public const int saveDescriptionTextView = 2131296403;
 			
 			// aapt resource value: 0x7F09009A
-			public const int right = 2131296410;
+			public const int savedListView = 2131296410;
 			
 			// aapt resource value: 0x7F09009B
-			public const int right_icon = 2131296411;
+			public const int savedTextView = 2131296411;
+			
+			// aapt resource value: 0x7F090094
+			public const int saveLinkEditText = 2131296404;
+			
+			// aapt resource value: 0x7F090095
+			public const int saveLinkTextView = 2131296405;
+			
+			// aapt resource value: 0x7F090096
+			public const int saveNewLinkButton = 2131296406;
+			
+			// aapt resource value: 0x7F090097
+			public const int save_image_matrix = 2131296407;
+			
+			// aapt resource value: 0x7F090098
+			public const int save_non_transition_alpha = 2131296408;
+			
+			// aapt resource value: 0x7F090099
+			public const int save_scale_type = 2131296409;
 			
 			// aapt resource value: 0x7F09009C
-			public const int right_side = 2131296412;
+			public const int screen = 2131296412;
 			
 			// aapt resource value: 0x7F09009D
-			public const int saveButton = 2131296413;
-			
-			// aapt resource value: 0x7F09009E
-			public const int saveDescriptionEditText = 2131296414;
-			
-			// aapt resource value: 0x7F09009F
-			public const int saveDescriptionTextView = 2131296415;
-			
-			// aapt resource value: 0x7F0900A6
-			public const int savedListView = 2131296422;
-			
-			// aapt resource value: 0x7F0900A7
-			public const int savedTextView = 2131296423;
-			
-			// aapt resource value: 0x7F0900A0
-			public const int saveLinkEditText = 2131296416;
+			public const int scroll = 2131296413;
 			
 			// aapt resource value: 0x7F0900A1
-			public const int saveLinkTextView = 2131296417;
+			public const int scrollable = 2131296417;
+			
+			// aapt resource value: 0x7F09009E
+			public const int scrollIndicatorDown = 2131296414;
+			
+			// aapt resource value: 0x7F09009F
+			public const int scrollIndicatorUp = 2131296415;
+			
+			// aapt resource value: 0x7F0900A0
+			public const int scrollView = 2131296416;
 			
 			// aapt resource value: 0x7F0900A2
-			public const int saveNewLinkButton = 2131296418;
+			public const int search_badge = 2131296418;
 			
 			// aapt resource value: 0x7F0900A3
-			public const int save_image_matrix = 2131296419;
+			public const int search_bar = 2131296419;
 			
 			// aapt resource value: 0x7F0900A4
-			public const int save_non_transition_alpha = 2131296420;
+			public const int search_button = 2131296420;
 			
 			// aapt resource value: 0x7F0900A5
-			public const int save_scale_type = 2131296421;
+			public const int search_close_btn = 2131296421;
+			
+			// aapt resource value: 0x7F0900A6
+			public const int search_edit_frame = 2131296422;
+			
+			// aapt resource value: 0x7F0900A7
+			public const int search_go_btn = 2131296423;
 			
 			// aapt resource value: 0x7F0900A8
-			public const int screen = 2131296424;
+			public const int search_mag_icon = 2131296424;
 			
 			// aapt resource value: 0x7F0900A9
-			public const int scroll = 2131296425;
-			
-			// aapt resource value: 0x7F0900AD
-			public const int scrollable = 2131296429;
+			public const int search_plate = 2131296425;
 			
 			// aapt resource value: 0x7F0900AA
-			public const int scrollIndicatorDown = 2131296426;
+			public const int search_src_text = 2131296426;
 			
 			// aapt resource value: 0x7F0900AB
-			public const int scrollIndicatorUp = 2131296427;
+			public const int search_voice_btn = 2131296427;
+			
+			// aapt resource value: 0x7F0900AD
+			public const int selected = 2131296429;
 			
 			// aapt resource value: 0x7F0900AC
-			public const int scrollView = 2131296428;
+			public const int select_dialog_listview = 2131296428;
 			
 			// aapt resource value: 0x7F0900AE
-			public const int search_badge = 2131296430;
-			
-			// aapt resource value: 0x7F0900AF
-			public const int search_bar = 2131296431;
-			
-			// aapt resource value: 0x7F0900B0
-			public const int search_button = 2131296432;
-			
-			// aapt resource value: 0x7F0900B1
-			public const int search_close_btn = 2131296433;
-			
-			// aapt resource value: 0x7F0900B2
-			public const int search_edit_frame = 2131296434;
-			
-			// aapt resource value: 0x7F0900B3
-			public const int search_go_btn = 2131296435;
-			
-			// aapt resource value: 0x7F0900B4
-			public const int search_mag_icon = 2131296436;
-			
-			// aapt resource value: 0x7F0900B5
-			public const int search_plate = 2131296437;
-			
-			// aapt resource value: 0x7F0900B6
-			public const int search_src_text = 2131296438;
-			
-			// aapt resource value: 0x7F0900B7
-			public const int search_voice_btn = 2131296439;
-			
-			// aapt resource value: 0x7F0900B9
-			public const int selected = 2131296441;
-			
-			// aapt resource value: 0x7F0900B8
-			public const int select_dialog_listview = 2131296440;
-			
-			// aapt resource value: 0x7F0900BA
-			public const int shareButton = 2131296442;
-			
-			// aapt resource value: 0x7F0900BB
-			public const int shellcontent_appbar = 2131296443;
-			
-			// aapt resource value: 0x7F0900BC
-			public const int shellcontent_toolbar = 2131296444;
+			public const int shareButton = 2131296430;
 			
 			// aapt resource value: 0x7F090004
 			public const int SHIFT = 2131296260;
 			
+			// aapt resource value: 0x7F0900AF
+			public const int shortcut = 2131296431;
+			
+			// aapt resource value: 0x7F0900B0
+			public const int showCustom = 2131296432;
+			
+			// aapt resource value: 0x7F0900B1
+			public const int showHome = 2131296433;
+			
+			// aapt resource value: 0x7F0900B2
+			public const int showTitle = 2131296434;
+			
+			// aapt resource value: 0x7F0900B3
+			public const int smallLabel = 2131296435;
+			
+			// aapt resource value: 0x7F0900B4
+			public const int snackbar_action = 2131296436;
+			
+			// aapt resource value: 0x7F0900B5
+			public const int snackbar_text = 2131296437;
+			
+			// aapt resource value: 0x7F0900B6
+			public const int snap = 2131296438;
+			
+			// aapt resource value: 0x7F0900B7
+			public const int snapMargins = 2131296439;
+			
+			// aapt resource value: 0x7F0900B8
+			public const int spacer = 2131296440;
+			
+			// aapt resource value: 0x7F0900B9
+			public const int split_action_bar = 2131296441;
+			
+			// aapt resource value: 0x7F0900BA
+			public const int src_atop = 2131296442;
+			
+			// aapt resource value: 0x7F0900BB
+			public const int src_in = 2131296443;
+			
+			// aapt resource value: 0x7F0900BC
+			public const int src_over = 2131296444;
+			
 			// aapt resource value: 0x7F0900BD
-			public const int shortcut = 2131296445;
+			public const int start = 2131296445;
 			
 			// aapt resource value: 0x7F0900BE
-			public const int showCustom = 2131296446;
+			public const int stretch = 2131296446;
 			
 			// aapt resource value: 0x7F0900BF
-			public const int showHome = 2131296447;
+			public const int submenuarrow = 2131296447;
 			
 			// aapt resource value: 0x7F0900C0
-			public const int showTitle = 2131296448;
-			
-			// aapt resource value: 0x7F0900C1
-			public const int smallLabel = 2131296449;
-			
-			// aapt resource value: 0x7F0900C2
-			public const int snackbar_action = 2131296450;
-			
-			// aapt resource value: 0x7F0900C3
-			public const int snackbar_text = 2131296451;
-			
-			// aapt resource value: 0x7F0900C4
-			public const int snap = 2131296452;
-			
-			// aapt resource value: 0x7F0900C5
-			public const int snapMargins = 2131296453;
-			
-			// aapt resource value: 0x7F0900C6
-			public const int spacer = 2131296454;
-			
-			// aapt resource value: 0x7F0900C7
-			public const int split_action_bar = 2131296455;
-			
-			// aapt resource value: 0x7F0900C8
-			public const int src_atop = 2131296456;
-			
-			// aapt resource value: 0x7F0900C9
-			public const int src_in = 2131296457;
-			
-			// aapt resource value: 0x7F0900CA
-			public const int src_over = 2131296458;
-			
-			// aapt resource value: 0x7F0900CB
-			public const int start = 2131296459;
-			
-			// aapt resource value: 0x7F0900CC
-			public const int status_bar_latest_event_content = 2131296460;
-			
-			// aapt resource value: 0x7F0900CD
-			public const int stretch = 2131296461;
-			
-			// aapt resource value: 0x7F0900CE
-			public const int submenuarrow = 2131296462;
-			
-			// aapt resource value: 0x7F0900CF
-			public const int submit_area = 2131296463;
+			public const int submit_area = 2131296448;
 			
 			// aapt resource value: 0x7F090005
 			public const int SYM = 2131296261;
 			
+			// aapt resource value: 0x7F0900C1
+			public const int tabMode = 2131296449;
+			
+			// aapt resource value: 0x7F0900C2
+			public const int tag_transition_group = 2131296450;
+			
+			// aapt resource value: 0x7F0900C3
+			public const int tag_unhandled_key_event_manager = 2131296451;
+			
+			// aapt resource value: 0x7F0900C4
+			public const int tag_unhandled_key_listeners = 2131296452;
+			
+			// aapt resource value: 0x7F0900C5
+			public const int text = 2131296453;
+			
+			// aapt resource value: 0x7F0900C6
+			public const int text2 = 2131296454;
+			
+			// aapt resource value: 0x7F0900CB
+			public const int textinput_counter = 2131296459;
+			
+			// aapt resource value: 0x7F0900CC
+			public const int textinput_error = 2131296460;
+			
+			// aapt resource value: 0x7F0900CD
+			public const int textinput_helper_text = 2131296461;
+			
+			// aapt resource value: 0x7F0900C7
+			public const int textSpacerNoButtons = 2131296455;
+			
+			// aapt resource value: 0x7F0900C8
+			public const int textSpacerNoTitle = 2131296456;
+			
+			// aapt resource value: 0x7F0900C9
+			public const int textStart = 2131296457;
+			
+			// aapt resource value: 0x7F0900CA
+			public const int text_input_password_toggle = 2131296458;
+			
+			// aapt resource value: 0x7F0900CE
+			public const int time = 2131296462;
+			
+			// aapt resource value: 0x7F0900CF
+			public const int title = 2131296463;
+			
 			// aapt resource value: 0x7F0900D0
-			public const int tabMode = 2131296464;
+			public const int titleDividerNoCustom = 2131296464;
 			
 			// aapt resource value: 0x7F0900D1
-			public const int tag_transition_group = 2131296465;
+			public const int title_template = 2131296465;
 			
 			// aapt resource value: 0x7F0900D2
-			public const int tag_unhandled_key_event_manager = 2131296466;
+			public const int top = 2131296466;
 			
 			// aapt resource value: 0x7F0900D3
-			public const int tag_unhandled_key_listeners = 2131296467;
+			public const int topPanel = 2131296467;
 			
 			// aapt resource value: 0x7F0900D4
-			public const int text = 2131296468;
+			public const int touch_outside = 2131296468;
 			
 			// aapt resource value: 0x7F0900D5
-			public const int text2 = 2131296469;
-			
-			// aapt resource value: 0x7F0900DA
-			public const int textinput_counter = 2131296474;
-			
-			// aapt resource value: 0x7F0900DB
-			public const int textinput_error = 2131296475;
-			
-			// aapt resource value: 0x7F0900DC
-			public const int textinput_helper_text = 2131296476;
+			public const int transition_current_scene = 2131296469;
 			
 			// aapt resource value: 0x7F0900D6
-			public const int textSpacerNoButtons = 2131296470;
+			public const int transition_layout_save = 2131296470;
 			
 			// aapt resource value: 0x7F0900D7
-			public const int textSpacerNoTitle = 2131296471;
+			public const int transition_position = 2131296471;
 			
 			// aapt resource value: 0x7F0900D8
-			public const int textStart = 2131296472;
+			public const int transition_scene_layoutid_cache = 2131296472;
 			
 			// aapt resource value: 0x7F0900D9
-			public const int text_input_password_toggle = 2131296473;
+			public const int transition_transform = 2131296473;
+			
+			// aapt resource value: 0x7F0900DA
+			public const int uniform = 2131296474;
+			
+			// aapt resource value: 0x7F0900DB
+			public const int unlabeled = 2131296475;
+			
+			// aapt resource value: 0x7F0900DC
+			public const int up = 2131296476;
 			
 			// aapt resource value: 0x7F0900DD
-			public const int time = 2131296477;
+			public const int uploadButton = 2131296477;
 			
 			// aapt resource value: 0x7F0900DE
-			public const int title = 2131296478;
+			public const int useLogo = 2131296478;
 			
 			// aapt resource value: 0x7F0900DF
-			public const int titleDividerNoCustom = 2131296479;
+			public const int view_offset_helper = 2131296479;
 			
 			// aapt resource value: 0x7F0900E0
-			public const int title_template = 2131296480;
+			public const int visible = 2131296480;
 			
 			// aapt resource value: 0x7F0900E1
-			public const int top = 2131296481;
+			public const int withText = 2131296481;
 			
 			// aapt resource value: 0x7F0900E2
-			public const int topPanel = 2131296482;
-			
-			// aapt resource value: 0x7F0900E3
-			public const int touch_outside = 2131296483;
-			
-			// aapt resource value: 0x7F0900E4
-			public const int transition_current_scene = 2131296484;
-			
-			// aapt resource value: 0x7F0900E5
-			public const int transition_layout_save = 2131296485;
-			
-			// aapt resource value: 0x7F0900E6
-			public const int transition_position = 2131296486;
-			
-			// aapt resource value: 0x7F0900E7
-			public const int transition_scene_layoutid_cache = 2131296487;
-			
-			// aapt resource value: 0x7F0900E8
-			public const int transition_transform = 2131296488;
-			
-			// aapt resource value: 0x7F0900E9
-			public const int uniform = 2131296489;
-			
-			// aapt resource value: 0x7F0900EA
-			public const int unlabeled = 2131296490;
-			
-			// aapt resource value: 0x7F0900EB
-			public const int up = 2131296491;
-			
-			// aapt resource value: 0x7F0900EC
-			public const int uploadButton = 2131296492;
-			
-			// aapt resource value: 0x7F0900ED
-			public const int useLogo = 2131296493;
-			
-			// aapt resource value: 0x7F0900EE
-			public const int view_offset_helper = 2131296494;
-			
-			// aapt resource value: 0x7F0900EF
-			public const int visible = 2131296495;
-			
-			// aapt resource value: 0x7F0900F0
-			public const int withText = 2131296496;
-			
-			// aapt resource value: 0x7F0900F1
-			public const int wrap_content = 2131296497;
+			public const int wrap_content = 2131296482;
 			
 			static Id()
 			{
@@ -6971,148 +4298,109 @@ namespace HyperRecog
 			public const int activity_main = 2131492892;
 			
 			// aapt resource value: 0x7F0C001D
-			public const int BottomTabLayout = 2131492893;
+			public const int browser_actions_context_menu_page = 2131492893;
 			
 			// aapt resource value: 0x7F0C001E
-			public const int browser_actions_context_menu_page = 2131492894;
+			public const int browser_actions_context_menu_row = 2131492894;
 			
 			// aapt resource value: 0x7F0C001F
-			public const int browser_actions_context_menu_row = 2131492895;
+			public const int choose = 2131492895;
 			
 			// aapt resource value: 0x7F0C0020
-			public const int choose = 2131492896;
+			public const int design_bottom_navigation_item = 2131492896;
 			
 			// aapt resource value: 0x7F0C0021
-			public const int design_bottom_navigation_item = 2131492897;
+			public const int design_bottom_sheet_dialog = 2131492897;
 			
 			// aapt resource value: 0x7F0C0022
-			public const int design_bottom_sheet_dialog = 2131492898;
+			public const int design_layout_snackbar = 2131492898;
 			
 			// aapt resource value: 0x7F0C0023
-			public const int design_layout_snackbar = 2131492899;
+			public const int design_layout_snackbar_include = 2131492899;
 			
 			// aapt resource value: 0x7F0C0024
-			public const int design_layout_snackbar_include = 2131492900;
+			public const int design_layout_tab_icon = 2131492900;
 			
 			// aapt resource value: 0x7F0C0025
-			public const int design_layout_tab_icon = 2131492901;
+			public const int design_layout_tab_text = 2131492901;
 			
 			// aapt resource value: 0x7F0C0026
-			public const int design_layout_tab_text = 2131492902;
+			public const int design_menu_item_action_area = 2131492902;
 			
 			// aapt resource value: 0x7F0C0027
-			public const int design_menu_item_action_area = 2131492903;
+			public const int design_navigation_item = 2131492903;
 			
 			// aapt resource value: 0x7F0C0028
-			public const int design_navigation_item = 2131492904;
+			public const int design_navigation_item_header = 2131492904;
 			
 			// aapt resource value: 0x7F0C0029
-			public const int design_navigation_item_header = 2131492905;
+			public const int design_navigation_item_separator = 2131492905;
 			
 			// aapt resource value: 0x7F0C002A
-			public const int design_navigation_item_separator = 2131492906;
+			public const int design_navigation_item_subheader = 2131492906;
 			
 			// aapt resource value: 0x7F0C002B
-			public const int design_navigation_item_subheader = 2131492907;
+			public const int design_navigation_menu = 2131492907;
 			
 			// aapt resource value: 0x7F0C002C
-			public const int design_navigation_menu = 2131492908;
+			public const int design_navigation_menu_item = 2131492908;
 			
 			// aapt resource value: 0x7F0C002D
-			public const int design_navigation_menu_item = 2131492909;
+			public const int design_text_input_password_icon = 2131492909;
 			
 			// aapt resource value: 0x7F0C002E
-			public const int design_text_input_password_icon = 2131492910;
+			public const int list_view = 2131492910;
 			
 			// aapt resource value: 0x7F0C002F
-			public const int FlyoutContent = 2131492911;
+			public const int list_view_little = 2131492911;
 			
 			// aapt resource value: 0x7F0C0030
-			public const int list_view = 2131492912;
+			public const int load_link = 2131492912;
 			
 			// aapt resource value: 0x7F0C0031
-			public const int list_view_little = 2131492913;
+			public const int mtrl_layout_snackbar = 2131492913;
 			
 			// aapt resource value: 0x7F0C0032
-			public const int load_link = 2131492914;
+			public const int mtrl_layout_snackbar_include = 2131492914;
 			
 			// aapt resource value: 0x7F0C0033
-			public const int mtrl_layout_snackbar = 2131492915;
+			public const int notification_action = 2131492915;
 			
 			// aapt resource value: 0x7F0C0034
-			public const int mtrl_layout_snackbar_include = 2131492916;
+			public const int notification_action_tombstone = 2131492916;
 			
 			// aapt resource value: 0x7F0C0035
-			public const int notification_action = 2131492917;
+			public const int notification_template_custom_big = 2131492917;
 			
 			// aapt resource value: 0x7F0C0036
-			public const int notification_action_tombstone = 2131492918;
+			public const int notification_template_icon_group = 2131492918;
 			
 			// aapt resource value: 0x7F0C0037
-			public const int notification_media_action = 2131492919;
+			public const int notification_template_part_chronometer = 2131492919;
 			
 			// aapt resource value: 0x7F0C0038
-			public const int notification_media_cancel_action = 2131492920;
+			public const int notification_template_part_time = 2131492920;
 			
 			// aapt resource value: 0x7F0C0039
-			public const int notification_template_big_media = 2131492921;
-			
-			// aapt resource value: 0x7F0C003A
-			public const int notification_template_big_media_custom = 2131492922;
+			public const int result = 2131492921;
 			
 			// aapt resource value: 0x7F0C003B
-			public const int notification_template_big_media_narrow = 2131492923;
+			public const int saved = 2131492923;
+			
+			// aapt resource value: 0x7F0C003A
+			public const int save_new_link = 2131492922;
 			
 			// aapt resource value: 0x7F0C003C
-			public const int notification_template_big_media_narrow_custom = 2131492924;
+			public const int select_dialog_item_material = 2131492924;
 			
 			// aapt resource value: 0x7F0C003D
-			public const int notification_template_custom_big = 2131492925;
+			public const int select_dialog_multichoice_material = 2131492925;
 			
 			// aapt resource value: 0x7F0C003E
-			public const int notification_template_icon_group = 2131492926;
+			public const int select_dialog_singlechoice_material = 2131492926;
 			
 			// aapt resource value: 0x7F0C003F
-			public const int notification_template_lines_media = 2131492927;
-			
-			// aapt resource value: 0x7F0C0040
-			public const int notification_template_media = 2131492928;
-			
-			// aapt resource value: 0x7F0C0041
-			public const int notification_template_media_custom = 2131492929;
-			
-			// aapt resource value: 0x7F0C0042
-			public const int notification_template_part_chronometer = 2131492930;
-			
-			// aapt resource value: 0x7F0C0043
-			public const int notification_template_part_time = 2131492931;
-			
-			// aapt resource value: 0x7F0C0044
-			public const int result = 2131492932;
-			
-			// aapt resource value: 0x7F0C0045
-			public const int RootLayout = 2131492933;
-			
-			// aapt resource value: 0x7F0C0047
-			public const int saved = 2131492935;
-			
-			// aapt resource value: 0x7F0C0046
-			public const int save_new_link = 2131492934;
-			
-			// aapt resource value: 0x7F0C0048
-			public const int select_dialog_item_material = 2131492936;
-			
-			// aapt resource value: 0x7F0C0049
-			public const int select_dialog_multichoice_material = 2131492937;
-			
-			// aapt resource value: 0x7F0C004A
-			public const int select_dialog_singlechoice_material = 2131492938;
-			
-			// aapt resource value: 0x7F0C004B
-			public const int ShellContent = 2131492939;
-			
-			// aapt resource value: 0x7F0C004C
-			public const int support_simple_spinner_dropdown_item = 2131492940;
+			public const int support_simple_spinner_dropdown_item = 2131492927;
 			
 			static Layout()
 			{
@@ -7924,9 +5212,6 @@ namespace HyperRecog
 			// aapt resource value: 0x7F0F00C5
 			public const int CardView_Light = 2131689669;
 			
-			// aapt resource value: 0x7F0F01F9
-			public const int collectionViewStyle = 2131689977;
-			
 			// aapt resource value: 0x7F0F00C6
 			public const int MyLayout = 2131689670;
 			
@@ -8183,670 +5468,655 @@ namespace HyperRecog
 			public const int TextAppearance_Compat_Notification_Info = 2131689754;
 			
 			// aapt resource value: 0x7F0F011B
-			public const int TextAppearance_Compat_Notification_Info_Media = 2131689755;
+			public const int TextAppearance_Compat_Notification_Line2 = 2131689755;
 			
 			// aapt resource value: 0x7F0F011C
-			public const int TextAppearance_Compat_Notification_Line2 = 2131689756;
+			public const int TextAppearance_Compat_Notification_Time = 2131689756;
 			
 			// aapt resource value: 0x7F0F011D
-			public const int TextAppearance_Compat_Notification_Line2_Media = 2131689757;
+			public const int TextAppearance_Compat_Notification_Title = 2131689757;
 			
 			// aapt resource value: 0x7F0F011E
-			public const int TextAppearance_Compat_Notification_Media = 2131689758;
+			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131689758;
 			
 			// aapt resource value: 0x7F0F011F
-			public const int TextAppearance_Compat_Notification_Time = 2131689759;
+			public const int TextAppearance_Design_Counter = 2131689759;
 			
 			// aapt resource value: 0x7F0F0120
-			public const int TextAppearance_Compat_Notification_Time_Media = 2131689760;
+			public const int TextAppearance_Design_Counter_Overflow = 2131689760;
 			
 			// aapt resource value: 0x7F0F0121
-			public const int TextAppearance_Compat_Notification_Title = 2131689761;
+			public const int TextAppearance_Design_Error = 2131689761;
 			
 			// aapt resource value: 0x7F0F0122
-			public const int TextAppearance_Compat_Notification_Title_Media = 2131689762;
+			public const int TextAppearance_Design_HelperText = 2131689762;
 			
 			// aapt resource value: 0x7F0F0123
-			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131689763;
+			public const int TextAppearance_Design_Hint = 2131689763;
 			
 			// aapt resource value: 0x7F0F0124
-			public const int TextAppearance_Design_Counter = 2131689764;
+			public const int TextAppearance_Design_Snackbar_Message = 2131689764;
 			
 			// aapt resource value: 0x7F0F0125
-			public const int TextAppearance_Design_Counter_Overflow = 2131689765;
+			public const int TextAppearance_Design_Tab = 2131689765;
 			
 			// aapt resource value: 0x7F0F0126
-			public const int TextAppearance_Design_Error = 2131689766;
+			public const int TextAppearance_MaterialComponents_Body1 = 2131689766;
 			
 			// aapt resource value: 0x7F0F0127
-			public const int TextAppearance_Design_HelperText = 2131689767;
+			public const int TextAppearance_MaterialComponents_Body2 = 2131689767;
 			
 			// aapt resource value: 0x7F0F0128
-			public const int TextAppearance_Design_Hint = 2131689768;
+			public const int TextAppearance_MaterialComponents_Button = 2131689768;
 			
 			// aapt resource value: 0x7F0F0129
-			public const int TextAppearance_Design_Snackbar_Message = 2131689769;
+			public const int TextAppearance_MaterialComponents_Caption = 2131689769;
 			
 			// aapt resource value: 0x7F0F012A
-			public const int TextAppearance_Design_Tab = 2131689770;
+			public const int TextAppearance_MaterialComponents_Chip = 2131689770;
 			
 			// aapt resource value: 0x7F0F012B
-			public const int TextAppearance_MaterialComponents_Body1 = 2131689771;
+			public const int TextAppearance_MaterialComponents_Headline1 = 2131689771;
 			
 			// aapt resource value: 0x7F0F012C
-			public const int TextAppearance_MaterialComponents_Body2 = 2131689772;
+			public const int TextAppearance_MaterialComponents_Headline2 = 2131689772;
 			
 			// aapt resource value: 0x7F0F012D
-			public const int TextAppearance_MaterialComponents_Button = 2131689773;
+			public const int TextAppearance_MaterialComponents_Headline3 = 2131689773;
 			
 			// aapt resource value: 0x7F0F012E
-			public const int TextAppearance_MaterialComponents_Caption = 2131689774;
+			public const int TextAppearance_MaterialComponents_Headline4 = 2131689774;
 			
 			// aapt resource value: 0x7F0F012F
-			public const int TextAppearance_MaterialComponents_Chip = 2131689775;
+			public const int TextAppearance_MaterialComponents_Headline5 = 2131689775;
 			
 			// aapt resource value: 0x7F0F0130
-			public const int TextAppearance_MaterialComponents_Headline1 = 2131689776;
+			public const int TextAppearance_MaterialComponents_Headline6 = 2131689776;
 			
 			// aapt resource value: 0x7F0F0131
-			public const int TextAppearance_MaterialComponents_Headline2 = 2131689777;
+			public const int TextAppearance_MaterialComponents_Overline = 2131689777;
 			
 			// aapt resource value: 0x7F0F0132
-			public const int TextAppearance_MaterialComponents_Headline3 = 2131689778;
+			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131689778;
 			
 			// aapt resource value: 0x7F0F0133
-			public const int TextAppearance_MaterialComponents_Headline4 = 2131689779;
+			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131689779;
 			
 			// aapt resource value: 0x7F0F0134
-			public const int TextAppearance_MaterialComponents_Headline5 = 2131689780;
+			public const int TextAppearance_MaterialComponents_Tab = 2131689780;
 			
 			// aapt resource value: 0x7F0F0135
-			public const int TextAppearance_MaterialComponents_Headline6 = 2131689781;
+			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131689781;
 			
 			// aapt resource value: 0x7F0F0136
-			public const int TextAppearance_MaterialComponents_Overline = 2131689782;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131689782;
 			
 			// aapt resource value: 0x7F0F0137
-			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131689783;
-			
-			// aapt resource value: 0x7F0F0138
-			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131689784;
-			
-			// aapt resource value: 0x7F0F0139
-			public const int TextAppearance_MaterialComponents_Tab = 2131689785;
-			
-			// aapt resource value: 0x7F0F013A
-			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131689786;
-			
-			// aapt resource value: 0x7F0F013B
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131689787;
-			
-			// aapt resource value: 0x7F0F013C
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689788;
-			
-			// aapt resource value: 0x7F0F016D
-			public const int ThemeOverlay_AppCompat = 2131689837;
-			
-			// aapt resource value: 0x7F0F016E
-			public const int ThemeOverlay_AppCompat_ActionBar = 2131689838;
-			
-			// aapt resource value: 0x7F0F016F
-			public const int ThemeOverlay_AppCompat_Dark = 2131689839;
-			
-			// aapt resource value: 0x7F0F0170
-			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131689840;
-			
-			// aapt resource value: 0x7F0F0171
-			public const int ThemeOverlay_AppCompat_Dialog = 2131689841;
-			
-			// aapt resource value: 0x7F0F0172
-			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131689842;
-			
-			// aapt resource value: 0x7F0F0173
-			public const int ThemeOverlay_AppCompat_Light = 2131689843;
-			
-			// aapt resource value: 0x7F0F0174
-			public const int ThemeOverlay_MaterialComponents = 2131689844;
-			
-			// aapt resource value: 0x7F0F0175
-			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131689845;
-			
-			// aapt resource value: 0x7F0F0176
-			public const int ThemeOverlay_MaterialComponents_Dark = 2131689846;
-			
-			// aapt resource value: 0x7F0F0177
-			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131689847;
-			
-			// aapt resource value: 0x7F0F0178
-			public const int ThemeOverlay_MaterialComponents_Dialog = 2131689848;
-			
-			// aapt resource value: 0x7F0F0179
-			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689849;
-			
-			// aapt resource value: 0x7F0F017A
-			public const int ThemeOverlay_MaterialComponents_Light = 2131689850;
-			
-			// aapt resource value: 0x7F0F017B
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131689851;
-			
-			// aapt resource value: 0x7F0F017C
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131689852;
-			
-			// aapt resource value: 0x7F0F017D
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689853;
-			
-			// aapt resource value: 0x7F0F017E
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131689854;
-			
-			// aapt resource value: 0x7F0F017F
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689855;
-			
-			// aapt resource value: 0x7F0F013D
-			public const int Theme_AppCompat = 2131689789;
-			
-			// aapt resource value: 0x7F0F013E
-			public const int Theme_AppCompat_CompactMenu = 2131689790;
-			
-			// aapt resource value: 0x7F0F013F
-			public const int Theme_AppCompat_DayNight = 2131689791;
-			
-			// aapt resource value: 0x7F0F0140
-			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131689792;
-			
-			// aapt resource value: 0x7F0F0141
-			public const int Theme_AppCompat_DayNight_Dialog = 2131689793;
-			
-			// aapt resource value: 0x7F0F0144
-			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131689796;
-			
-			// aapt resource value: 0x7F0F0142
-			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131689794;
-			
-			// aapt resource value: 0x7F0F0143
-			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131689795;
-			
-			// aapt resource value: 0x7F0F0145
-			public const int Theme_AppCompat_DayNight_NoActionBar = 2131689797;
-			
-			// aapt resource value: 0x7F0F0146
-			public const int Theme_AppCompat_Dialog = 2131689798;
-			
-			// aapt resource value: 0x7F0F0149
-			public const int Theme_AppCompat_DialogWhenLarge = 2131689801;
-			
-			// aapt resource value: 0x7F0F0147
-			public const int Theme_AppCompat_Dialog_Alert = 2131689799;
-			
-			// aapt resource value: 0x7F0F0148
-			public const int Theme_AppCompat_Dialog_MinWidth = 2131689800;
-			
-			// aapt resource value: 0x7F0F014A
-			public const int Theme_AppCompat_Light = 2131689802;
-			
-			// aapt resource value: 0x7F0F014B
-			public const int Theme_AppCompat_Light_DarkActionBar = 2131689803;
-			
-			// aapt resource value: 0x7F0F014C
-			public const int Theme_AppCompat_Light_Dialog = 2131689804;
-			
-			// aapt resource value: 0x7F0F014F
-			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131689807;
-			
-			// aapt resource value: 0x7F0F014D
-			public const int Theme_AppCompat_Light_Dialog_Alert = 2131689805;
-			
-			// aapt resource value: 0x7F0F014E
-			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131689806;
-			
-			// aapt resource value: 0x7F0F0150
-			public const int Theme_AppCompat_Light_NoActionBar = 2131689808;
-			
-			// aapt resource value: 0x7F0F0151
-			public const int Theme_AppCompat_NoActionBar = 2131689809;
-			
-			// aapt resource value: 0x7F0F0152
-			public const int Theme_Design = 2131689810;
-			
-			// aapt resource value: 0x7F0F0153
-			public const int Theme_Design_BottomSheetDialog = 2131689811;
-			
-			// aapt resource value: 0x7F0F0154
-			public const int Theme_Design_Light = 2131689812;
-			
-			// aapt resource value: 0x7F0F0155
-			public const int Theme_Design_Light_BottomSheetDialog = 2131689813;
-			
-			// aapt resource value: 0x7F0F0156
-			public const int Theme_Design_Light_NoActionBar = 2131689814;
-			
-			// aapt resource value: 0x7F0F0157
-			public const int Theme_Design_NoActionBar = 2131689815;
-			
-			// aapt resource value: 0x7F0F0158
-			public const int Theme_MaterialComponents = 2131689816;
-			
-			// aapt resource value: 0x7F0F0159
-			public const int Theme_MaterialComponents_BottomSheetDialog = 2131689817;
-			
-			// aapt resource value: 0x7F0F015A
-			public const int Theme_MaterialComponents_Bridge = 2131689818;
-			
-			// aapt resource value: 0x7F0F015B
-			public const int Theme_MaterialComponents_CompactMenu = 2131689819;
-			
-			// aapt resource value: 0x7F0F015C
-			public const int Theme_MaterialComponents_Dialog = 2131689820;
-			
-			// aapt resource value: 0x7F0F015F
-			public const int Theme_MaterialComponents_DialogWhenLarge = 2131689823;
-			
-			// aapt resource value: 0x7F0F015D
-			public const int Theme_MaterialComponents_Dialog_Alert = 2131689821;
-			
-			// aapt resource value: 0x7F0F015E
-			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131689822;
-			
-			// aapt resource value: 0x7F0F0160
-			public const int Theme_MaterialComponents_Light = 2131689824;
-			
-			// aapt resource value: 0x7F0F0161
-			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131689825;
-			
-			// aapt resource value: 0x7F0F0162
-			public const int Theme_MaterialComponents_Light_Bridge = 2131689826;
-			
-			// aapt resource value: 0x7F0F0163
-			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131689827;
-			
-			// aapt resource value: 0x7F0F0164
-			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689828;
-			
-			// aapt resource value: 0x7F0F0165
-			public const int Theme_MaterialComponents_Light_Dialog = 2131689829;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689783;
 			
 			// aapt resource value: 0x7F0F0168
-			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131689832;
-			
-			// aapt resource value: 0x7F0F0166
-			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131689830;
-			
-			// aapt resource value: 0x7F0F0167
-			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689831;
+			public const int ThemeOverlay_AppCompat = 2131689832;
 			
 			// aapt resource value: 0x7F0F0169
-			public const int Theme_MaterialComponents_Light_NoActionBar = 2131689833;
+			public const int ThemeOverlay_AppCompat_ActionBar = 2131689833;
 			
 			// aapt resource value: 0x7F0F016A
-			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131689834;
+			public const int ThemeOverlay_AppCompat_Dark = 2131689834;
 			
 			// aapt resource value: 0x7F0F016B
-			public const int Theme_MaterialComponents_NoActionBar = 2131689835;
+			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131689835;
 			
 			// aapt resource value: 0x7F0F016C
-			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131689836;
+			public const int ThemeOverlay_AppCompat_Dialog = 2131689836;
+			
+			// aapt resource value: 0x7F0F016D
+			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131689837;
+			
+			// aapt resource value: 0x7F0F016E
+			public const int ThemeOverlay_AppCompat_Light = 2131689838;
+			
+			// aapt resource value: 0x7F0F016F
+			public const int ThemeOverlay_MaterialComponents = 2131689839;
+			
+			// aapt resource value: 0x7F0F0170
+			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131689840;
+			
+			// aapt resource value: 0x7F0F0171
+			public const int ThemeOverlay_MaterialComponents_Dark = 2131689841;
+			
+			// aapt resource value: 0x7F0F0172
+			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131689842;
+			
+			// aapt resource value: 0x7F0F0173
+			public const int ThemeOverlay_MaterialComponents_Dialog = 2131689843;
+			
+			// aapt resource value: 0x7F0F0174
+			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689844;
+			
+			// aapt resource value: 0x7F0F0175
+			public const int ThemeOverlay_MaterialComponents_Light = 2131689845;
+			
+			// aapt resource value: 0x7F0F0176
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131689846;
+			
+			// aapt resource value: 0x7F0F0177
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131689847;
+			
+			// aapt resource value: 0x7F0F0178
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689848;
+			
+			// aapt resource value: 0x7F0F0179
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131689849;
+			
+			// aapt resource value: 0x7F0F017A
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689850;
+			
+			// aapt resource value: 0x7F0F0138
+			public const int Theme_AppCompat = 2131689784;
+			
+			// aapt resource value: 0x7F0F0139
+			public const int Theme_AppCompat_CompactMenu = 2131689785;
+			
+			// aapt resource value: 0x7F0F013A
+			public const int Theme_AppCompat_DayNight = 2131689786;
+			
+			// aapt resource value: 0x7F0F013B
+			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131689787;
+			
+			// aapt resource value: 0x7F0F013C
+			public const int Theme_AppCompat_DayNight_Dialog = 2131689788;
+			
+			// aapt resource value: 0x7F0F013F
+			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131689791;
+			
+			// aapt resource value: 0x7F0F013D
+			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131689789;
+			
+			// aapt resource value: 0x7F0F013E
+			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131689790;
+			
+			// aapt resource value: 0x7F0F0140
+			public const int Theme_AppCompat_DayNight_NoActionBar = 2131689792;
+			
+			// aapt resource value: 0x7F0F0141
+			public const int Theme_AppCompat_Dialog = 2131689793;
+			
+			// aapt resource value: 0x7F0F0144
+			public const int Theme_AppCompat_DialogWhenLarge = 2131689796;
+			
+			// aapt resource value: 0x7F0F0142
+			public const int Theme_AppCompat_Dialog_Alert = 2131689794;
+			
+			// aapt resource value: 0x7F0F0143
+			public const int Theme_AppCompat_Dialog_MinWidth = 2131689795;
+			
+			// aapt resource value: 0x7F0F0145
+			public const int Theme_AppCompat_Light = 2131689797;
+			
+			// aapt resource value: 0x7F0F0146
+			public const int Theme_AppCompat_Light_DarkActionBar = 2131689798;
+			
+			// aapt resource value: 0x7F0F0147
+			public const int Theme_AppCompat_Light_Dialog = 2131689799;
+			
+			// aapt resource value: 0x7F0F014A
+			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131689802;
+			
+			// aapt resource value: 0x7F0F0148
+			public const int Theme_AppCompat_Light_Dialog_Alert = 2131689800;
+			
+			// aapt resource value: 0x7F0F0149
+			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131689801;
+			
+			// aapt resource value: 0x7F0F014B
+			public const int Theme_AppCompat_Light_NoActionBar = 2131689803;
+			
+			// aapt resource value: 0x7F0F014C
+			public const int Theme_AppCompat_NoActionBar = 2131689804;
+			
+			// aapt resource value: 0x7F0F014D
+			public const int Theme_Design = 2131689805;
+			
+			// aapt resource value: 0x7F0F014E
+			public const int Theme_Design_BottomSheetDialog = 2131689806;
+			
+			// aapt resource value: 0x7F0F014F
+			public const int Theme_Design_Light = 2131689807;
+			
+			// aapt resource value: 0x7F0F0150
+			public const int Theme_Design_Light_BottomSheetDialog = 2131689808;
+			
+			// aapt resource value: 0x7F0F0151
+			public const int Theme_Design_Light_NoActionBar = 2131689809;
+			
+			// aapt resource value: 0x7F0F0152
+			public const int Theme_Design_NoActionBar = 2131689810;
+			
+			// aapt resource value: 0x7F0F0153
+			public const int Theme_MaterialComponents = 2131689811;
+			
+			// aapt resource value: 0x7F0F0154
+			public const int Theme_MaterialComponents_BottomSheetDialog = 2131689812;
+			
+			// aapt resource value: 0x7F0F0155
+			public const int Theme_MaterialComponents_Bridge = 2131689813;
+			
+			// aapt resource value: 0x7F0F0156
+			public const int Theme_MaterialComponents_CompactMenu = 2131689814;
+			
+			// aapt resource value: 0x7F0F0157
+			public const int Theme_MaterialComponents_Dialog = 2131689815;
+			
+			// aapt resource value: 0x7F0F015A
+			public const int Theme_MaterialComponents_DialogWhenLarge = 2131689818;
+			
+			// aapt resource value: 0x7F0F0158
+			public const int Theme_MaterialComponents_Dialog_Alert = 2131689816;
+			
+			// aapt resource value: 0x7F0F0159
+			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131689817;
+			
+			// aapt resource value: 0x7F0F015B
+			public const int Theme_MaterialComponents_Light = 2131689819;
+			
+			// aapt resource value: 0x7F0F015C
+			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131689820;
+			
+			// aapt resource value: 0x7F0F015D
+			public const int Theme_MaterialComponents_Light_Bridge = 2131689821;
+			
+			// aapt resource value: 0x7F0F015E
+			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131689822;
+			
+			// aapt resource value: 0x7F0F015F
+			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689823;
+			
+			// aapt resource value: 0x7F0F0160
+			public const int Theme_MaterialComponents_Light_Dialog = 2131689824;
+			
+			// aapt resource value: 0x7F0F0163
+			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131689827;
+			
+			// aapt resource value: 0x7F0F0161
+			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131689825;
+			
+			// aapt resource value: 0x7F0F0162
+			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689826;
+			
+			// aapt resource value: 0x7F0F0164
+			public const int Theme_MaterialComponents_Light_NoActionBar = 2131689828;
+			
+			// aapt resource value: 0x7F0F0165
+			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131689829;
+			
+			// aapt resource value: 0x7F0F0166
+			public const int Theme_MaterialComponents_NoActionBar = 2131689830;
+			
+			// aapt resource value: 0x7F0F0167
+			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131689831;
+			
+			// aapt resource value: 0x7F0F017B
+			public const int Widget_AppCompat_ActionBar = 2131689851;
+			
+			// aapt resource value: 0x7F0F017C
+			public const int Widget_AppCompat_ActionBar_Solid = 2131689852;
+			
+			// aapt resource value: 0x7F0F017D
+			public const int Widget_AppCompat_ActionBar_TabBar = 2131689853;
+			
+			// aapt resource value: 0x7F0F017E
+			public const int Widget_AppCompat_ActionBar_TabText = 2131689854;
+			
+			// aapt resource value: 0x7F0F017F
+			public const int Widget_AppCompat_ActionBar_TabView = 2131689855;
 			
 			// aapt resource value: 0x7F0F0180
-			public const int Widget_AppCompat_ActionBar = 2131689856;
+			public const int Widget_AppCompat_ActionButton = 2131689856;
 			
 			// aapt resource value: 0x7F0F0181
-			public const int Widget_AppCompat_ActionBar_Solid = 2131689857;
+			public const int Widget_AppCompat_ActionButton_CloseMode = 2131689857;
 			
 			// aapt resource value: 0x7F0F0182
-			public const int Widget_AppCompat_ActionBar_TabBar = 2131689858;
+			public const int Widget_AppCompat_ActionButton_Overflow = 2131689858;
 			
 			// aapt resource value: 0x7F0F0183
-			public const int Widget_AppCompat_ActionBar_TabText = 2131689859;
+			public const int Widget_AppCompat_ActionMode = 2131689859;
 			
 			// aapt resource value: 0x7F0F0184
-			public const int Widget_AppCompat_ActionBar_TabView = 2131689860;
+			public const int Widget_AppCompat_ActivityChooserView = 2131689860;
 			
 			// aapt resource value: 0x7F0F0185
-			public const int Widget_AppCompat_ActionButton = 2131689861;
+			public const int Widget_AppCompat_AutoCompleteTextView = 2131689861;
 			
 			// aapt resource value: 0x7F0F0186
-			public const int Widget_AppCompat_ActionButton_CloseMode = 2131689862;
-			
-			// aapt resource value: 0x7F0F0187
-			public const int Widget_AppCompat_ActionButton_Overflow = 2131689863;
-			
-			// aapt resource value: 0x7F0F0188
-			public const int Widget_AppCompat_ActionMode = 2131689864;
-			
-			// aapt resource value: 0x7F0F0189
-			public const int Widget_AppCompat_ActivityChooserView = 2131689865;
-			
-			// aapt resource value: 0x7F0F018A
-			public const int Widget_AppCompat_AutoCompleteTextView = 2131689866;
-			
-			// aapt resource value: 0x7F0F018B
-			public const int Widget_AppCompat_Button = 2131689867;
-			
-			// aapt resource value: 0x7F0F0191
-			public const int Widget_AppCompat_ButtonBar = 2131689873;
-			
-			// aapt resource value: 0x7F0F0192
-			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131689874;
+			public const int Widget_AppCompat_Button = 2131689862;
 			
 			// aapt resource value: 0x7F0F018C
-			public const int Widget_AppCompat_Button_Borderless = 2131689868;
+			public const int Widget_AppCompat_ButtonBar = 2131689868;
 			
 			// aapt resource value: 0x7F0F018D
-			public const int Widget_AppCompat_Button_Borderless_Colored = 2131689869;
+			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131689869;
+			
+			// aapt resource value: 0x7F0F0187
+			public const int Widget_AppCompat_Button_Borderless = 2131689863;
+			
+			// aapt resource value: 0x7F0F0188
+			public const int Widget_AppCompat_Button_Borderless_Colored = 2131689864;
+			
+			// aapt resource value: 0x7F0F0189
+			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689865;
+			
+			// aapt resource value: 0x7F0F018A
+			public const int Widget_AppCompat_Button_Colored = 2131689866;
+			
+			// aapt resource value: 0x7F0F018B
+			public const int Widget_AppCompat_Button_Small = 2131689867;
 			
 			// aapt resource value: 0x7F0F018E
-			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689870;
+			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131689870;
 			
 			// aapt resource value: 0x7F0F018F
-			public const int Widget_AppCompat_Button_Colored = 2131689871;
+			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131689871;
 			
 			// aapt resource value: 0x7F0F0190
-			public const int Widget_AppCompat_Button_Small = 2131689872;
+			public const int Widget_AppCompat_CompoundButton_Switch = 2131689872;
+			
+			// aapt resource value: 0x7F0F0191
+			public const int Widget_AppCompat_DrawerArrowToggle = 2131689873;
+			
+			// aapt resource value: 0x7F0F0192
+			public const int Widget_AppCompat_DropDownItem_Spinner = 2131689874;
 			
 			// aapt resource value: 0x7F0F0193
-			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131689875;
+			public const int Widget_AppCompat_EditText = 2131689875;
 			
 			// aapt resource value: 0x7F0F0194
-			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131689876;
+			public const int Widget_AppCompat_ImageButton = 2131689876;
 			
 			// aapt resource value: 0x7F0F0195
-			public const int Widget_AppCompat_CompoundButton_Switch = 2131689877;
+			public const int Widget_AppCompat_Light_ActionBar = 2131689877;
 			
 			// aapt resource value: 0x7F0F0196
-			public const int Widget_AppCompat_DrawerArrowToggle = 2131689878;
+			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131689878;
 			
 			// aapt resource value: 0x7F0F0197
-			public const int Widget_AppCompat_DropDownItem_Spinner = 2131689879;
+			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131689879;
 			
 			// aapt resource value: 0x7F0F0198
-			public const int Widget_AppCompat_EditText = 2131689880;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131689880;
 			
 			// aapt resource value: 0x7F0F0199
-			public const int Widget_AppCompat_ImageButton = 2131689881;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131689881;
 			
 			// aapt resource value: 0x7F0F019A
-			public const int Widget_AppCompat_Light_ActionBar = 2131689882;
+			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131689882;
 			
 			// aapt resource value: 0x7F0F019B
-			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131689883;
+			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131689883;
 			
 			// aapt resource value: 0x7F0F019C
-			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131689884;
+			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131689884;
 			
 			// aapt resource value: 0x7F0F019D
-			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131689885;
+			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131689885;
 			
 			// aapt resource value: 0x7F0F019E
-			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131689886;
+			public const int Widget_AppCompat_Light_ActionButton = 2131689886;
 			
 			// aapt resource value: 0x7F0F019F
-			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131689887;
+			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131689887;
 			
 			// aapt resource value: 0x7F0F01A0
-			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131689888;
+			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131689888;
 			
 			// aapt resource value: 0x7F0F01A1
-			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131689889;
+			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131689889;
 			
 			// aapt resource value: 0x7F0F01A2
-			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131689890;
+			public const int Widget_AppCompat_Light_ActivityChooserView = 2131689890;
 			
 			// aapt resource value: 0x7F0F01A3
-			public const int Widget_AppCompat_Light_ActionButton = 2131689891;
+			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131689891;
 			
 			// aapt resource value: 0x7F0F01A4
-			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131689892;
+			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131689892;
 			
 			// aapt resource value: 0x7F0F01A5
-			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131689893;
+			public const int Widget_AppCompat_Light_ListPopupWindow = 2131689893;
 			
 			// aapt resource value: 0x7F0F01A6
-			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131689894;
+			public const int Widget_AppCompat_Light_ListView_DropDown = 2131689894;
 			
 			// aapt resource value: 0x7F0F01A7
-			public const int Widget_AppCompat_Light_ActivityChooserView = 2131689895;
+			public const int Widget_AppCompat_Light_PopupMenu = 2131689895;
 			
 			// aapt resource value: 0x7F0F01A8
-			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131689896;
+			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131689896;
 			
 			// aapt resource value: 0x7F0F01A9
-			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131689897;
+			public const int Widget_AppCompat_Light_SearchView = 2131689897;
 			
 			// aapt resource value: 0x7F0F01AA
-			public const int Widget_AppCompat_Light_ListPopupWindow = 2131689898;
+			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131689898;
 			
 			// aapt resource value: 0x7F0F01AB
-			public const int Widget_AppCompat_Light_ListView_DropDown = 2131689899;
+			public const int Widget_AppCompat_ListMenuView = 2131689899;
 			
 			// aapt resource value: 0x7F0F01AC
-			public const int Widget_AppCompat_Light_PopupMenu = 2131689900;
+			public const int Widget_AppCompat_ListPopupWindow = 2131689900;
 			
 			// aapt resource value: 0x7F0F01AD
-			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131689901;
+			public const int Widget_AppCompat_ListView = 2131689901;
 			
 			// aapt resource value: 0x7F0F01AE
-			public const int Widget_AppCompat_Light_SearchView = 2131689902;
+			public const int Widget_AppCompat_ListView_DropDown = 2131689902;
 			
 			// aapt resource value: 0x7F0F01AF
-			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131689903;
+			public const int Widget_AppCompat_ListView_Menu = 2131689903;
 			
 			// aapt resource value: 0x7F0F01B0
-			public const int Widget_AppCompat_ListMenuView = 2131689904;
+			public const int Widget_AppCompat_PopupMenu = 2131689904;
 			
 			// aapt resource value: 0x7F0F01B1
-			public const int Widget_AppCompat_ListPopupWindow = 2131689905;
+			public const int Widget_AppCompat_PopupMenu_Overflow = 2131689905;
 			
 			// aapt resource value: 0x7F0F01B2
-			public const int Widget_AppCompat_ListView = 2131689906;
+			public const int Widget_AppCompat_PopupWindow = 2131689906;
 			
 			// aapt resource value: 0x7F0F01B3
-			public const int Widget_AppCompat_ListView_DropDown = 2131689907;
+			public const int Widget_AppCompat_ProgressBar = 2131689907;
 			
 			// aapt resource value: 0x7F0F01B4
-			public const int Widget_AppCompat_ListView_Menu = 2131689908;
+			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131689908;
 			
 			// aapt resource value: 0x7F0F01B5
-			public const int Widget_AppCompat_PopupMenu = 2131689909;
+			public const int Widget_AppCompat_RatingBar = 2131689909;
 			
 			// aapt resource value: 0x7F0F01B6
-			public const int Widget_AppCompat_PopupMenu_Overflow = 2131689910;
+			public const int Widget_AppCompat_RatingBar_Indicator = 2131689910;
 			
 			// aapt resource value: 0x7F0F01B7
-			public const int Widget_AppCompat_PopupWindow = 2131689911;
+			public const int Widget_AppCompat_RatingBar_Small = 2131689911;
 			
 			// aapt resource value: 0x7F0F01B8
-			public const int Widget_AppCompat_ProgressBar = 2131689912;
+			public const int Widget_AppCompat_SearchView = 2131689912;
 			
 			// aapt resource value: 0x7F0F01B9
-			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131689913;
+			public const int Widget_AppCompat_SearchView_ActionBar = 2131689913;
 			
 			// aapt resource value: 0x7F0F01BA
-			public const int Widget_AppCompat_RatingBar = 2131689914;
+			public const int Widget_AppCompat_SeekBar = 2131689914;
 			
 			// aapt resource value: 0x7F0F01BB
-			public const int Widget_AppCompat_RatingBar_Indicator = 2131689915;
+			public const int Widget_AppCompat_SeekBar_Discrete = 2131689915;
 			
 			// aapt resource value: 0x7F0F01BC
-			public const int Widget_AppCompat_RatingBar_Small = 2131689916;
+			public const int Widget_AppCompat_Spinner = 2131689916;
 			
 			// aapt resource value: 0x7F0F01BD
-			public const int Widget_AppCompat_SearchView = 2131689917;
+			public const int Widget_AppCompat_Spinner_DropDown = 2131689917;
 			
 			// aapt resource value: 0x7F0F01BE
-			public const int Widget_AppCompat_SearchView_ActionBar = 2131689918;
+			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131689918;
 			
 			// aapt resource value: 0x7F0F01BF
-			public const int Widget_AppCompat_SeekBar = 2131689919;
+			public const int Widget_AppCompat_Spinner_Underlined = 2131689919;
 			
 			// aapt resource value: 0x7F0F01C0
-			public const int Widget_AppCompat_SeekBar_Discrete = 2131689920;
+			public const int Widget_AppCompat_TextView_SpinnerItem = 2131689920;
 			
 			// aapt resource value: 0x7F0F01C1
-			public const int Widget_AppCompat_Spinner = 2131689921;
+			public const int Widget_AppCompat_Toolbar = 2131689921;
 			
 			// aapt resource value: 0x7F0F01C2
-			public const int Widget_AppCompat_Spinner_DropDown = 2131689922;
+			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131689922;
 			
 			// aapt resource value: 0x7F0F01C3
-			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131689923;
+			public const int Widget_Compat_NotificationActionContainer = 2131689923;
 			
 			// aapt resource value: 0x7F0F01C4
-			public const int Widget_AppCompat_Spinner_Underlined = 2131689924;
+			public const int Widget_Compat_NotificationActionText = 2131689924;
 			
 			// aapt resource value: 0x7F0F01C5
-			public const int Widget_AppCompat_TextView_SpinnerItem = 2131689925;
+			public const int Widget_Design_AppBarLayout = 2131689925;
 			
 			// aapt resource value: 0x7F0F01C6
-			public const int Widget_AppCompat_Toolbar = 2131689926;
+			public const int Widget_Design_BottomNavigationView = 2131689926;
 			
 			// aapt resource value: 0x7F0F01C7
-			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131689927;
+			public const int Widget_Design_BottomSheet_Modal = 2131689927;
 			
 			// aapt resource value: 0x7F0F01C8
-			public const int Widget_Compat_NotificationActionContainer = 2131689928;
+			public const int Widget_Design_CollapsingToolbar = 2131689928;
 			
 			// aapt resource value: 0x7F0F01C9
-			public const int Widget_Compat_NotificationActionText = 2131689929;
+			public const int Widget_Design_FloatingActionButton = 2131689929;
 			
 			// aapt resource value: 0x7F0F01CA
-			public const int Widget_Design_AppBarLayout = 2131689930;
+			public const int Widget_Design_NavigationView = 2131689930;
 			
 			// aapt resource value: 0x7F0F01CB
-			public const int Widget_Design_BottomNavigationView = 2131689931;
+			public const int Widget_Design_ScrimInsetsFrameLayout = 2131689931;
 			
 			// aapt resource value: 0x7F0F01CC
-			public const int Widget_Design_BottomSheet_Modal = 2131689932;
+			public const int Widget_Design_Snackbar = 2131689932;
 			
 			// aapt resource value: 0x7F0F01CD
-			public const int Widget_Design_CollapsingToolbar = 2131689933;
+			public const int Widget_Design_TabLayout = 2131689933;
 			
 			// aapt resource value: 0x7F0F01CE
-			public const int Widget_Design_FloatingActionButton = 2131689934;
+			public const int Widget_Design_TextInputLayout = 2131689934;
 			
 			// aapt resource value: 0x7F0F01CF
-			public const int Widget_Design_NavigationView = 2131689935;
+			public const int Widget_MaterialComponents_BottomAppBar = 2131689935;
 			
 			// aapt resource value: 0x7F0F01D0
-			public const int Widget_Design_ScrimInsetsFrameLayout = 2131689936;
+			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131689936;
 			
 			// aapt resource value: 0x7F0F01D1
-			public const int Widget_Design_Snackbar = 2131689937;
+			public const int Widget_MaterialComponents_BottomNavigationView = 2131689937;
 			
 			// aapt resource value: 0x7F0F01D2
-			public const int Widget_Design_TabLayout = 2131689938;
+			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131689938;
 			
 			// aapt resource value: 0x7F0F01D3
-			public const int Widget_Design_TextInputLayout = 2131689939;
+			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131689939;
 			
 			// aapt resource value: 0x7F0F01D4
-			public const int Widget_MaterialComponents_BottomAppBar = 2131689940;
+			public const int Widget_MaterialComponents_Button = 2131689940;
 			
 			// aapt resource value: 0x7F0F01D5
-			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131689941;
+			public const int Widget_MaterialComponents_Button_Icon = 2131689941;
 			
 			// aapt resource value: 0x7F0F01D6
-			public const int Widget_MaterialComponents_BottomNavigationView = 2131689942;
+			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131689942;
 			
 			// aapt resource value: 0x7F0F01D7
-			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131689943;
+			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131689943;
 			
 			// aapt resource value: 0x7F0F01D8
-			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131689944;
+			public const int Widget_MaterialComponents_Button_TextButton = 2131689944;
 			
 			// aapt resource value: 0x7F0F01D9
-			public const int Widget_MaterialComponents_Button = 2131689945;
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131689945;
 			
 			// aapt resource value: 0x7F0F01DA
-			public const int Widget_MaterialComponents_Button_Icon = 2131689946;
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131689946;
 			
 			// aapt resource value: 0x7F0F01DB
-			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131689947;
+			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131689947;
 			
 			// aapt resource value: 0x7F0F01DC
-			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131689948;
+			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131689948;
 			
 			// aapt resource value: 0x7F0F01DD
-			public const int Widget_MaterialComponents_Button_TextButton = 2131689949;
+			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131689949;
 			
 			// aapt resource value: 0x7F0F01DE
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131689950;
-			
-			// aapt resource value: 0x7F0F01DF
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131689951;
-			
-			// aapt resource value: 0x7F0F01E0
-			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131689952;
-			
-			// aapt resource value: 0x7F0F01E1
-			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131689953;
-			
-			// aapt resource value: 0x7F0F01E2
-			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131689954;
+			public const int Widget_MaterialComponents_CardView = 2131689950;
 			
 			// aapt resource value: 0x7F0F01E3
-			public const int Widget_MaterialComponents_CardView = 2131689955;
+			public const int Widget_MaterialComponents_ChipGroup = 2131689955;
 			
-			// aapt resource value: 0x7F0F01E8
-			public const int Widget_MaterialComponents_ChipGroup = 2131689960;
+			// aapt resource value: 0x7F0F01DF
+			public const int Widget_MaterialComponents_Chip_Action = 2131689951;
+			
+			// aapt resource value: 0x7F0F01E0
+			public const int Widget_MaterialComponents_Chip_Choice = 2131689952;
+			
+			// aapt resource value: 0x7F0F01E1
+			public const int Widget_MaterialComponents_Chip_Entry = 2131689953;
+			
+			// aapt resource value: 0x7F0F01E2
+			public const int Widget_MaterialComponents_Chip_Filter = 2131689954;
 			
 			// aapt resource value: 0x7F0F01E4
-			public const int Widget_MaterialComponents_Chip_Action = 2131689956;
+			public const int Widget_MaterialComponents_FloatingActionButton = 2131689956;
 			
 			// aapt resource value: 0x7F0F01E5
-			public const int Widget_MaterialComponents_Chip_Choice = 2131689957;
+			public const int Widget_MaterialComponents_NavigationView = 2131689957;
 			
 			// aapt resource value: 0x7F0F01E6
-			public const int Widget_MaterialComponents_Chip_Entry = 2131689958;
+			public const int Widget_MaterialComponents_Snackbar = 2131689958;
 			
 			// aapt resource value: 0x7F0F01E7
-			public const int Widget_MaterialComponents_Chip_Filter = 2131689959;
+			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131689959;
+			
+			// aapt resource value: 0x7F0F01E8
+			public const int Widget_MaterialComponents_TabLayout = 2131689960;
 			
 			// aapt resource value: 0x7F0F01E9
-			public const int Widget_MaterialComponents_FloatingActionButton = 2131689961;
+			public const int Widget_MaterialComponents_TabLayout_Colored = 2131689961;
 			
 			// aapt resource value: 0x7F0F01EA
-			public const int Widget_MaterialComponents_NavigationView = 2131689962;
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131689962;
 			
 			// aapt resource value: 0x7F0F01EB
-			public const int Widget_MaterialComponents_Snackbar = 2131689963;
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689963;
 			
 			// aapt resource value: 0x7F0F01EC
-			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131689964;
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131689964;
 			
 			// aapt resource value: 0x7F0F01ED
-			public const int Widget_MaterialComponents_TabLayout = 2131689965;
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689965;
 			
 			// aapt resource value: 0x7F0F01EE
-			public const int Widget_MaterialComponents_TabLayout_Colored = 2131689966;
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131689966;
 			
 			// aapt resource value: 0x7F0F01EF
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131689967;
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131689967;
 			
 			// aapt resource value: 0x7F0F01F0
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689968;
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131689968;
 			
 			// aapt resource value: 0x7F0F01F1
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131689969;
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131689969;
 			
 			// aapt resource value: 0x7F0F01F2
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689970;
+			public const int Widget_MaterialComponents_Toolbar = 2131689970;
 			
 			// aapt resource value: 0x7F0F01F3
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131689971;
-			
-			// aapt resource value: 0x7F0F01F4
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131689972;
-			
-			// aapt resource value: 0x7F0F01F5
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131689973;
-			
-			// aapt resource value: 0x7F0F01F6
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131689974;
-			
-			// aapt resource value: 0x7F0F01F7
-			public const int Widget_MaterialComponents_Toolbar = 2131689975;
-			
-			// aapt resource value: 0x7F0F01F8
-			public const int Widget_Support_CoordinatorLayout = 2131689976;
+			public const int Widget_Support_CoordinatorLayout = 2131689971;
 			
 			static Style()
 			{

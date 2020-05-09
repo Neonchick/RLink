@@ -6007,45 +6007,6 @@ namespace HyperRecog
 			// aapt resource value: 0x7F080001
 			public const int nunito_black = 2131230721;
 			
-			// aapt resource value: 0x7F080002
-			public const int nunito_blackitalic = 2131230722;
-			
-			// aapt resource value: 0x7F080003
-			public const int nunito_bold = 2131230723;
-			
-			// aapt resource value: 0x7F080004
-			public const int nunito_bolditalic = 2131230724;
-			
-			// aapt resource value: 0x7F080005
-			public const int nunito_extrabold = 2131230725;
-			
-			// aapt resource value: 0x7F080006
-			public const int nunito_extrabolditalic = 2131230726;
-			
-			// aapt resource value: 0x7F080007
-			public const int nunito_extralight = 2131230727;
-			
-			// aapt resource value: 0x7F080008
-			public const int nunito_extralightitalic = 2131230728;
-			
-			// aapt resource value: 0x7F080009
-			public const int nunito_italic = 2131230729;
-			
-			// aapt resource value: 0x7F08000A
-			public const int nunito_light = 2131230730;
-			
-			// aapt resource value: 0x7F08000B
-			public const int nunito_lightitalic = 2131230731;
-			
-			// aapt resource value: 0x7F08000C
-			public const int nunito_regular = 2131230732;
-			
-			// aapt resource value: 0x7F08000D
-			public const int nunito_semibold = 2131230733;
-			
-			// aapt resource value: 0x7F08000E
-			public const int nunito_semiboldItalic = 2131230734;
-			
 			static Font()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
