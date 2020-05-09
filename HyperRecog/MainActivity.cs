@@ -16,6 +16,7 @@ using ResponseLIb;
 using System.Threading.Tasks;
 using System.Text;
 using Xamarin.Essentials;
+using System;
 
 namespace HyperRecog
 {
@@ -34,7 +35,8 @@ namespace HyperRecog
             Manifest.Permission.ReadExternalStorage,
             Manifest.Permission.WriteExternalStorage,
             Manifest.Permission.Camera,
-            Manifest.Permission.AccessNetworkState
+            Manifest.Permission.AccessNetworkState,
+            Manifest.Permission.Internet
         };
 
         protected override void OnCreate(Bundle savedInstanceState)
@@ -93,36 +95,41 @@ namespace HyperRecog
         private async void RecogniseButton_ClickAsync(object sender, System.EventArgs e)
         {
             recogniseButton.Clickable = false;
-
-            if (imageArray == null)
+            try
             {
-                Toast.MakeText(this, "Фото не выбрано", ToastLength.Short).Show();
-                recogniseButton.Clickable = true;
-                return;
+                if (imageArray == null)
+                {
+                    Toast.MakeText(this, "Фото не выбрано", ToastLength.Short).Show();
+                    recogniseButton.Clickable = true;
+                    return;
+                }
+
+                var current = Connectivity.NetworkAccess;
+
+                if (current != NetworkAccess.Internet)
+                {
+                    Toast.MakeText(this, "Необходимо подключение к интернету", ToastLength.Short).Show();
+                    recogniseButton.Clickable = true;
+                    return;
+                }
+
+                List<string> recognizedLinks = new List<string>();
+
+                await MakeRequest(recognizedLinks);
+
+                if (recognizedLinks.Count == 0)
+                    Toast.MakeText(this, "Ничего не распознаннно", ToastLength.Short).Show();
+                else
+                {
+                    Intent intent = new Intent(this, typeof(ChooseActivity));
+                    intent.PutExtra("linkList", recognizedLinks.ToArray());
+                    StartActivity(intent);
+                }
             }
-
-            var current = Connectivity.NetworkAccess;
-
-            if (current != NetworkAccess.Internet)
+            catch (Exception ex)
             {
-                Toast.MakeText(this, "Необходимо подключение к интернету", ToastLength.Short).Show();
-                recogniseButton.Clickable = true;
-                return;
+                Toast.MakeText(this, ex.Message, ToastLength.Short).Show();
             }
-
-            List<string> recognizedLinks = new List<string>();
-
-            await MakeRequest(recognizedLinks);
-
-            if (recognizedLinks.Count == 0)
-                Toast.MakeText(this, "Ничего не распознаннно", ToastLength.Short).Show();
-            else 
-            {
-                Intent intent = new Intent(this, typeof(ChooseActivity));
-                intent.PutExtra("linkList", recognizedLinks.ToArray());
-                StartActivity(intent);
-            }
-
             recogniseButton.Clickable = true;
         }
 
@@ -148,10 +155,10 @@ namespace HyperRecog
             {
                 content.Headers.ContentType = new MediaTypeHeaderValue("application/octet-stream");
                 httpResponseMessage = await client.PostAsync(uri, content);
+                Toast.MakeText(this, "Тута", ToastLength.Short).Show();
             }
             var responseString = await httpResponseMessage.Content.ReadAsStringAsync();
 
-            Toast.MakeText(this, "Тута", ToastLength.Short).Show();
 
             if (httpResponseMessage.IsSuccessStatusCode)
             {
@@ -178,6 +185,7 @@ namespace HyperRecog
                     }
             }
             else Toast.MakeText(this, "Неудачный запрос", ToastLength.Short).Show();
+            client.Dispose();
         }
 
         private async void CameraButton_Click(object sender, System.EventArgs e)

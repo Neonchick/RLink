@@ -1509,7 +1509,16 @@
         "type": "project",
         "framework": "MonoAndroid,Version=v9.0",
         "dependencies": {
+          "Microsoft.Azure.CognitiveServices.Vision.ComputerVision": "5.0.0",
+          "Nancy": "2.0.0",
           "Newtonsoft.Json": "12.0.3",
+          "Xam.Plugin.Connectivity": "3.2.0",
+          "Xam.Plugin.Media": "5.0.1",
+          "Xamarin.Android.Support.Core.Utils": "28.0.0.3",
+          "Xamarin.Android.Support.CustomTabs": "28.0.0.3",
+          "Xamarin.Android.Support.Design": "28.0.0.3",
+          "Xamarin.Android.Support.v7.AppCompat": "28.0.0.3",
+          "Xamarin.Essentials": "1.5.3.1",
           "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
@@ -1523,6 +1532,16 @@
         "type": "project",
         "framework": "MonoAndroid,Version=v9.0",
         "dependencies": {
+          "Microsoft.Azure.CognitiveServices.Vision.ComputerVision": "5.0.0",
+          "Nancy": "2.0.0",
+          "Newtonsoft.Json": "12.0.3",
+          "Xam.Plugin.Connectivity": "3.2.0",
+          "Xam.Plugin.Media": "5.0.1",
+          "Xamarin.Android.Support.Core.Utils": "28.0.0.3",
+          "Xamarin.Android.Support.CustomTabs": "28.0.0.3",
+          "Xamarin.Android.Support.Design": "28.0.0.3",
+          "Xamarin.Android.Support.v7.AppCompat": "28.0.0.3",
+          "Xamarin.Essentials": "1.5.3.1",
           "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
@@ -4847,6 +4866,7 @@
         "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.pdb",
         "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.xml",
         "lib/MonoAndroid10/Plugin.Connectivity.dll",
+        "lib/MonoAndroid10/Plugin.Connectivity.dll.mdb",
         "lib/MonoAndroid10/Plugin.Connectivity.pdb",
         "lib/MonoAndroid10/Plugin.Connectivity.xml",
         "lib/UAP10/Plugin.Connectivity.Abstractions.dll",
