@@ -1,4 +1,3 @@
-System.Runtime
 Newtonsoft.Json
 SQLite-net
 SQLitePCLRaw.batteries_green
@@ -6,4 +5,19 @@ SQLitePCLRaw.batteries_v2
 SQLitePCLRaw.core
 SQLitePCLRaw.lib.e_sqlite3
 SQLitePCLRaw.provider.e_sqlite3
+System.Runtime
 System.Reflection.Extensions
+Microsoft.Azure.CognitiveServices.Vision.ComputerVision
+Microsoft.Rest.ClientRuntime.Azure
+Microsoft.Rest.ClientRuntime
+System.Resources.ResourceManager
+System.Threading.Tasks
+System.Diagnostics.Debug
+System.Collections
+System.Net.Primitives
+System.Text.Encoding
+System.Globalization
+System.IO.FileSystem
+System.Threading
+System.Xml.ReaderWriter
+System.Diagnostics.Tools
