@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperRecog", "HyperRecog\HyperRecog.csproj", "{DF2BD4F9-BC4D-436E-8F4F-CC1AB3BA6A89}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RLink", "RLink\RLink.csproj", "{DF2BD4F9-BC4D-436E-8F4F-CC1AB3BA6A89}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponseLIb", "ResponseLIb\ResponseLIb.csproj", "{50A37933-189C-4242-8A44-7127CD0FD41C}"
 EndProject
