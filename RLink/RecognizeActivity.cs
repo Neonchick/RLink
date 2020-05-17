@@ -82,6 +82,8 @@ namespace RLink
             // Находим место для изображения.
             imageView = (ImageView)FindViewById(Resource.Id.imageView);
 
+            imageArray = null;
+
             // Находим кнопку для нового фото и добавляем обрабодчик ее нажатия. 
             cameraButton = (Button)FindViewById(Resource.Id.cameraButton);
             cameraButton.Click += CameraButton_Click;
@@ -106,7 +108,7 @@ namespace RLink
             // Две кнопки не должны обрабатыватся одновременно.
             if (buttonFlag)
                 return;
-            buttonFlag = false;
+            buttonFlag = true;
 
             try
             {
@@ -155,7 +157,7 @@ namespace RLink
             // Две кнопки не должны обрабатыватся одновременно.
             if (buttonFlag)
                 return;
-            buttonFlag = false;
+            buttonFlag = true;
 
             try
             {
@@ -184,7 +186,7 @@ namespace RLink
 
                 // Проверяем наличие ссылок.
                 if (recognizedLinks.Count == 0)
-                    Toast.MakeText(this, "Ничего не распознаннно", ToastLength.Short).Show();
+                    Toast.MakeText(this, "Ничего не распознано", ToastLength.Short).Show();
                 else
                 {
                     // Вызываем Активити с выбором ссылок.
@@ -274,7 +276,7 @@ namespace RLink
             if (buttonFlag)
                 return;
 
-            buttonFlag = false;
+            buttonFlag = true;
 
             try
             {
