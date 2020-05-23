@@ -53,14 +53,10 @@ namespace RLink
         public override View GetView(int position, View convertView, ViewGroup parent)
         {
             // Заполним отображение если оно пусто.
-            View view = convertView;
-            if (view == null)
-            {
-                view = LayoutInflater.From(context).Inflate(Resource.Layout.list_view_little, null, false);
+            View view = LayoutInflater.From(context).Inflate(Resource.Layout.list_view_little, null, false);
 
                 TextView link = view.FindViewById<TextView>(Resource.Id.chooseTextView);
                 link.Text = list[position];
-            }
             return view;
         }
 

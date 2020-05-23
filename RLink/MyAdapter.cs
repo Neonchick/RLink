@@ -9,7 +9,7 @@ namespace RLink
     /// <summary>
     /// Адаптер сохраненных ссылок.
     /// </summary>
-    class MyAdapter: BaseAdapter<DBElem>
+    class MyAdapter : BaseAdapter<DBElem>
     {
         /// <summary>
         /// Список элементов.
@@ -36,7 +36,7 @@ namespace RLink
         /// Возвращет колличество элементов.
         /// </summary>
         public override int Count => list.Count;
-        
+
         /// <summary>
         /// Индексатор.
         /// </summary>
@@ -54,17 +54,14 @@ namespace RLink
         public override View GetView(int position, View convertView, ViewGroup parent)
         {
             // Заполним отображение, если оно пусто.
-            View view = convertView;
-            if (view == null)
-            {
-                view = LayoutInflater.From(context).Inflate(Resource.Layout.list_view, null, false);
-                
-                TextView name = view.FindViewById<TextView>(Resource.Id.nameTextView);
-                name.Text = list[position].Name;
+            View view = LayoutInflater.From(context).Inflate(Resource.Layout.list_view, null, false);
 
-                TextView link = view.FindViewById<TextView>(Resource.Id.linkTextView);
-                link.Text = list[position].Link;
-            }
+            TextView name = view.FindViewById<TextView>(Resource.Id.nameTextView);
+            name.Text = list[position].Name;
+
+            TextView link = view.FindViewById<TextView>(Resource.Id.linkTextView);
+            link.Text = list[position].Link;
+
             return view;
         }
 
