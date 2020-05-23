@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SQLLib</name>
+    </assembly>
+    <members>
+        <member name="T:SQLLib.DBElem">
+            <summary>
+            Класс элемента базы данных.
+            </summary>
+        </member>
+        <member name="P:SQLLib.DBElem.Id">
+            <summary>
+            Уникальный номер.
+            </summary>
+        </member>
+        <member name="P:SQLLib.DBElem.Name">
+            <summary>
+            Имя.
+            </summary>
+        </member>
+        <member name="P:SQLLib.DBElem.Link">
+            <summary>
+            Ссылка.
+            </summary>
+        </member>
+        <member name="P:SQLLib.DBElem.Description">
+            <summary>
+            Описание.
+            </summary>
+        </member>
+        <member name="M:SQLLib.DBElem.#ctor">
+            <summary>
+            Пустой конструктор.
+            </summary>
+        </member>
+        <member name="M:SQLLib.DBElem.#ctor(System.String,System.String,System.String)">
+            <summary>
+            Конструктор.
+            </summary>
+            <param name="name">Имя.</param>
+            <param name="link">Ссылка.</param>
+            <param name="description">Описание.</param>
+        </member>
+    </members>
+</doc>

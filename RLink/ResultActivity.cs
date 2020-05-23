@@ -41,7 +41,7 @@ namespace RLink
         /// </summary>
         bool buttonFlag = false;
 
-        /// <summary>
+        /// <summary type="void" dos="protected">
         /// Обрабодчик создания актививти.
         /// </summary>
         protected override void OnCreate(Bundle savedInstanceState)
@@ -72,7 +72,7 @@ namespace RLink
             saveButton.Click += SaveButton_Click;
         }
 
-        /// <summary>
+        /// <summary type="void" dos="private">
         /// Обрабодчик нажатия на кнопку сохранить.
         /// </summary>
         private void SaveButton_Click(object sender, EventArgs e)
@@ -98,7 +98,7 @@ namespace RLink
             buttonFlag = false;
         }
 
-        /// <summary>
+        /// <summary type="void" dos="private">
         /// Обрабодчик нажатия на кнопку поделиться.
         /// </summary>
         private async void ShareButton_Click(object sender, EventArgs e)
@@ -125,7 +125,7 @@ namespace RLink
             buttonFlag = false;
         }
 
-        /// <summary>
+        /// <summary type="void" dos="private">
         /// Обрабодчик нажатия на кнопку перейти.
         /// </summary>
         private void GoToLinkButton_Click(object sender, EventArgs e)
@@ -149,7 +149,7 @@ namespace RLink
             buttonFlag = false;
         }
 
-        /// <summary>
+        /// <summary type="void" dos="private">
         /// Обрабодчик нажатия на кнопку скопировать.
         /// </summary>
         private async void CopyButton_Click(object sender, EventArgs e)
@@ -173,7 +173,7 @@ namespace RLink
             buttonFlag = false;
         }
 
-        /// <summary>
+        /// <summary type="void" dos="public">
         /// Обрабодчик получения разрешений.
         /// </summary>
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ResponseLIb</name>
+    </assembly>
+    <members>
+        <member name="T:ResponseLIb.Line">
+            <summary>
+            Класс линий.
+            </summary>
+        </member>
+        <member name="P:ResponseLIb.Line.BoundingBox">
+            <summary>
+            Границы.
+            </summary>
+        </member>
+        <member name="P:ResponseLIb.Line.Words">
+            <summary>
+            Список слов.
+            </summary>
+        </member>
+        <member name="T:ResponseLIb.Region">
+            <summary>
+            Класс региона.
+            </summary>
+        </member>
+        <member name="T:ResponseLIb.Response">
+            <summary>
+            Класс распознования.
+            </summary>
+        </member>
+        <member name="P:ResponseLIb.Response.Language">
+            <summary>
+            Язык.
+            </summary>
+        </member>
+        <member name="P:ResponseLIb.Response.TextAngle">
+            <summary>
+            Угол.
+            </summary>
+        </member>
+        <member name="P:ResponseLIb.Response.Orientation">
+            <summary>
+            Орентация.
+            </summary>
+        </member>
+        <member name="P:ResponseLIb.Response.Regions">
+            <summary>
+            Массив регионов.
+            </summary>
+        </member>
+        <member name="T:ResponseLIb.Word">
+            <summary>
+            Класс слова.
+            </summary>
+        </member>
+        <member name="P:ResponseLIb.Word.BoundingBox">
+            <summary>
+            Границы.
+            </summary>
+        </member>
+        <member name="P:ResponseLIb.Word.Text">
+            <summary>
+            Текст.
+            </summary>
+        </member>
+    </members>
+</doc>

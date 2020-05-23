@@ -20,7 +20,7 @@ namespace RLink
         /// </summary>
         private readonly Context context;
 
-        /// <summary>
+        /// <summary type="void" dos="public">
         /// Коснтрукор.
         /// </summary>
         /// <param name="context">Контекст.</param>
@@ -43,7 +43,7 @@ namespace RLink
         /// <returns>Элемент с этим номером.</returns>
         public override string this[int position] => list[position];
 
-        /// <summary>
+        /// <summary type="View" dos="public">
         /// Метод для получения отбображения элемента списка.
         /// </summary>
         /// <param name="position">Позиция</param>
@@ -64,7 +64,7 @@ namespace RLink
             return view;
         }
 
-        /// <summary>
+        /// <summary type="long" dos="public">
         /// Метод для получение позиции.
         /// </summary>
         /// <param name="position">Нужная позиция.</param>

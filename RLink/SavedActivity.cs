@@ -44,7 +44,7 @@ namespace RLink
             Manifest.Permission.AccessNetworkState
         };
 
-        /// <summary>
+        /// <summary type="void" dos="protected">
         /// Обрабодчик создания Активити.
         /// </summary>
         protected override void OnCreate(Bundle savedInstanceState)
@@ -67,7 +67,7 @@ namespace RLink
             RequestPermissions(permissionGroup, 0);
         }
 
-        /// <summary>
+        /// <summary type="void" dos="protected">
         /// Метод вызывающийся когда Активити становится активной.
         /// </summary>
         protected override void OnResume()
@@ -103,7 +103,7 @@ namespace RLink
             }
         }
 
-        /// <summary>
+        /// <summary type="void" dos="private">
         /// Обрабодчик нажатия на элемент списка.
         /// </summary>
         private void SavedListView_ItemClick(object sender, AdapterView.ItemClickEventArgs e)
@@ -130,8 +130,8 @@ namespace RLink
                 Toast.MakeText(this, ex.Message, ToastLength.Short).Show();
             }
         }
-        
-        /// <summary>
+
+        /// <summary type="void" dos="private">
         /// Обрабодчик нажатия на кнопку для распознования новой ссылки.
         /// </summary>
         private void NewLinkButton_Click(object sender, EventArgs e)
@@ -147,8 +147,8 @@ namespace RLink
                 Toast.MakeText(this, ex.Message, ToastLength.Short).Show();
             }
         }
-        
-        /// <summary>
+
+        /// <summary type="void" dos="public">
         /// Обрабодчик получения разрешений.
         /// </summary>
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)

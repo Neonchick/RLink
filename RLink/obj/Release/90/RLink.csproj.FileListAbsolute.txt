@@ -838,3 +838,6 @@ C:\source\HSE\HyperRecog2\RLink\obj\Release\90\stamp\_CopyPdbFiles.stamp
 C:\source\HSE\HyperRecog2\RLink\obj\Release\90\stamp\_GenerateJavaStubs.stamp
 C:\source\HSE\HyperRecog2\RLink\obj\Release\90\stamp\_GeneratePackageManagerJava.stamp
 C:\source\HSE\HyperRecog2\RLink\obj\Release\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\source\HSE\HyperRecog2\RLink\bin\Release\ResponseLIb.xml
+C:\source\HSE\HyperRecog2\RLink\bin\Release\SQLLib.xml
+C:\source\HSE\HyperRecog2\RLink\bin\Release\RLink.xml

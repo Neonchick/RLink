@@ -67,3 +67,4 @@ C:\source\HSE\HyperRecog2\SQLLib\bin\Release\Xamarin.Essentials.dll
 C:\source\HSE\HyperRecog2\SQLLib\bin\Release\Xamarin.Essentials.pdb
 C:\source\HSE\HyperRecog2\SQLLib\obj\Release\_VerifyXamarinAndroidSupportVersions.stamp
 C:\source\HSE\HyperRecog2\SQLLib\obj\Release\SQLLib.csprojAssemblyReference.cache
+C:\source\HSE\HyperRecog2\SQLLib\bin\Release\SQLLib.xml

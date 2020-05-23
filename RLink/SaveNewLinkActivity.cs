@@ -33,7 +33,7 @@ namespace RLink
         /// </summary>
         EditText description;
 
-        /// <summary>
+        /// <summary type="void" dos="protected">
         /// Обрабодчик создания Активити.
         /// </summary>
         protected override void OnCreate(Bundle savedInstanceState)
@@ -57,7 +57,7 @@ namespace RLink
             link.Text = Intent.GetStringExtra("saveNewLink");
         }
 
-        /// <summary>
+        /// <summary type="void" dos="private">
         /// Обрабодчик нажатия на кнопку сохранить.
         /// </summary>
         private void SaveButton_Click(object sender, EventArgs e)

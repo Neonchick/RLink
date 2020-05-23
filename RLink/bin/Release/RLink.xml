@@ -1,0 +1,444 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RLink</name>
+    </assembly>
+    <members>
+        <member name="T:RLink.ChooseActivity">
+            <summary>
+            Активити выбора ссылки.
+            </summary>
+        </member>
+        <member name="F:RLink.ChooseActivity.linkListView">
+            <summary>
+            Отображение списка ссылок.
+            </summary>
+        </member>
+        <member name="F:RLink.ChooseActivity.linkList">
+            <summary>
+            Список ссылок.
+            </summary>
+        </member>
+        <member name="M:RLink.ChooseActivity.OnCreate(Android.OS.Bundle)">
+            <summary type="void" dos="protected">
+            Обрабодчик создания активити.
+            </summary>
+        </member>
+        <member name="M:RLink.ChooseActivity.LinkListView_ItemClick(System.Object,Android.Widget.AdapterView.ItemClickEventArgs)">
+            <summary type="void" dos="private">
+            Обрабодчик нажатия на элемент списка.
+            </summary>
+        </member>
+        <member name="M:RLink.ChooseActivity.OnRequestPermissionsResult(System.Int32,System.String[],Android.Content.PM.Permission[])">
+            <summary type="void" dos="public">
+            Обрабодчик получения разрешений.
+            </summary>
+        </member>
+        <member name="T:RLink.ChangeActivity">
+            <summary>
+            Активити изменения сохраненнной ссылки.
+            </summary>
+        </member>
+        <member name="F:RLink.ChangeActivity.name">
+            <summary>
+            Текстовое поле имени.
+            </summary>
+        </member>
+        <member name="F:RLink.ChangeActivity.link">
+            <summary>
+            Текстовое поле ссылки.
+            </summary>
+        </member>
+        <member name="F:RLink.ChangeActivity.description">
+            <summary>
+            Текстовое поле описания.
+            </summary>
+        </member>
+        <member name="F:RLink.ChangeActivity.copyButton">
+            <summary>
+            Кнопка копировать.
+            </summary>
+        </member>
+        <member name="F:RLink.ChangeActivity.goToLinkButton">
+            <summary>
+            Кнопка перейти.
+            </summary>
+        </member>
+        <member name="F:RLink.ChangeActivity.shareButton">
+            <summary>
+            Кнопка поделится.
+            </summary>
+        </member>
+        <member name="F:RLink.ChangeActivity.saveButton">
+            <summary>
+            Кнопка сохранить.
+            </summary>
+        </member>
+        <member name="F:RLink.ChangeActivity.deleteButton">
+            <summary>
+            Кнопка удалить.
+            </summary>
+        </member>
+        <member name="F:RLink.ChangeActivity.buttonFlag">
+            <summary>
+            Флаг нажатия кнопки.
+            </summary>
+        </member>
+        <member name="M:RLink.ChangeActivity.OnCreate(Android.OS.Bundle)">
+            <summary type="void" dos="protected">
+            Обрабодчик создания активити.
+            </summary>
+        </member>
+        <member name="M:RLink.ChangeActivity.DeleteButton_Click(System.Object,System.EventArgs)">
+            <summary type="void" dos="private">
+            Обрабодчик нажатия на кнопку удалить.
+            </summary>
+        </member>
+        <member name="M:RLink.ChangeActivity.SaveButton_Click(System.Object,System.EventArgs)">
+            <summary type="void" dos="private">
+            Обрабодчик нажатия на кнопку сохранить.
+            </summary>
+        </member>
+        <member name="M:RLink.ChangeActivity.ShareButton_Click(System.Object,System.EventArgs)">
+            <summary type="void" dos="private">
+            Обрабодчик нажатия на кнопку поделиться. 
+            </summary>
+        </member>
+        <member name="M:RLink.ChangeActivity.GoToLinkButton_Click(System.Object,System.EventArgs)">
+            <summary type="void" dos="private">
+            Обрабодчик нажатия на кнопку перейти.
+            </summary>
+        </member>
+        <member name="M:RLink.ChangeActivity.CopyButton_Click(System.Object,System.EventArgs)">
+            <summary type="void" dos="private">
+            Обрабодчик нажатия на кнопку скопировать.
+            </summary>
+        </member>
+        <member name="M:RLink.ChangeActivity.OnRequestPermissionsResult(System.Int32,System.String[],Android.Content.PM.Permission[])">
+            <summary type="void" dos="public">
+            Обрабодчик получения разрешений.
+            </summary>
+        </member>
+        <member name="T:RLink.MyAdapter">
+            <summary>
+            Адаптер сохраненных ссылок.
+            </summary>
+        </member>
+        <member name="F:RLink.MyAdapter.list">
+            <summary>
+            Список элементов.
+            </summary>
+        </member>
+        <member name="F:RLink.MyAdapter.context">
+            <summary>
+            Контекст.
+            </summary>
+        </member>
+        <member name="M:RLink.MyAdapter.#ctor(Android.Content.Context,System.Collections.Generic.List{SQLLib.DBElem})">
+            <summary type="void" dos="public">
+            Коснтрукор.
+            </summary>
+            <param name="context">Контекст.</param>
+            <param name="list">Список элементов.</param>
+        </member>
+        <member name="P:RLink.MyAdapter.Count">
+            <summary type="int" dos="public">
+            Возвращет колличество элементов.
+            </summary>
+        </member>
+        <member name="P:RLink.MyAdapter.Item(System.Int32)">
+            <summary>
+            Индексатор.
+            </summary>
+            <param name="position">Номкр нужной позиции.</param>
+            <returns>Элемент с этим номером.</returns>
+        </member>
+        <member name="M:RLink.MyAdapter.GetView(System.Int32,Android.Views.View,Android.Views.ViewGroup)">
+            <summary type="View" dos="public">
+            Метод для получения отбображения элемента списка.
+            </summary>
+            <param name="position">Позиция</param>
+            <param name="convertView">Отображение.</param>
+            <param name="parent">Родитель.</param>
+            <returns>Отображение элемента.</returns>
+        </member>
+        <member name="M:RLink.MyAdapter.GetItemId(System.Int32)">
+            <summary type="long" dos="public">
+            Метод для получение позиции.
+            </summary>
+            <param name="position">Нужная позиция.</param>
+            <returns>Эта же позиция.</returns>
+        </member>
+        <member name="T:RLink.MyAdapterLittle">
+            <summary>
+            Адаптер списка распознанных ссылок.
+            </summary>
+        </member>
+        <member name="F:RLink.MyAdapterLittle.list">
+            <summary>
+            Список элементов.
+            </summary>
+        </member>
+        <member name="F:RLink.MyAdapterLittle.context">
+            <summary>
+            Контекст.
+            </summary>
+        </member>
+        <member name="M:RLink.MyAdapterLittle.#ctor(Android.Content.Context,System.Collections.Generic.List{System.String})">
+            <summary type="void" dos="public">
+            Коснтрукор.
+            </summary>
+            <param name="context">Контекст.</param>
+            <param name="list">Список элементов.</param>
+        </member>
+        <member name="P:RLink.MyAdapterLittle.Count">
+            <summary>
+            Возвращет колличество элементов.
+            </summary>
+        </member>
+        <member name="P:RLink.MyAdapterLittle.Item(System.Int32)">
+            <summary>
+            Индексатор.
+            </summary>
+            <param name="position">Номкр нужной позиции.</param>
+            <returns>Элемент с этим номером.</returns>
+        </member>
+        <member name="M:RLink.MyAdapterLittle.GetView(System.Int32,Android.Views.View,Android.Views.ViewGroup)">
+            <summary type="View" dos="public">
+            Метод для получения отбображения элемента списка.
+            </summary>
+            <param name="position">Позиция</param>
+            <param name="convertView">Отображение.</param>
+            <param name="parent">Родитель.</param>
+            <returns>Отображение элемента.</returns>
+        </member>
+        <member name="M:RLink.MyAdapterLittle.GetItemId(System.Int32)">
+            <summary type="long" dos="public">
+            Метод для получение позиции.
+            </summary>
+            <param name="position">Нужная позиция.</param>
+            <returns>Эта же позиция.</returns>
+        </member>
+        <member name="T:RLink.ResultActivity">
+            <summary>
+            Активити результата распознования.
+            </summary>
+        </member>
+        <member name="F:RLink.ResultActivity.link">
+            <summary>
+            Текствое поле ссылки.
+            </summary>
+        </member>
+        <member name="F:RLink.ResultActivity.copyButton">
+            <summary>
+            Кнопка копирования.
+            </summary>
+        </member>
+        <member name="F:RLink.ResultActivity.goToLinkButton">
+            <summary>
+            Кнопка перехода.
+            </summary>
+        </member>
+        <member name="F:RLink.ResultActivity.shareButton">
+            <summary>
+            Кнопка поделиться.
+            </summary>
+        </member>
+        <member name="F:RLink.ResultActivity.saveButton">
+            <summary>
+            Кнопка сохранения.
+            </summary>
+        </member>
+        <member name="F:RLink.ResultActivity.buttonFlag">
+            <summary>
+            Флаг нажатия кнопки.
+            </summary>
+        </member>
+        <member name="M:RLink.ResultActivity.OnCreate(Android.OS.Bundle)">
+            <summary type="void" dos="protected">
+            Обрабодчик создания актививти.
+            </summary>
+        </member>
+        <member name="M:RLink.ResultActivity.SaveButton_Click(System.Object,System.EventArgs)">
+            <summary type="void" dos="private">
+            Обрабодчик нажатия на кнопку сохранить.
+            </summary>
+        </member>
+        <member name="M:RLink.ResultActivity.ShareButton_Click(System.Object,System.EventArgs)">
+            <summary type="void" dos="private">
+            Обрабодчик нажатия на кнопку поделиться.
+            </summary>
+        </member>
+        <member name="M:RLink.ResultActivity.GoToLinkButton_Click(System.Object,System.EventArgs)">
+            <summary type="void" dos="private">
+            Обрабодчик нажатия на кнопку перейти.
+            </summary>
+        </member>
+        <member name="M:RLink.ResultActivity.CopyButton_Click(System.Object,System.EventArgs)">
+            <summary type="void" dos="private">
+            Обрабодчик нажатия на кнопку скопировать.
+            </summary>
+        </member>
+        <member name="M:RLink.ResultActivity.OnRequestPermissionsResult(System.Int32,System.String[],Android.Content.PM.Permission[])">
+            <summary type="void" dos="public">
+            Обрабодчик получения разрешений.
+            </summary>
+        </member>
+        <member name="T:RLink.RecognizeActivity">
+            <summary>
+            Активити для рапознования новой ссылки.
+            </summary>
+        </member>
+        <member name="F:RLink.RecognizeActivity.cameraButton">
+            <summary>
+            Кнопка сделать новое фото.
+            </summary>
+        </member>
+        <member name="F:RLink.RecognizeActivity.recogniseButton">
+            <summary>
+            Кнопка распознать ссылку.
+            </summary>
+        </member>
+        <member name="F:RLink.RecognizeActivity.uploadButton">
+            <summary>
+            Кнопка для загрузки изображения.
+            </summary>
+        </member>
+        <member name="F:RLink.RecognizeActivity.imageView">
+            <summary>
+            Место для загрузки изображения.
+            </summary>
+        </member>
+        <member name="F:RLink.RecognizeActivity.imageArray">
+            <summary>
+            Массив байтов для хранения изображения.
+            </summary>
+        </member>
+        <member name="F:RLink.RecognizeActivity.permissionGroup">
+            <summary>
+            Массив разрешений.
+            </summary>
+        </member>
+        <member name="F:RLink.RecognizeActivity.buttonFlag">
+            <summary>
+            Флаг нажатия кнопки.
+            </summary>
+        </member>
+        <member name="M:RLink.RecognizeActivity.OnCreate(Android.OS.Bundle)">
+            <summary type="void" dos="protected">
+            Обрабодчик создания Активити.
+            </summary>
+        </member>
+        <member name="M:RLink.RecognizeActivity.UploadButton_Click(System.Object,System.EventArgs)">
+            <summary type="void" dos="private">
+            Обрабодчик нажатия на кнопку для загрузки.
+            </summary>
+        </member>
+        <member name="M:RLink.RecognizeActivity.RecogniseButton_ClickAsync(System.Object,System.EventArgs)">
+            <summary type="void" dos="private">
+            Обрабодчик нажатия на кнопку распознать. 
+            </summary>
+        </member>
+        <member name="M:RLink.RecognizeActivity.MakeRequest(System.Collections.Generic.List{System.String})">
+            <summary type="Task" dos="private">
+            Метод для запроса к сервисам Компьютерного зрения.
+            </summary>
+            <param name="recognizedLinks">Распознанные ссылки.</param>
+        </member>
+        <member name="M:RLink.RecognizeActivity.CameraButton_Click(System.Object,System.EventArgs)">
+            <summary type="void" dos="private">
+            Обрабодчик нажатия на кнопку для новой фотографии.
+            </summary>
+        </member>
+        <member name="M:RLink.RecognizeActivity.OnRequestPermissionsResult(System.Int32,System.String[],Android.Content.PM.Permission[])">
+            <summary type="void" dos="public">
+            Обрабодчик получения разрешений.
+            </summary>
+        </member>
+        <member name="T:RLink.SavedActivity">
+            <summary>
+            Активити сохраненных ссылок.
+            </summary>
+        </member>
+        <member name="F:RLink.SavedActivity.newLinkButton">
+            <summary>
+            Кнопка распознать новую ссылку.
+            </summary>
+        </member>
+        <member name="F:RLink.SavedActivity.savedListView">
+            <summary>
+            Список сохраненных ссылок для отображения.
+            </summary>
+        </member>
+        <member name="F:RLink.SavedActivity.savedList">
+            <summary>
+            Список сохраненных ссылок из базы данных.
+            </summary>
+        </member>
+        <member name="F:RLink.SavedActivity.permissionGroup">
+            <summary>
+            Массив разрешений.
+            </summary>
+        </member>
+        <member name="M:RLink.SavedActivity.OnCreate(Android.OS.Bundle)">
+            <summary type="void" dos="protected">
+            Обрабодчик создания Активити.
+            </summary>
+        </member>
+        <member name="M:RLink.SavedActivity.OnResume">
+            <summary type="void" dos="protected">
+            Метод вызывающийся когда Активити становится активной.
+            </summary>
+        </member>
+        <member name="M:RLink.SavedActivity.SavedListView_ItemClick(System.Object,Android.Widget.AdapterView.ItemClickEventArgs)">
+            <summary type="void" dos="private">
+            Обрабодчик нажатия на элемент списка.
+            </summary>
+        </member>
+        <member name="M:RLink.SavedActivity.NewLinkButton_Click(System.Object,System.EventArgs)">
+            <summary type="void" dos="private">
+            Обрабодчик нажатия на кнопку для распознования новой ссылки.
+            </summary>
+        </member>
+        <member name="M:RLink.SavedActivity.OnRequestPermissionsResult(System.Int32,System.String[],Android.Content.PM.Permission[])">
+            <summary type="void" dos="public">
+            Обрабодчик получения разрешений.
+            </summary>
+        </member>
+        <member name="T:RLink.SaveNewLinkActivity">
+            <summary>
+            Активити сохранения новой ссылки.
+            </summary>
+        </member>
+        <member name="F:RLink.SaveNewLinkActivity.saveButton">
+            <summary>
+            Кнопка сохранить.
+            </summary>
+        </member>
+        <member name="F:RLink.SaveNewLinkActivity.name">
+            <summary>
+            Тесктовое поле имени.
+            </summary>
+        </member>
+        <member name="F:RLink.SaveNewLinkActivity.link">
+            <summary>
+            Тесктовое поле ссылки.
+            </summary>
+        </member>
+        <member name="F:RLink.SaveNewLinkActivity.description">
+            <summary>
+            Тесктовое поле описания.
+            </summary>
+        </member>
+        <member name="M:RLink.SaveNewLinkActivity.OnCreate(Android.OS.Bundle)">
+            <summary type="void" dos="protected">
+            Обрабодчик создания Активити.
+            </summary>
+        </member>
+        <member name="M:RLink.SaveNewLinkActivity.SaveButton_Click(System.Object,System.EventArgs)">
+            <summary type="void" dos="private">
+            Обрабодчик нажатия на кнопку сохранить.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -17,6 +17,7 @@ using System.Threading.Tasks;
 using System.Text;
 using Xamarin.Essentials;
 using System;
+using System.IO;
 
 namespace RLink
 {
@@ -68,7 +69,7 @@ namespace RLink
         /// </summary>
         bool buttonFlag = false;
 
-        /// <summary>
+        /// <summary type="void" dos="protected">
         /// Обрабодчик создания Активити.
         /// </summary>
         protected override void OnCreate(Bundle savedInstanceState)
@@ -100,7 +101,7 @@ namespace RLink
             RequestPermissions(permissionGroup, 0);
         }
 
-        /// <summary>
+        /// <summary type="void" dos="private">
         /// Обрабодчик нажатия на кнопку для загрузки.
         /// </summary>
         private async void UploadButton_Click(object sender, System.EventArgs e)
@@ -139,6 +140,24 @@ namespace RLink
                 // Считываем фото из файла.
                 imageArray = System.IO.File.ReadAllBytes(file.Path);
                 Bitmap bitmap = BitmapFactory.DecodeByteArray(imageArray, 0, imageArray.Length);
+                if (bitmap.ByteCount>=10000000)
+                {
+                    double k = bitmap.ByteCount / 10000000.0;
+
+                    // Вычисляем ширину и высоту изображения.
+                    int width = bitmap.Width;
+                    int height = bitmap.Height;
+
+                    int halfWidth = (int)(width / k);
+                    int halfHeight = (int)(height / k);
+
+                    bitmap = Bitmap.CreateScaledBitmap(bitmap, halfWidth,
+                            halfHeight, false);
+
+                    MemoryStream stream = new MemoryStream();
+                    bitmap.Compress(Bitmap.CompressFormat.Png, 0, stream);
+                    imageArray = stream.ToArray();
+                }
                 imageView.SetImageBitmap(bitmap);
             }
             catch (Exception ex)
@@ -149,7 +168,7 @@ namespace RLink
             buttonFlag = false;
         }
 
-        /// <summary>
+        /// <summary type="void" dos="private">
         /// Обрабодчик нажатия на кнопку распознать. 
         /// </summary>
         private async void RecogniseButton_ClickAsync(object sender, System.EventArgs e)
@@ -202,7 +221,7 @@ namespace RLink
             buttonFlag = false;
         }
 
-        /// <summary>
+        /// <summary type="Task" dos="private">
         /// Метод для запроса к сервисам Компьютерного зрения.
         /// </summary>
         /// <param name="recognizedLinks">Распознанные ссылки.</param>
@@ -267,7 +286,7 @@ namespace RLink
             client.Dispose();
         }
 
-        /// <summary>
+        /// <summary type="void" dos="private">
         /// Обрабодчик нажатия на кнопку для новой фотографии.
         /// </summary>
         private async void CameraButton_Click(object sender, System.EventArgs e)
@@ -301,6 +320,24 @@ namespace RLink
                 // Загрузка изображения на экран.
                 imageArray = System.IO.File.ReadAllBytes(file.Path);
                 Bitmap bitmap = BitmapFactory.DecodeByteArray(imageArray, 0, imageArray.Length);
+                if (bitmap.ByteCount >= 10000000)
+                {
+                    double k = bitmap.ByteCount / 10000000.0;
+
+                    // Вычисляем ширину и высоту изображения.
+                    int width = bitmap.Width;
+                    int height = bitmap.Height;
+
+                    int halfWidth = (int)(width / k);
+                    int halfHeight = (int)(height / k);
+
+                    bitmap = Bitmap.CreateScaledBitmap(bitmap, halfWidth,
+                            halfHeight, false);
+
+                    MemoryStream stream = new MemoryStream();
+                    bitmap.Compress(Bitmap.CompressFormat.Png, 0, stream);
+                    imageArray = stream.ToArray();
+                }
                 imageView.SetImageBitmap(bitmap);
             }
             catch (Exception ex)
@@ -311,7 +348,7 @@ namespace RLink
             buttonFlag = false;
         }
 
-        /// <summary>
+        /// <summary type="void" dos="public">
         /// Обрабодчик получения разрешений.
         /// </summary>
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)

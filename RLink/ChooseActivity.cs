@@ -25,7 +25,7 @@ namespace RLink
         /// </summary>
         List<string> linkList;
 
-        /// <summary>
+        /// <summary type="void" dos="protected">
         /// Обрабодчик создания активити.
         /// </summary>
         protected override void OnCreate(Bundle savedInstanceState)
@@ -44,7 +44,7 @@ namespace RLink
             linkListView.ItemClick += LinkListView_ItemClick;
         }
 
-        /// <summary>
+        /// <summary type="void" dos="private">
         /// Обрабодчик нажатия на элемент списка.
         /// </summary>
         private void LinkListView_ItemClick(object sender, AdapterView.ItemClickEventArgs e)
@@ -53,7 +53,7 @@ namespace RLink
             {
                 // Запускаем новую активити с выбранной ссылкой. 
                 Intent intent = new Intent(this, typeof(ResultActivity));
-                intent.PutExtra("recognizedLink", linkList[e.Position]); ;
+                intent.PutExtra("recognizedLink", linkList[e.Position]);
                 StartActivity(intent);
             }
             catch (Exception ex)
@@ -62,7 +62,7 @@ namespace RLink
             }
         }
 
-        /// <summary>
+        /// <summary type="void" dos="public">
         /// Обрабодчик получения разрешений.
         /// </summary>
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)

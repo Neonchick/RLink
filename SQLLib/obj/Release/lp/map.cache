@@ -70,3 +70,4 @@ System.Globalization
 System.Threading
 System.Xml.ReaderWriter
 System.Diagnostics.Tools
+System.Runtime.Handles

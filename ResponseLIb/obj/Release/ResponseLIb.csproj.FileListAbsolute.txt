@@ -67,3 +67,4 @@ C:\source\HSE\HyperRecog2\ResponseLIb\bin\Release\Xamarin.Essentials.dll
 C:\source\HSE\HyperRecog2\ResponseLIb\bin\Release\Xamarin.Essentials.pdb
 C:\source\HSE\HyperRecog2\ResponseLIb\obj\Release\_VerifyXamarinAndroidSupportVersions.stamp
 C:\source\HSE\HyperRecog2\ResponseLIb\obj\Release\ResponseLIb.csprojAssemblyReference.cache
+C:\source\HSE\HyperRecog2\ResponseLIb\bin\Release\ResponseLIb.xml
