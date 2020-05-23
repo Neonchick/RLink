@@ -1,61 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
+<ScrollView
+        android:id="@+id/scrollView"
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     style="@style/MyLayout">
-    <TextView
-        android:text="Имя:"
-        style = "@style/MyTextView"
-        android:id="@+id/loadNameTextView" />
-    <EditText
-        android:inputType="text"
-        style = "@style/RoundedCornerEditText"
-        android:id="@+id/loadNameEditText" />
-    <TextView
-        android:text="Cсылка:"
-        style = "@style/MyTextView"
-        android:id="@+id/loadLinkTextView" />
-    <EditText
-        android:inputType="textUri"
-        style = "@style/RoundedCornerEditText"
-        android:id="@+id/loadLinkEditText" />
-    <TextView
-        android:text="Описание:"
-        style = "@style/MyTextView"
-        android:id="@+id/loadDescriptionTextView" />
-    <LinearLayout
-        android:orientation="vertical"
-        android:minWidth="25px"
-        android:minHeight="25px"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/loadLinearLayout"
-        android:layout_weight="1">
-        <EditText
-            android:inputType="textMultiLine"
-            style = "@style/RoundedCornerEditText"
-            android:id="@+id/loadDescriptionEditText" />
-    </LinearLayout>
-    <Button
-        android:text="Копировать"
-        style="@style/RoundedCornerButton"
-        android:id="@+id/loadCopyButton" />
-    <Button
-        android:text="Перейти"
-        style="@style/RoundedCornerButton"
-        android:id="@+id/loadGoToLinkButton" />
-    <Button
-        android:text="Поделиться"
-        style="@style/RoundedCornerButton"
-        android:id="@+id/loadShareButton" />
-    <Button
-        android:text="Сохранить"
-        style="@style/RoundedCornerButton"
-        android:id="@+id/loadSaveButton" />
-    <Button
-        android:text="Удалить"
-        style="@style/RoundedCornerButton"
-        android:id="@+id/loadDeleteButton" />
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+            <TextView
+                android:text="Имя:"
+                style = "@style/MyTextView"
+                android:id="@+id/loadNameTextView" />
+            <EditText
+                android:inputType="text"
+                style = "@style/RoundedCornerEditText"
+                android:id="@+id/loadNameEditText" />
+            <TextView
+                android:text="Cсылка:"
+                style = "@style/MyTextView"
+                android:id="@+id/loadLinkTextView" />
+            <EditText
+                android:inputType="textUri"
+                style = "@style/RoundedCornerEditText"
+                android:id="@+id/loadLinkEditText" />
+            <TextView
+                android:text="Описание:"
+                style = "@style/MyTextView"
+                android:id="@+id/loadDescriptionTextView" />
+            <LinearLayout
+                android:orientation="vertical"
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/loadLinearLayout"
+                android:layout_marginBottom ="50dp">
+                <EditText
+                    android:inputType="textMultiLine"
+                    style = "@style/RoundedCornerEditText"
+                    android:id="@+id/loadDescriptionEditText" />
+            </LinearLayout>
+            <Button
+                android:text="Копировать"
+                android:width="200dp"
+                style="@style/RoundedCornerButton"
+                android:id="@+id/loadCopyButton"/>
+            <Button
+                android:text="Перейти"
+                style="@style/RoundedCornerButton"
+                android:id="@+id/loadGoToLinkButton" />
+            <Button
+                android:text="Поделиться"
+                style="@style/RoundedCornerButton"
+                android:id="@+id/loadShareButton" />
+            <Button
+                android:text="Сохранить"
+                style="@style/RoundedCornerButton"
+                android:id="@+id/loadSaveButton" />
+            <Button
+                android:text="Удалить"
+                style="@style/RoundedCornerButton"
+                android:id="@+id/loadDeleteButton" />
 </LinearLayout>
+</ScrollView>
